@@ -1,0 +1,939 @@
+{
+  "code": "0000",
+  "message": "成功",
+  "data": {
+    "school_id": "310",
+    "data_code": "312001400",
+    "name": "上海中医药大学",
+    "type": "5003",
+    "school_type": "6000",
+    "school_nature": "36000",
+    "level": "2001",
+    "code_enroll": "1026800",
+    "zs_code": "10268",
+    "belong": "上海市",
+    "f985": "2",
+    "f211": "2",
+    "department": "2",
+    "admissions": "2",
+    "central": "2",
+    "dual_class": "38000",
+    "is_seal": "1",
+    "applied_grade": "0",
+    "vocational": "2",
+    "num_subject": "0",
+    "num_master": "6",
+    "num_doctor": "3",
+    "num_academician": "3",
+    "num_library": "0.00万",
+    "num_lab": "0",
+    "province_id": "31",
+    "city_id": "3101",
+    "county_id": "310115",
+    "is_ads": "2",
+    "is_recruitment": "1",
+    "create_date": "1956",
+    "area": 500,
+    "old_name": "",
+    "is_fenxiao": "2",
+    "status": "1",
+    "ad_level": "1",
+    "short": "上海中医大",
+    "e_pc": "1",
+    "e_app": "1",
+    "ruanke_rank": "68",
+    "single": "",
+    "colleges_level": "",
+    "doublehigh": "0",
+    "wsl_rank": "0",
+    "qs_rank": "0",
+    "xyh_rank": "108",
+    "is_sell": "1",
+    "eol_rank": "83",
+    "school_batch": "7,14,10,51,52,1939,1570,1571",
+    "us_rank": "1449",
+    "is_logo": "1",
+    "num_master2": "3",
+    "num_doctor2": "0",
+    "ai_status": "1",
+    "is_ads2": "1",
+    "coop_money": "498000.00",
+    "bdold_name": "",
+    "college_employment": "1",
+    "xyq_id": "1390",
+    "senior_status": "2",
+    "senior_show": "1",
+    "is_upgrade": "2",
+    "view_total_show": "1",
+    "gb_show": "2",
+    "gbh_num": "0",
+    "motto": "",
+    "upgrading_rate": "0.00",
+    "recommend_master_rate": "6.60",
+    "recommend_master_level": 1.5,
+    "is_show_xcxcode": 2,
+    "master_arr": [
+      {
+        "name": "一级学科硕士学位授权点",
+        "num": "6"
+      },
+      {
+        "name": "二级学科硕士学位授权点",
+        "num": "3"
+      },
+      {
+        "name": "专业学位类别（领域）硕士学位授权点",
+        "num": "9"
+      }
+    ],
+    "doctor_arr": [
+      {
+        "name": "一级学科博士学位授权点",
+        "num": "3"
+      },
+      {
+        "name": "专业学位类别（领域）博士学位授权点",
+        "num": "1"
+      }
+    ],
+    "subject_arr": [
+      {
+        "name": "国家重点学科",
+        "num": "4"
+      },
+      {
+        "name": "国家重点学科（培育）",
+        "num": "2"
+      }
+    ],
+    "level_name": "本科",
+    "type_name": "医药类",
+    "school_type_name": "本科",
+    "school_nature_name": "公办",
+    "dual_class_name": "双一流",
+    "xueke_rank": {
+      "A+": "3"
+    },
+    "province_single": {},
+    "single_year": 2021,
+    "remark": [],
+    "province_name": "上海",
+    "city_name": "上海市",
+    "town_name": "浦东新区",
+    "weiwangzhan": "https://apps.eol.cn/394/index.html",
+    "yjszs": "https://www.kaoyan.cn/school/408",
+    "xiaoyuan": "",
+    "urllinks": {
+      "71013": {
+        "school_id": "310",
+        "link": "http://map.baidu.com/?panoid=09000300001504020436069815R&pid=09000300001504020436069815R&panotype=street&heading=342&pitch=0",
+        "type": "71013",
+        "img_url": "",
+        "title": ""
+      },
+      "71005": {
+        "school_id": "310",
+        "link": "https://answer.eol.cn/fillmess/index?id=874&source=zsgk_app",
+        "type": "71005",
+        "img_url": "",
+        "title": ""
+      },
+      "71006": {
+        "school_id": "310",
+        "link": "https://s11.cnzz.com/z_stat.php?id=1254838136&web_id=1254838136",
+        "type": "71006",
+        "img_url": "",
+        "title": ""
+      },
+      "71004": {
+        "school_id": "310",
+        "link": "https://www.kaoyan.cn/school/408",
+        "type": "71004",
+        "img_url": "",
+        "title": ""
+      },
+      "71001": {
+        "school_id": "310",
+        "link": "https://apps.eol.cn/394/index.html",
+        "type": "71001",
+        "img_url": "",
+        "title": ""
+      }
+    },
+    "email": "zhaosheng@shutcm.edu.cn",
+    "school_email": "",
+    "address": "上海市浦东新区蔡伦路1200号",
+    "postcode": "201203",
+    "site": "https://ygzs.shutcm.edu.cn/",
+    "school_site": "https://www.shutcm.edu.cn/",
+    "phone": "021-51322028",
+    "school_phone": "",
+    "miniprogram": "",
+    "content": "上海中医药大学成立于1956年，是新中国诞生后国家首批建立的四所中医药高等院校之一，是教育部、国家中医药管理局与上海市人民政府共建的高校，是“双一流”学科建设高校，也是上海市重点建设的高水平大学。学校位于浦东新区张江科学城核心板块，占地500余亩，教学设施齐全、环境优美。学校以主动对接国家战略、对接服务具有全球影响力的科技创新中心建设为己任",
+    "video": {
+      "school_id": "310",
+      "url": "https://vod.zjzw.cn/h3270835009541000606/snf3s9gptagfe4m8jtgyzllkbbjadb2p.mp4",
+      "url_type": 2,
+      "img_url": "https://static-data.gaokao.cn//upload/svideo/1686119871_8253_thumb.png"
+    },
+    "video_pc": {
+      "school_id": "310",
+      "url": "https://vod.zjzw.cn/h3270835009541000606/snf3s9gptagfe4m8jtgyzllkbbjadb2p.mp4",
+      "url_type": 2,
+      "img_url": "https://static-data.gaokao.cn//upload/svideo/1686119871_8253_thumb.png"
+    },
+    "is_video": 1,
+    "dualclass": [
+      {
+        "id": "719",
+        "school_id": "310",
+        "class": "中医学"
+      },
+      {
+        "id": "718",
+        "school_id": "310",
+        "class": "中药学"
+      }
+    ],
+    "school_special_num": 15,
+    "special": [
+      {
+        "id": "15853",
+        "school_id": "310",
+        "special_id": "278",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "五年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "1",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "1",
+        "ruanke_level": "A+",
+        "is_video": 2,
+        "special_name": "中西医临床医学",
+        "level_name": "本科(普通)"
+      },
+      {
+        "id": "15852",
+        "school_id": "310",
+        "special_id": "281",
+        "nation_feature": "1",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "四年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "1",
+        "xueke_rank": "2",
+        "xueke_rank_score": "A+",
+        "ruanke_rank": "1",
+        "ruanke_level": "A+",
+        "is_video": 1,
+        "special_name": "中药学",
+        "level_name": "本科(普通)"
+      },
+      {
+        "id": "15851",
+        "school_id": "310",
+        "special_id": "272",
+        "nation_feature": "1",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "五年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "1",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "2",
+        "ruanke_level": "A+",
+        "is_video": 1,
+        "special_name": "针灸推拿学",
+        "level_name": "本科(普通)"
+      },
+      {
+        "id": "15847",
+        "school_id": "310",
+        "special_id": "288",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "四年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "1",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "14",
+        "ruanke_level": "A",
+        "is_video": 2,
+        "special_name": "康复治疗学",
+        "level_name": "本科(普通)"
+      },
+      {
+        "id": "15848",
+        "school_id": "310",
+        "special_id": "1233",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "四年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "2",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "5",
+        "ruanke_level": "B",
+        "is_video": 2,
+        "special_name": "听力与言语康复学",
+        "level_name": "本科(普通)"
+      },
+      {
+        "id": "90340",
+        "school_id": "310",
+        "special_id": "8423",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "四年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "2",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "4",
+        "ruanke_level": "B",
+        "is_video": 2,
+        "special_name": "康复物理治疗",
+        "level_name": "本科(普通)"
+      },
+      {
+        "id": "90339",
+        "school_id": "310",
+        "special_id": "8424",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "四年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "2",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "9999",
+        "ruanke_level": "",
+        "is_video": 2,
+        "special_name": "康复作业治疗",
+        "level_name": "本科(普通)"
+      },
+      {
+        "id": "15841",
+        "school_id": "310",
+        "special_id": "269",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "五年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "2",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "9999",
+        "ruanke_level": "",
+        "is_video": 2,
+        "special_name": "预防医学",
+        "level_name": "本科(普通)"
+      },
+      {
+        "id": "15843",
+        "school_id": "310",
+        "special_id": "270",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "四年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "2",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "11",
+        "ruanke_level": "B",
+        "is_video": 2,
+        "special_name": "食品卫生与营养学",
+        "level_name": "本科(普通)"
+      },
+      {
+        "id": "15844",
+        "school_id": "310",
+        "special_id": "291",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "四年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "2",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "68",
+        "ruanke_level": "B",
+        "is_video": 2,
+        "special_name": "护理学",
+        "level_name": "本科(普通)"
+      }
+    ],
+    "nature_name": "公办",
+    "province_score_min": {
+      "11": {
+        "province_id": "11",
+        "type": "3",
+        "min": "631",
+        "year": "2024"
+      },
+      "14": {
+        "province_id": "14",
+        "type": "1",
+        "min": "566",
+        "year": "2024"
+      },
+      "32": {
+        "province_id": "32",
+        "type": "2073",
+        "min": "609",
+        "year": "2024"
+      },
+      "33": {
+        "province_id": "33",
+        "type": "3",
+        "min": "546",
+        "year": "2024"
+      },
+      "34": {
+        "province_id": "34",
+        "type": "2073",
+        "min": "588",
+        "year": "2024"
+      },
+      "35": {
+        "province_id": "35",
+        "type": "2073",
+        "min": "612",
+        "year": "2024"
+      },
+      "37": {
+        "province_id": "37",
+        "type": "3",
+        "min": "626",
+        "year": "2024"
+      },
+      "41": {
+        "province_id": "41",
+        "type": "1",
+        "min": "580",
+        "year": "2024"
+      },
+      "45": {
+        "province_id": "45",
+        "type": "2073",
+        "min": "573",
+        "year": "2024"
+      },
+      "46": {
+        "province_id": "46",
+        "type": "3",
+        "min": "483",
+        "year": "2024"
+      },
+      "51": {
+        "province_id": "51",
+        "type": "1",
+        "min": "550",
+        "year": "2024"
+      },
+      "52": {
+        "province_id": "52",
+        "type": "2073",
+        "min": "488",
+        "year": "2024"
+      },
+      "53": {
+        "province_id": "53",
+        "type": "1",
+        "min": "553",
+        "year": "2024"
+      },
+      "62": {
+        "province_id": "62",
+        "type": "2073",
+        "min": "543",
+        "year": "2024"
+      },
+      "65": {
+        "province_id": "65",
+        "type": "1",
+        "min": "425",
+        "year": "2024"
+      },
+      "31": {
+        "province_id": "31",
+        "type": "3",
+        "min": "529",
+        "year": "2024"
+      },
+      "63": {
+        "province_id": "63",
+        "type": "1",
+        "min": "437",
+        "year": "2022"
+      }
+    },
+    "pro_type_min": {
+      "11": [
+        {
+          "year": 2024,
+          "type": {
+            "3": "631"
+          }
+        },
+        {
+          "year": 2023,
+          "type": {
+            "3": "633"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "3": "634"
+          }
+        }
+      ],
+      "14": [
+        {
+          "year": 2024,
+          "type": {
+            "1": "566"
+          }
+        },
+        {
+          "year": 2023,
+          "type": {
+            "1": "576"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "1": "553"
+          }
+        }
+      ],
+      "32": [
+        {
+          "year": 2024,
+          "type": {
+            "2073": "609"
+          }
+        },
+        {
+          "year": 2023,
+          "type": {
+            "2073": "616"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "2073": "587"
+          }
+        }
+      ],
+      "33": [
+        {
+          "year": 2024,
+          "type": {
+            "3": "546"
+          }
+        },
+        {
+          "year": 2023,
+          "type": {
+            "3": "631"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "3": "625"
+          }
+        }
+      ],
+      "34": [
+        {
+          "year": 2024,
+          "type": {
+            "2073": "588"
+          }
+        },
+        {
+          "year": 2023,
+          "type": {
+            "1": "560"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "1": "565"
+          }
+        }
+      ],
+      "35": [
+        {
+          "year": 2024,
+          "type": {
+            "2073": "612"
+          }
+        },
+        {
+          "year": 2023,
+          "type": {
+            "2073": "597"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "2073": "588"
+          }
+        }
+      ],
+      "37": [
+        {
+          "year": 2024,
+          "type": {
+            "3": "626"
+          }
+        },
+        {
+          "year": 2023,
+          "type": {
+            "3": "640"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "3": "614"
+          }
+        }
+      ],
+      "41": [
+        {
+          "year": 2024,
+          "type": {
+            "1": "580"
+          }
+        },
+        {
+          "year": 2023,
+          "type": {
+            "1": "580"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "1": "537"
+          }
+        }
+      ],
+      "45": [
+        {
+          "year": 2024,
+          "type": {
+            "2073": "573"
+          }
+        },
+        {
+          "year": 2023,
+          "type": {
+            "1": "498"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "1": "515"
+          }
+        }
+      ],
+      "46": [
+        {
+          "year": 2024,
+          "type": {
+            "3": "483"
+          }
+        }
+      ],
+      "51": [
+        {
+          "year": 2024,
+          "type": {
+            "1": "550"
+          }
+        },
+        {
+          "year": 2023,
+          "type": {
+            "1": "563"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "1": "555"
+          }
+        }
+      ],
+      "52": [
+        {
+          "year": 2024,
+          "type": {
+            "2073": "488"
+          }
+        },
+        {
+          "year": 2023,
+          "type": {
+            "1": "532"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "1": "536"
+          }
+        }
+      ],
+      "53": [
+        {
+          "year": 2024,
+          "type": {
+            "1": "553"
+          }
+        },
+        {
+          "year": 2023,
+          "type": {
+            "1": "532"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "1": "524"
+          }
+        }
+      ],
+      "62": [
+        {
+          "year": 2024,
+          "type": {
+            "2073": "543"
+          }
+        },
+        {
+          "year": 2023,
+          "type": {
+            "1": "501"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "1": "512"
+          }
+        }
+      ],
+      "65": [
+        {
+          "year": 2024,
+          "type": {
+            "1": "425"
+          }
+        },
+        {
+          "year": 2023,
+          "type": {
+            "1": "468"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "1": "402"
+          }
+        }
+      ],
+      "31": [
+        {
+          "year": 2024,
+          "type": {
+            "3": "529"
+          }
+        },
+        {
+          "year": 2023,
+          "type": {
+            "3": "541"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "3": "519"
+          }
+        }
+      ],
+      "63": [
+        {
+          "year": 2022,
+          "type": {
+            "1": "437"
+          }
+        }
+      ]
+    },
+    "pro_type": {
+      "11": [
+        "3"
+      ],
+      "14": [
+        "1"
+      ],
+      "32": [
+        "2073"
+      ],
+      "33": [
+        "3"
+      ],
+      "34": [
+        "2073",
+        "1"
+      ],
+      "35": [
+        "2073"
+      ],
+      "37": [
+        "3"
+      ],
+      "41": [
+        "1"
+      ],
+      "45": [
+        "2073",
+        "1"
+      ],
+      "46": [
+        "3"
+      ],
+      "51": [
+        "1"
+      ],
+      "52": [
+        "2073",
+        "1"
+      ],
+      "53": [
+        "1"
+      ],
+      "62": [
+        "2073",
+        "1"
+      ],
+      "65": [
+        "1"
+      ],
+      "31": [
+        "3"
+      ],
+      "63": [
+        "1"
+      ]
+    },
+    "province_score_year": "2024",
+    "qs_world": "0",
+    "rank": {
+      "ruanke_rank": "68",
+      "xyh_rank": "108",
+      "qs_world": "0",
+      "us_rank": "1449",
+      "rk_mb": "0",
+      "rk_dl": "0",
+      "rk_zw": "0",
+      "rk_yy": "0",
+      "rk_cj": "0",
+      "rk_yuy": "0",
+      "rk_zf": "0",
+      "rk_ty": "0",
+      "rk_mz": "0",
+      "xyh_gz_1": "0",
+      "xyh_gz_2": "0",
+      "xyh_gz_3": "0",
+      "xyh_mb_1": "0",
+      "xyh_mb_2": "0",
+      "xyh_mb_3": "0",
+      "tws_china": "0"
+    },
+    "fenxiao": [
+      {
+        "fx_name": "校本部",
+        "yuanxi": []
+      }
+    ],
+    "gbh_url": "https://heec.cahe.edu.cn/school/280",
+    "is_yikao": 2,
+    "yk_feature": [],
+    "yk_type": [],
+    "is_international_undergraduate": 2,
+    "is_evaluation": 1,
+    "is_special_project": 2,
+    "single_province": {
+      "31": {
+        "single": [
+          {
+            "single": "75004",
+            "single_name": "春季高考",
+            "rank": null
+          },
+          {
+            "single": "75003",
+            "single_name": "自主招生",
+            "rank": "19"
+          }
+        ],
+        "75004": {
+          "bmrk": "https://www.shmeea.edu.cn/page/index.html",
+          "cjcx": "https://www.shmeea.edu.cn/page/index.html",
+          "lqcx": "https://ygzs.shutcm.edu.cn/#/index",
+          "year": "2025"
+        },
+        "year": "2025",
+        "75003": {
+          "bmrk": "https://www.shmeea.edu.cn/",
+          "cjcx": "https://ygzs.shutcm.edu.cn/#/index",
+          "lqcx": "https://ygzs.shutcm.edu.cn/#/index",
+          "year": "2023"
+        }
+      }
+    }
+  },
+  "md5": "18455c6bfc28d4644c168194351b13e6"
+}

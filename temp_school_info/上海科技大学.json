@@ -1,0 +1,725 @@
+{
+  "code": "0000",
+  "message": "成功",
+  "data": {
+    "school_id": "3151",
+    "data_code": "312010400",
+    "name": "上海科技大学",
+    "type": "5001",
+    "school_type": "6000",
+    "school_nature": "36000",
+    "level": "2001",
+    "code_enroll": "1442300",
+    "zs_code": "14423",
+    "belong": "上海市 中国科学院",
+    "f985": "2",
+    "f211": "2",
+    "department": "2",
+    "admissions": "2",
+    "central": "2",
+    "dual_class": "38000",
+    "is_seal": "1",
+    "applied_grade": "0",
+    "vocational": "2",
+    "num_subject": "0",
+    "num_master": "9",
+    "num_doctor": "6",
+    "num_academician": "0",
+    "num_library": "0.00万",
+    "num_lab": "1",
+    "province_id": "31",
+    "city_id": "3101",
+    "county_id": "310115",
+    "is_ads": "2",
+    "is_recruitment": "1",
+    "create_date": "2013",
+    "area": 900,
+    "old_name": "",
+    "is_fenxiao": "2",
+    "status": "1",
+    "ad_level": "1",
+    "short": "上科大,ShanghaiTech",
+    "e_pc": "1",
+    "e_app": "1",
+    "ruanke_rank": "41",
+    "single": "",
+    "colleges_level": "",
+    "doublehigh": "0",
+    "wsl_rank": "0",
+    "qs_rank": "0",
+    "xyh_rank": "26",
+    "is_sell": "2",
+    "eol_rank": "0",
+    "school_batch": "6,86,36",
+    "us_rank": "330",
+    "is_logo": "1",
+    "num_master2": "0",
+    "num_doctor2": "0",
+    "ai_status": "1",
+    "is_ads2": "2",
+    "coop_money": "0.00",
+    "bdold_name": "",
+    "college_employment": "1",
+    "xyq_id": "2054",
+    "senior_status": "2",
+    "senior_show": "1",
+    "is_upgrade": "2",
+    "view_total_show": "1",
+    "gb_show": "2",
+    "gbh_num": "0",
+    "motto": "",
+    "upgrading_rate": "0.00",
+    "recommend_master_rate": "41.56",
+    "recommend_master_level": 5,
+    "is_show_xcxcode": 2,
+    "master_arr": [
+      {
+        "name": "一级学科硕士学位授权点",
+        "num": "9"
+      },
+      {
+        "name": "硕士专业学位授权类别",
+        "num": "5"
+      }
+    ],
+    "doctor_arr": [
+      {
+        "name": "一级学科博士学位授权点",
+        "num": "6"
+      },
+      {
+        "name": "博士专业学位授权类别",
+        "num": "3"
+      }
+    ],
+    "subject_arr": [],
+    "level_name": "本科",
+    "type_name": "理工类",
+    "school_type_name": "本科",
+    "school_nature_name": "公办",
+    "dual_class_name": "双一流",
+    "xueke_rank": {},
+    "province_single": {},
+    "single_year": 2021,
+    "remark": [],
+    "province_name": "上海",
+    "city_name": "上海市",
+    "town_name": "浦东新区",
+    "weiwangzhan": "",
+    "yjszs": "https://www.kaoyan.cn/school/1407",
+    "xiaoyuan": "",
+    "urllinks": {
+      "71004": {
+        "school_id": "3151",
+        "link": "https://www.kaoyan.cn/school/1407",
+        "type": "71004",
+        "img_url": "",
+        "title": ""
+      }
+    },
+    "email": "admission@shanghaitech.edu.cn",
+    "school_email": "",
+    "address": "浦东校区：上海市浦东新区华夏中路393号,岳阳路校区：上海市徐汇区岳阳路319号8号楼",
+    "postcode": "201210",
+    "site": "https://admission.shanghaitech.edu.cn/",
+    "school_site": "https://www.shanghaitech.edu.cn/",
+    "phone": "400-920-9393",
+    "school_phone": "",
+    "miniprogram": "",
+    "content": "上海科技大学（中文简称：上科大，英文全称：ShanghaiTechUniversity，英文缩写：ShanghaiTech）是由上海市人民政府与中国科学院共同举办、共同建设，由上海市人民政府负责日常管理的全日制普通高等学校。自建立以来，学校努力建设和发展成为一所小规模、高水平、国际化的研究型、创新型大学。2022年2月入选第二轮“双一流”建设高校。上科大的孕育和成长始终与我国的改革",
+    "video": {
+      "school_id": "3151",
+      "url": "https://vod.zjzw.cn/h5285890782277835314/e7n10fpz39a4pfqxotg4rnumlldqxhek.mp4",
+      "url_type": 2,
+      "img_url": "https://static-data.gaokao.cn//upload/svideo/piliang_3151_thumb.jpg"
+    },
+    "video_pc": {
+      "school_id": "3151",
+      "url": "https://vod.zjzw.cn/h5285890782277835314/e7n10fpz39a4pfqxotg4rnumlldqxhek.mp4",
+      "url_type": 2,
+      "img_url": "https://static-data.gaokao.cn//upload/svideo/piliang_3151_thumb.jpg"
+    },
+    "is_video": 1,
+    "dualclass": [
+      {
+        "id": "482",
+        "school_id": "3151",
+        "class": "材料科学与工程"
+      }
+    ],
+    "school_special_num": 12,
+    "special": [
+      {
+        "id": "168818",
+        "school_id": "3151",
+        "special_id": "116",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "1",
+        "limit_year": "四年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "2",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "132",
+        "ruanke_level": "B",
+        "is_video": 2,
+        "special_name": "数学与应用数学",
+        "level_name": "本科(普通)"
+      },
+      {
+        "id": "1668670",
+        "school_id": "3151",
+        "special_id": "136",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "四年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "2",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "9999",
+        "ruanke_level": "",
+        "is_video": 2,
+        "special_name": "生物科学",
+        "level_name": "本科(普通)"
+      },
+      {
+        "id": "1668675",
+        "school_id": "3151",
+        "special_id": "121",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "四年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "2",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "9999",
+        "ruanke_level": "",
+        "is_video": 2,
+        "special_name": "化学",
+        "level_name": "本科(普通)"
+      },
+      {
+        "id": "1747068",
+        "school_id": "3151",
+        "special_id": "118",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "四年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "2",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "9999",
+        "ruanke_level": "",
+        "is_video": 2,
+        "special_name": "物理学",
+        "level_name": "本科(普通)"
+      },
+      {
+        "id": "1747069",
+        "school_id": "3151",
+        "special_id": "155",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "四年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "2",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "9999",
+        "ruanke_level": "",
+        "is_video": 2,
+        "special_name": "材料科学与工程",
+        "level_name": "本科(普通)"
+      },
+      {
+        "id": "1747070",
+        "school_id": "3151",
+        "special_id": "235",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "四年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "2",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "9999",
+        "ruanke_level": "",
+        "is_video": 2,
+        "special_name": "生物医学工程",
+        "level_name": "本科(普通)"
+      },
+      {
+        "id": "1747071",
+        "school_id": "3151",
+        "special_id": "172",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "四年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "1",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "9999",
+        "ruanke_level": "",
+        "is_video": 2,
+        "special_name": "计算机科学与技术",
+        "level_name": "本科(普通)"
+      },
+      {
+        "id": "1747072",
+        "school_id": "3151",
+        "special_id": "165",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "四年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "2",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "9999",
+        "ruanke_level": "",
+        "is_video": 2,
+        "special_name": "电子信息工程",
+        "level_name": "本科(普通)"
+      },
+      {
+        "id": "1469076",
+        "school_id": "3151",
+        "special_id": "150",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "四年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "2",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "9999",
+        "ruanke_level": "",
+        "is_video": 2,
+        "special_name": "工业设计",
+        "level_name": "本科(普通)"
+      },
+      {
+        "id": "1673375",
+        "school_id": "3151",
+        "special_id": "292",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "四年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "2",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "9999",
+        "ruanke_level": "",
+        "is_video": 2,
+        "special_name": "管理科学",
+        "level_name": "本科(普通)"
+      }
+    ],
+    "nature_name": "公办",
+    "province_score_min": {
+      "11": {
+        "province_id": "11",
+        "type": "3",
+        "min": "660",
+        "year": "2024"
+      },
+      "12": {
+        "province_id": "12",
+        "type": "3",
+        "min": "656",
+        "year": "2024"
+      },
+      "21": {
+        "province_id": "21",
+        "type": "2073",
+        "min": "660",
+        "year": "2024"
+      },
+      "32": {
+        "province_id": "32",
+        "type": "2073",
+        "min": "665",
+        "year": "2024"
+      },
+      "33": {
+        "province_id": "33",
+        "type": "3",
+        "min": "671",
+        "year": "2024"
+      },
+      "35": {
+        "province_id": "35",
+        "type": "2073",
+        "min": "661",
+        "year": "2024"
+      },
+      "36": {
+        "province_id": "36",
+        "type": "2073",
+        "min": "639",
+        "year": "2024"
+      },
+      "37": {
+        "province_id": "37",
+        "type": "3",
+        "min": "647",
+        "year": "2024"
+      },
+      "41": {
+        "province_id": "41",
+        "type": "1",
+        "min": "639",
+        "year": "2024"
+      },
+      "42": {
+        "province_id": "42",
+        "type": "2073",
+        "min": "587",
+        "year": "2024"
+      },
+      "43": {
+        "province_id": "43",
+        "type": "2073",
+        "min": "638",
+        "year": "2024"
+      },
+      "50": {
+        "province_id": "50",
+        "type": "2073",
+        "min": "662",
+        "year": "2024"
+      },
+      "51": {
+        "province_id": "51",
+        "type": "1",
+        "min": "661",
+        "year": "2024"
+      },
+      "52": {
+        "province_id": "52",
+        "type": "2073",
+        "min": "639",
+        "year": "2024"
+      },
+      "53": {
+        "province_id": "53",
+        "type": "1",
+        "min": "636",
+        "year": "2024"
+      },
+      "61": {
+        "province_id": "61",
+        "type": "1",
+        "min": "642",
+        "year": "2024"
+      },
+      "62": {
+        "province_id": "62",
+        "type": "2073",
+        "min": "630",
+        "year": "2024"
+      },
+      "31": {
+        "province_id": "31",
+        "type": "3",
+        "min": "583",
+        "year": "2024"
+      }
+    },
+    "pro_type_min": {
+      "11": [
+        {
+          "year": 2024,
+          "type": {
+            "3": "660"
+          }
+        },
+        {
+          "year": 2023,
+          "type": {
+            "3": "653"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "3": "646"
+          }
+        }
+      ],
+      "12": [
+        {
+          "year": 2024,
+          "type": {
+            "3": "656"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "3": "664"
+          }
+        }
+      ],
+      "21": [
+        {
+          "year": 2024,
+          "type": {
+            "2073": "660"
+          }
+        }
+      ],
+      "32": [
+        {
+          "year": 2024,
+          "type": {
+            "2073": "665"
+          }
+        }
+      ],
+      "33": [
+        {
+          "year": 2024,
+          "type": {
+            "3": "671"
+          }
+        }
+      ],
+      "35": [
+        {
+          "year": 2024,
+          "type": {
+            "2073": "661"
+          }
+        }
+      ],
+      "36": [
+        {
+          "year": 2024,
+          "type": {
+            "2073": "639"
+          }
+        }
+      ],
+      "37": [
+        {
+          "year": 2024,
+          "type": {
+            "3": "647"
+          }
+        }
+      ],
+      "41": [
+        {
+          "year": 2024,
+          "type": {
+            "1": "639"
+          }
+        }
+      ],
+      "42": [
+        {
+          "year": 2024,
+          "type": {
+            "2073": "587"
+          }
+        }
+      ],
+      "43": [
+        {
+          "year": 2024,
+          "type": {
+            "2073": "638"
+          }
+        }
+      ],
+      "50": [
+        {
+          "year": 2024,
+          "type": {
+            "2073": "662"
+          }
+        }
+      ],
+      "51": [
+        {
+          "year": 2024,
+          "type": {
+            "1": "661"
+          }
+        }
+      ],
+      "52": [
+        {
+          "year": 2024,
+          "type": {
+            "2073": "639"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "1": "606"
+          }
+        }
+      ],
+      "53": [
+        {
+          "year": 2024,
+          "type": {
+            "1": "636"
+          }
+        }
+      ],
+      "61": [
+        {
+          "year": 2024,
+          "type": {
+            "1": "642"
+          }
+        }
+      ],
+      "62": [
+        {
+          "year": 2024,
+          "type": {
+            "2073": "630"
+          }
+        }
+      ],
+      "31": [
+        {
+          "year": 2024,
+          "type": {
+            "3": "583"
+          }
+        }
+      ]
+    },
+    "pro_type": {
+      "11": [
+        "3"
+      ],
+      "12": [
+        "3"
+      ],
+      "21": [
+        "2073"
+      ],
+      "32": [
+        "2073"
+      ],
+      "33": [
+        "3"
+      ],
+      "35": [
+        "2073"
+      ],
+      "36": [
+        "2073"
+      ],
+      "37": [
+        "3"
+      ],
+      "41": [
+        "1"
+      ],
+      "42": [
+        "2073"
+      ],
+      "43": [
+        "2073"
+      ],
+      "50": [
+        "2073"
+      ],
+      "51": [
+        "1"
+      ],
+      "52": [
+        "2073",
+        "1"
+      ],
+      "53": [
+        "1"
+      ],
+      "61": [
+        "1"
+      ],
+      "62": [
+        "2073"
+      ],
+      "31": [
+        "3"
+      ]
+    },
+    "province_score_year": "2024",
+    "qs_world": "0",
+    "rank": {
+      "ruanke_rank": "41",
+      "xyh_rank": "26",
+      "qs_world": "0",
+      "us_rank": "330",
+      "rk_mb": "0",
+      "rk_dl": "0",
+      "rk_zw": "0",
+      "rk_yy": "0",
+      "rk_cj": "0",
+      "rk_yuy": "0",
+      "rk_zf": "0",
+      "rk_ty": "0",
+      "rk_mz": "0",
+      "xyh_gz_1": "0",
+      "xyh_gz_2": "0",
+      "xyh_gz_3": "0",
+      "xyh_mb_1": "0",
+      "xyh_mb_2": "0",
+      "xyh_mb_3": "0",
+      "tws_china": "0"
+    },
+    "fenxiao": [
+      {
+        "fx_name": "浦东校区",
+        "yuanxi": []
+      },
+      {
+        "fx_name": "岳阳路校区",
+        "yuanxi": []
+      }
+    ],
+    "gbh_url": "https://heec.cahe.edu.cn/school/1472",
+    "is_yikao": 2,
+    "yk_feature": [],
+    "yk_type": [],
+    "is_international_undergraduate": 2,
+    "is_evaluation": 1,
+    "is_special_project": 2,
+    "single_province": {}
+  },
+  "md5": "4cfac3e1538674b507c2295ac620f120"
+}

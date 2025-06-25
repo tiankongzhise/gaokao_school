@@ -1,0 +1,731 @@
+{
+  "code": "0000",
+  "message": "成功",
+  "data": {
+    "school_id": "1734",
+    "data_code": "452002600",
+    "name": "广西警察学院",
+    "type": "5007",
+    "school_type": "6000",
+    "school_nature": "36000",
+    "level": "2001",
+    "code_enroll": "1352000",
+    "zs_code": "13520",
+    "belong": "广西壮族自治区",
+    "f985": "2",
+    "f211": "2",
+    "department": "2",
+    "admissions": "2",
+    "central": "2",
+    "dual_class": "38003",
+    "is_seal": "1",
+    "applied_grade": "0",
+    "vocational": "2",
+    "num_subject": "0",
+    "num_master": "0",
+    "num_doctor": "0",
+    "num_academician": "0",
+    "num_library": "0.00万",
+    "num_lab": "0",
+    "province_id": "45",
+    "city_id": "4501",
+    "county_id": "0",
+    "is_ads": "2",
+    "is_recruitment": "1",
+    "create_date": "1950",
+    "area": 1092,
+    "old_name": "广西警官高等专科学校",
+    "is_fenxiao": "2",
+    "status": "1",
+    "ad_level": "2",
+    "short": "广西警院,GXPC",
+    "e_pc": "1",
+    "e_app": "1",
+    "ruanke_rank": "500+",
+    "single": "",
+    "colleges_level": "",
+    "doublehigh": "0",
+    "wsl_rank": "0",
+    "qs_rank": "0",
+    "xyh_rank": "510",
+    "is_sell": "2",
+    "eol_rank": "810",
+    "school_batch": "8,10,44,14",
+    "us_rank": "0",
+    "is_logo": "1",
+    "num_master2": "0",
+    "num_doctor2": "0",
+    "ai_status": "1",
+    "is_ads2": "2",
+    "coop_money": "0.00",
+    "bdold_name": "",
+    "college_employment": "1",
+    "xyq_id": "2584",
+    "senior_status": "2",
+    "senior_show": "1",
+    "is_upgrade": "2",
+    "view_total_show": "1",
+    "gb_show": "2",
+    "gbh_num": "0",
+    "motto": "",
+    "upgrading_rate": "0.00",
+    "recommend_master_rate": "0.00",
+    "is_show_xcxcode": 2,
+    "master_arr": [],
+    "doctor_arr": [],
+    "subject_arr": [],
+    "level_name": "本科",
+    "type_name": "政法类",
+    "school_type_name": "本科",
+    "school_nature_name": "公办",
+    "dual_class_name": "",
+    "xueke_rank": {},
+    "province_single": {},
+    "single_year": 2021,
+    "remark": [],
+    "province_name": "广西",
+    "city_name": "南宁市",
+    "town_name": "",
+    "weiwangzhan": "",
+    "yjszs": "",
+    "xiaoyuan": "",
+    "urllinks": {
+      "71006": {
+        "school_id": "1734",
+        "link": "https://s4.cnzz.com/z_stat.php?id=1254896538&web_id=1254896538",
+        "type": "71006",
+        "img_url": "",
+        "title": ""
+      }
+    },
+    "email": "gxjcxyzsb@163.com",
+    "school_email": "",
+    "address": "仙葫校区：广西壮族自治区南宁市青秀区军堂路6号,五合校区：广西壮族自治区南宁市青秀区五合大道7号,长湖校区：广西壮族自治区南宁市青秀区长湖路6号",
+    "postcode": "530028",
+    "site": "https://www.gxjcxy.com/zsxx1",
+    "school_site": "http://www.gxjcxy.edu.cn/",
+    "phone": "0771-2859712",
+    "school_phone": "",
+    "miniprogram": "",
+    "content": "广西警察学院是广西壮族自治区人民政府举办的普通高等本科院校，由自治区公安厅主管，教育教学业务接受自治区教育厅指导。学校前身为1950年1月成立的中共广西省委社会部政训队，历经广西省公安学校、广西公安干部学校、广西政法公安学校、广西政法干部学校、广西人民警察学校和广西公安管理干部学院等发展阶段，2003年改制为广西警官高等专科学校，2015年升格为广",
+    "video": {},
+    "video_pc": {
+      "school_id": "1734",
+      "url": "",
+      "url_type": "1",
+      "img_url": "https://static-data.gaokao.cn//upload/svideo/1611820107_2969_thumb.jpg"
+    },
+    "is_video": 1,
+    "dualclass": [],
+    "school_special_num": 36,
+    "special": [
+      {
+        "id": "2043649",
+        "school_id": "1734",
+        "special_id": "9058",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "三年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "2",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "9999",
+        "ruanke_level": "",
+        "is_video": 2,
+        "special_name": "信息安全技术应用",
+        "level_name": "专科(高职)"
+      },
+      {
+        "id": "135181",
+        "school_id": "1734",
+        "special_id": "783",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "三年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "2",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "9999",
+        "ruanke_level": "",
+        "is_video": 2,
+        "special_name": "计算机应用技术",
+        "level_name": "专科(高职)"
+      },
+      {
+        "id": "1130779",
+        "school_id": "1734",
+        "special_id": "1106",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "四年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "2",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "9999",
+        "ruanke_level": "",
+        "is_video": 2,
+        "special_name": "知识产权",
+        "level_name": "本科(普通)"
+      },
+      {
+        "id": "1130780",
+        "school_id": "1734",
+        "special_id": "1283",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "四年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "2",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "9999",
+        "ruanke_level": "",
+        "is_video": 2,
+        "special_name": "数据科学与大数据技术",
+        "level_name": "本科(普通)"
+      },
+      {
+        "id": "2160158",
+        "school_id": "1734",
+        "special_id": "1113",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "四年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "2",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "9999",
+        "ruanke_level": "",
+        "is_video": 2,
+        "special_name": "禁毒学",
+        "level_name": "本科(普通)"
+      },
+      {
+        "id": "2160159",
+        "school_id": "1734",
+        "special_id": "1121",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "四年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "2",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "9999",
+        "ruanke_level": "",
+        "is_video": 2,
+        "special_name": "公安管理学",
+        "level_name": "本科(普通)"
+      },
+      {
+        "id": "2160160",
+        "school_id": "1734",
+        "special_id": "1200",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "四年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "2",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "9999",
+        "ruanke_level": "",
+        "is_video": 2,
+        "special_name": "交通管理工程",
+        "level_name": "本科(普通)"
+      },
+      {
+        "id": "2160161",
+        "school_id": "1734",
+        "special_id": "1205",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "四年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "2",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "9999",
+        "ruanke_level": "",
+        "is_video": 2,
+        "special_name": "网络安全与执法",
+        "level_name": "本科(普通)"
+      },
+      {
+        "id": "578855",
+        "school_id": "1734",
+        "special_id": "1107",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "四年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "2",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "9999",
+        "ruanke_level": "",
+        "is_video": 2,
+        "special_name": "监狱学",
+        "level_name": "本科(普通)"
+      },
+      {
+        "id": "788264",
+        "school_id": "1734",
+        "special_id": "741",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "三年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "2",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "9999",
+        "ruanke_level": "",
+        "is_video": 2,
+        "special_name": "民航安全技术管理",
+        "level_name": "专科(高职)"
+      }
+    ],
+    "nature_name": "公办",
+    "province_score_min": {
+      "13": {
+        "province_id": "13",
+        "type": "2073",
+        "min": "417",
+        "year": "2024"
+      },
+      "14": {
+        "province_id": "14",
+        "type": "1",
+        "min": "443",
+        "year": "2024"
+      },
+      "34": {
+        "province_id": "34",
+        "type": "2073",
+        "min": "423",
+        "year": "2024"
+      },
+      "36": {
+        "province_id": "36",
+        "type": "2073",
+        "min": "509",
+        "year": "2024"
+      },
+      "37": {
+        "province_id": "37",
+        "type": "3",
+        "min": "425",
+        "year": "2024"
+      },
+      "41": {
+        "province_id": "41",
+        "type": "1",
+        "min": "487",
+        "year": "2024"
+      },
+      "43": {
+        "province_id": "43",
+        "type": "2073",
+        "min": "491",
+        "year": "2024"
+      },
+      "45": {
+        "province_id": "45",
+        "type": "2073",
+        "min": "439",
+        "year": "2024"
+      },
+      "52": {
+        "province_id": "52",
+        "type": "2073",
+        "min": "478",
+        "year": "2024"
+      },
+      "53": {
+        "province_id": "53",
+        "type": "1",
+        "min": "489",
+        "year": "2024"
+      },
+      "61": {
+        "province_id": "61",
+        "type": "1",
+        "min": "453",
+        "year": "2024"
+      },
+      "62": {
+        "province_id": "62",
+        "type": "2073",
+        "min": "443",
+        "year": "2024"
+      }
+    },
+    "pro_type_min": {
+      "13": [
+        {
+          "year": 2024,
+          "type": {
+            "2073": "417",
+            "2074": "362"
+          }
+        },
+        {
+          "year": 2023,
+          "type": {
+            "2073": "522",
+            "2074": "505"
+          }
+        }
+      ],
+      "14": [
+        {
+          "year": 2024,
+          "type": {
+            "2": "470",
+            "1": "443"
+          }
+        },
+        {
+          "year": 2023,
+          "type": {
+            "2": "436",
+            "1": "414"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "2": "477",
+            "1": "435"
+          }
+        }
+      ],
+      "34": [
+        {
+          "year": 2024,
+          "type": {
+            "2073": "423",
+            "2074": "376"
+          }
+        }
+      ],
+      "36": [
+        {
+          "year": 2024,
+          "type": {
+            "2074": "527",
+            "2073": "509"
+          }
+        },
+        {
+          "year": 2023,
+          "type": {
+            "2": "508",
+            "1": "491"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "2": "518",
+            "1": "482"
+          }
+        }
+      ],
+      "37": [
+        {
+          "year": 2024,
+          "type": {
+            "3": "425"
+          }
+        },
+        {
+          "year": 2023,
+          "type": {
+            "3": "425"
+          }
+        }
+      ],
+      "41": [
+        {
+          "year": 2024,
+          "type": {
+            "2": "512",
+            "1": "487"
+          }
+        },
+        {
+          "year": 2023,
+          "type": {
+            "2": "521",
+            "1": "495"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "2": "503",
+            "1": "489"
+          }
+        }
+      ],
+      "43": [
+        {
+          "year": 2024,
+          "type": {
+            "2073": "491",
+            "2074": "431"
+          }
+        },
+        {
+          "year": 2023,
+          "type": {
+            "2073": "468",
+            "2074": "417"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "2074": "494",
+            "2073": "469"
+          }
+        }
+      ],
+      "45": [
+        {
+          "year": 2024,
+          "type": {
+            "2074": "444",
+            "2073": "439"
+          }
+        },
+        {
+          "year": 2023,
+          "type": {
+            "2": "489",
+            "1": "432"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "2": "472",
+            "1": "414"
+          }
+        }
+      ],
+      "52": [
+        {
+          "year": 2024,
+          "type": {
+            "2074": "496",
+            "2073": "478"
+          }
+        },
+        {
+          "year": 2023,
+          "type": {
+            "2": "513",
+            "1": "435"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "1": "420"
+          }
+        }
+      ],
+      "53": [
+        {
+          "year": 2024,
+          "type": {
+            "1": "489",
+            "2": "469"
+          }
+        },
+        {
+          "year": 2023,
+          "type": {
+            "2": "523",
+            "1": "465"
+          }
+        }
+      ],
+      "61": [
+        {
+          "year": 2024,
+          "type": {
+            "2": "469",
+            "1": "453"
+          }
+        },
+        {
+          "year": 2023,
+          "type": {
+            "2": "376",
+            "1": "287"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "1": "437"
+          }
+        }
+      ],
+      "62": [
+        {
+          "year": 2024,
+          "type": {
+            "2074": "457",
+            "2073": "443"
+          }
+        },
+        {
+          "year": 2023,
+          "type": {
+            "2": "440",
+            "1": "389"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "1": "406"
+          }
+        }
+      ]
+    },
+    "pro_type": {
+      "13": [
+        "2073",
+        "2074"
+      ],
+      "14": [
+        "1",
+        "2"
+      ],
+      "34": [
+        "2073",
+        "2074"
+      ],
+      "36": [
+        "2073",
+        "2074",
+        "1",
+        "2"
+      ],
+      "37": [
+        "3"
+      ],
+      "41": [
+        "1",
+        "2"
+      ],
+      "43": [
+        "2073",
+        "2074"
+      ],
+      "45": [
+        "2073",
+        "2074",
+        "1",
+        "2"
+      ],
+      "52": [
+        "2073",
+        "2074",
+        "1",
+        "2"
+      ],
+      "53": [
+        "1",
+        "2"
+      ],
+      "61": [
+        "1",
+        "2"
+      ],
+      "62": [
+        "2073",
+        "2074",
+        "1",
+        "2"
+      ]
+    },
+    "province_score_year": "2024",
+    "qs_world": "0",
+    "rank": {
+      "ruanke_rank": "500+",
+      "xyh_rank": "510",
+      "qs_world": "0",
+      "us_rank": "0",
+      "rk_mb": "0",
+      "rk_dl": "0",
+      "rk_zw": "0",
+      "rk_yy": "0",
+      "rk_cj": "0",
+      "rk_yuy": "0",
+      "rk_zf": "31+",
+      "rk_ty": "0",
+      "rk_mz": "0",
+      "xyh_gz_1": "0",
+      "xyh_gz_2": "0",
+      "xyh_gz_3": "0",
+      "xyh_mb_1": "0",
+      "xyh_mb_2": "0",
+      "xyh_mb_3": "0",
+      "tws_china": "0"
+    },
+    "fenxiao": [
+      {
+        "fx_name": "仙葫校区",
+        "yuanxi": []
+      },
+      {
+        "fx_name": "五合校区",
+        "yuanxi": []
+      },
+      {
+        "fx_name": "长湖校区",
+        "yuanxi": []
+      }
+    ],
+    "gbh_url": "https://heec.cahe.edu.cn/school/2184",
+    "is_yikao": 2,
+    "yk_feature": [],
+    "yk_type": [],
+    "is_international_undergraduate": 2,
+    "is_evaluation": 2,
+    "is_special_project": 2,
+    "single_province": {}
+  },
+  "md5": "03f701c4e19d69f89145c8debcb6b799"
+}

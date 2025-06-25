@@ -1,0 +1,27 @@
+# SQLAlchemy 2.0 and database dependencies
+sqlalchemy>=2.0.0
+
+# Database drivers (choose based on your database)
+# PostgreSQL
+psycopg2-binary>=2.9.0
+
+# MySQL
+PyMySQL>=1.0.0
+
+# SQLite (included with Python, no additional package needed)
+
+# Additional utilities
+typing-extensions>=4.0.0
+
+# Development and testing
+pytest>=7.0.0
+pytest-cov>=4.0.0
+
+# Data validation
+pydantic>=2.0.0
+
+# Logging and monitoring
+structlog>=23.0.0
+
+# Optional: Database migration tools
+alembic>=1.12.0

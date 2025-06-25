@@ -1,0 +1,548 @@
+{
+  "code": "0000",
+  "message": "成功",
+  "data": {
+    "school_id": "326",
+    "data_code": "312002800",
+    "name": "上海音乐学院",
+    "type": "5009",
+    "school_type": "6000",
+    "school_nature": "36000",
+    "level": "2001",
+    "code_enroll": "1027800",
+    "zs_code": "10278",
+    "belong": "上海市",
+    "f985": "2",
+    "f211": "2",
+    "department": "2",
+    "admissions": "2",
+    "central": "2",
+    "dual_class": "38000",
+    "is_seal": "1",
+    "applied_grade": "0",
+    "vocational": "2",
+    "num_subject": "0",
+    "num_master": "3",
+    "num_doctor": "3",
+    "num_academician": "0",
+    "num_library": "24.67万",
+    "num_lab": "0",
+    "province_id": "31",
+    "city_id": "3101",
+    "county_id": "310104",
+    "is_ads": "2",
+    "is_recruitment": "1",
+    "create_date": "1927",
+    "area": 146,
+    "old_name": "",
+    "is_fenxiao": "2",
+    "status": "1",
+    "ad_level": "1",
+    "short": "上音",
+    "e_pc": "1",
+    "e_app": "1",
+    "ruanke_rank": "0",
+    "single": "",
+    "colleges_level": "",
+    "doublehigh": "0",
+    "wsl_rank": "0",
+    "qs_rank": "0",
+    "xyh_rank": "176",
+    "is_sell": "2",
+    "eol_rank": "1213",
+    "school_batch": "14,1939,1570",
+    "us_rank": "0",
+    "is_logo": "1",
+    "num_master2": "0",
+    "num_doctor2": "0",
+    "ai_status": "1",
+    "is_ads2": "2",
+    "coop_money": "0.00",
+    "bdold_name": "",
+    "college_employment": "1",
+    "xyq_id": "276",
+    "senior_status": "2",
+    "senior_show": "1",
+    "is_upgrade": "2",
+    "view_total_show": "1",
+    "gb_show": "2",
+    "gbh_num": "0",
+    "motto": "",
+    "upgrading_rate": "0.00",
+    "recommend_master_rate": "23.80",
+    "recommend_master_level": 3,
+    "is_show_xcxcode": 2,
+    "master_arr": [
+      {
+        "name": "一级学科硕士学位授权点",
+        "num": "3"
+      }
+    ],
+    "doctor_arr": [
+      {
+        "name": "一级学科博士学位授权点",
+        "num": "3"
+      }
+    ],
+    "subject_arr": [],
+    "level_name": "本科",
+    "type_name": "艺术类",
+    "school_type_name": "本科",
+    "school_nature_name": "公办",
+    "dual_class_name": "双一流",
+    "xueke_rank": {
+      "B": "1",
+      "A+": "1",
+      "B+": "1"
+    },
+    "province_single": {},
+    "single_year": 2021,
+    "remark": [],
+    "province_name": "上海",
+    "city_name": "上海市",
+    "town_name": "徐汇区",
+    "weiwangzhan": "",
+    "yjszs": "https://www.kaoyan.cn/school/404",
+    "xiaoyuan": "",
+    "urllinks": {
+      "71013": {
+        "school_id": "326",
+        "link": "http://map.baidu.com/?panoid=09000300001504110637476765B&pid=09000300001504110637476765B&panotype=street&heading=294&pitch=-1",
+        "type": "71013",
+        "img_url": "",
+        "title": ""
+      },
+      "71006": {
+        "school_id": "326",
+        "link": "https://s95.cnzz.com/z_stat.php?id=1254838315&web_id=1254838315",
+        "type": "71006",
+        "img_url": "",
+        "title": ""
+      },
+      "71004": {
+        "school_id": "326",
+        "link": "https://www.kaoyan.cn/school/404",
+        "type": "71004",
+        "img_url": "",
+        "title": ""
+      }
+    },
+    "email": "zb@shcmusic.edu.cn",
+    "school_email": "",
+    "address": "汾阳路校区：上海市徐汇区汾阳路20号,零陵路校区：上海市徐汇区零陵路520号",
+    "postcode": "200031",
+    "site": "https://jwc.shcmusic.edu.cn/437/list.htm",
+    "school_site": "https://www.shcmusic.edu.cn",
+    "phone": "021-53307300,021-53307303",
+    "school_phone": "",
+    "miniprogram": "",
+    "content": "上海音乐学院（ShanghaiConservatoryofMusic）是中国现代专业音乐教育的奠基者和孵化器，国家首批“双一流”建设高校，作为中国音乐教育的杰出代表在海内外享有盛誉，被誉为“音乐家的摇篮”。上海音乐学院前身为国立音乐院，由蔡元培先生和萧友梅先生于1927年11月27日在上海创办，首任院长蔡元培先生，是中国第一所独立建制的国立高等音乐学府，以“援西立中，化用为体”",
+    "video": {
+      "school_id": "326",
+      "url": "https://vod.zjzw.cn/h5285890782261728098/wvwxqdyeexpl2rl80gj9iz6q7i3y1wxm.mp4",
+      "url_type": 2,
+      "img_url": "https://static-data.gaokao.cn//upload/svideo/piliang_326_thumb.jpg"
+    },
+    "video_pc": {
+      "school_id": "326",
+      "url": "https://vod.zjzw.cn/h5285890782261728098/wvwxqdyeexpl2rl80gj9iz6q7i3y1wxm.mp4",
+      "url_type": 2,
+      "img_url": "https://static-data.gaokao.cn//upload/svideo/piliang_326_thumb.jpg"
+    },
+    "is_video": 1,
+    "dualclass": [
+      {
+        "id": "711",
+        "school_id": "326",
+        "class": "音乐与舞蹈学"
+      }
+    ],
+    "school_special_num": 9,
+    "special": [
+      {
+        "id": "803402",
+        "school_id": "326",
+        "special_id": "325",
+        "nation_feature": "1",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "四年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "1",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "9999",
+        "ruanke_level": "",
+        "is_video": 2,
+        "special_name": "音乐表演",
+        "level_name": "本科(普通)"
+      },
+      {
+        "id": "142631",
+        "school_id": "326",
+        "special_id": "1251",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "四年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "2",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "9999",
+        "ruanke_level": "",
+        "is_video": 2,
+        "special_name": "艺术与科技",
+        "level_name": "本科(普通)"
+      },
+      {
+        "id": "803400",
+        "school_id": "326",
+        "special_id": "326",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "五年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "1",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "9999",
+        "ruanke_level": "",
+        "is_video": 2,
+        "special_name": "音乐学",
+        "level_name": "本科(普通)"
+      },
+      {
+        "id": "803401",
+        "school_id": "326",
+        "special_id": "327",
+        "nation_feature": "1",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "五年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "1",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "3",
+        "ruanke_level": "A",
+        "is_video": 2,
+        "special_name": "作曲与作曲技术理论",
+        "level_name": "本科(普通)"
+      },
+      {
+        "id": "803403",
+        "school_id": "326",
+        "special_id": "338",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "四年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "1",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "9999",
+        "ruanke_level": "",
+        "is_video": 2,
+        "special_name": "录音艺术",
+        "level_name": "本科(普通)"
+      },
+      {
+        "id": "803405",
+        "school_id": "326",
+        "special_id": "352",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "四年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "2",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "9999",
+        "ruanke_level": "",
+        "is_video": 2,
+        "special_name": "数字媒体艺术",
+        "level_name": "本科(普通)"
+      },
+      {
+        "id": "2013136",
+        "school_id": "326",
+        "special_id": "2124",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "四年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "2",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "9999",
+        "ruanke_level": "",
+        "is_video": 2,
+        "special_name": "音乐教育",
+        "level_name": "本科(普通)"
+      },
+      {
+        "id": "2013159",
+        "school_id": "326",
+        "special_id": "9348",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "四年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "2",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "9999",
+        "ruanke_level": "",
+        "is_video": 2,
+        "special_name": "音乐剧",
+        "level_name": "本科(普通)"
+      },
+      {
+        "id": "169457",
+        "school_id": "326",
+        "special_id": "8435",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "四年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "2",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "5",
+        "ruanke_level": "B+",
+        "is_video": 2,
+        "special_name": "艺术管理",
+        "level_name": "本科(普通)"
+      }
+    ],
+    "nature_name": "公办",
+    "province_score_min": {
+      "11": {
+        "province_id": "11",
+        "type": "3",
+        "min": "576",
+        "year": "2024"
+      },
+      "37": {
+        "province_id": "37",
+        "type": "3",
+        "min": "579",
+        "year": "2024"
+      },
+      "31": {
+        "province_id": "31",
+        "type": "3",
+        "min": "498",
+        "year": "2024"
+      },
+      "34": {
+        "province_id": "34",
+        "type": "2074",
+        "min": "578",
+        "year": "2024"
+      },
+      "44": {
+        "province_id": "44",
+        "type": "2074",
+        "min": "560",
+        "year": "2024"
+      },
+      "33": {
+        "province_id": "33",
+        "type": "3",
+        "min": "633",
+        "year": "2022"
+      }
+    },
+    "pro_type_min": {
+      "11": [
+        {
+          "year": 2024,
+          "type": {
+            "3": "576"
+          }
+        },
+        {
+          "year": 2023,
+          "type": {
+            "3": "575"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "3": "566"
+          }
+        }
+      ],
+      "37": [
+        {
+          "year": 2024,
+          "type": {
+            "3": "579"
+          }
+        },
+        {
+          "year": 2023,
+          "type": {
+            "3": "570"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "3": "577"
+          }
+        }
+      ],
+      "31": [
+        {
+          "year": 2024,
+          "type": {
+            "3": "498"
+          }
+        },
+        {
+          "year": 2023,
+          "type": {
+            "3": "510"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "3": "514"
+          }
+        }
+      ],
+      "34": [
+        {
+          "year": 2024,
+          "type": {
+            "2074": "578"
+          }
+        },
+        {
+          "year": 2023,
+          "type": {
+            "2": "553"
+          }
+        }
+      ],
+      "44": [
+        {
+          "year": 2024,
+          "type": {
+            "2074": "560"
+          }
+        },
+        {
+          "year": 2023,
+          "type": {
+            "2074": "576"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "2073": "590",
+            "2074": "581"
+          }
+        }
+      ],
+      "33": [
+        {
+          "year": 2022,
+          "type": {
+            "3": "633"
+          }
+        }
+      ]
+    },
+    "pro_type": {
+      "11": [
+        "3"
+      ],
+      "37": [
+        "3"
+      ],
+      "31": [
+        "3"
+      ],
+      "34": [
+        "2074",
+        "2"
+      ],
+      "44": [
+        "2074",
+        "2073"
+      ],
+      "33": [
+        "3"
+      ]
+    },
+    "province_score_year": "2024",
+    "qs_world": "0",
+    "rank": {
+      "ruanke_rank": "0",
+      "xyh_rank": "176",
+      "qs_world": "0",
+      "us_rank": "0",
+      "rk_mb": "0",
+      "rk_dl": "0",
+      "rk_zw": "0",
+      "rk_yy": "0",
+      "rk_cj": "0",
+      "rk_yuy": "0",
+      "rk_zf": "0",
+      "rk_ty": "0",
+      "rk_mz": "0",
+      "xyh_gz_1": "0",
+      "xyh_gz_2": "0",
+      "xyh_gz_3": "0",
+      "xyh_mb_1": "0",
+      "xyh_mb_2": "0",
+      "xyh_mb_3": "0",
+      "tws_china": "0"
+    },
+    "fenxiao": [
+      {
+        "fx_name": "汾阳路校区",
+        "yuanxi": []
+      },
+      {
+        "fx_name": "零陵路校区",
+        "yuanxi": []
+      }
+    ],
+    "gbh_url": "https://heec.cahe.edu.cn/school/294",
+    "is_yikao": 1,
+    "yk_feature": [
+      "30所独立"
+    ],
+    "yk_type": [
+      "统考"
+    ],
+    "is_international_undergraduate": 2,
+    "is_evaluation": 2,
+    "is_special_project": 2,
+    "single_province": {}
+  },
+  "md5": "ea4a4f9953fe0d339662afdc415dc9bf"
+}

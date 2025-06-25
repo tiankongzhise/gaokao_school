@@ -1,0 +1,459 @@
+{
+  "code": "0000",
+  "message": "成功",
+  "data": {
+    "school_id": "2941",
+    "data_code": "442313002",
+    "name": "南方科技大学",
+    "type": "5001",
+    "school_type": "6000",
+    "school_nature": "36000",
+    "level": "2001",
+    "code_enroll": "1432500",
+    "zs_code": "14325",
+    "belong": "广东省",
+    "f985": "2",
+    "f211": "2",
+    "department": "2",
+    "admissions": "2",
+    "central": "2",
+    "dual_class": "38000",
+    "is_seal": "1",
+    "applied_grade": "0",
+    "vocational": "2",
+    "num_subject": "0",
+    "num_master": "15",
+    "num_doctor": "14",
+    "num_academician": "16",
+    "num_library": "0.00万",
+    "num_lab": "0",
+    "province_id": "44",
+    "city_id": "4403",
+    "county_id": "0",
+    "is_ads": "2",
+    "is_recruitment": "1",
+    "create_date": "2010",
+    "area": 2970,
+    "old_name": "",
+    "is_fenxiao": "2",
+    "status": "1",
+    "ad_level": "1",
+    "short": "南科大,SUSTech",
+    "e_pc": "1",
+    "e_app": "1",
+    "ruanke_rank": "32",
+    "single": "",
+    "colleges_level": "",
+    "doublehigh": "0",
+    "wsl_rank": "0",
+    "qs_rank": "38",
+    "xyh_rank": "56",
+    "is_sell": "1",
+    "eol_rank": "33",
+    "school_batch": "6,36,86,90",
+    "us_rank": "123",
+    "is_logo": "1",
+    "num_master2": "0",
+    "num_doctor2": "0",
+    "ai_status": "1",
+    "is_ads2": "1",
+    "coop_money": "463600.00",
+    "bdold_name": "",
+    "college_employment": "1",
+    "xyq_id": "368",
+    "senior_status": "2",
+    "senior_show": "1",
+    "is_upgrade": "2",
+    "view_total_show": "1",
+    "gb_show": "2",
+    "gbh_num": "0",
+    "motto": "",
+    "upgrading_rate": "0.00",
+    "recommend_master_rate": "29.00",
+    "recommend_master_level": 3.5,
+    "is_show_xcxcode": 2,
+    "master_arr": [
+      {
+        "name": "一级学科硕士学位授权点",
+        "num": "15"
+      },
+      {
+        "name": "专业类别硕士点",
+        "num": "8"
+      }
+    ],
+    "doctor_arr": [
+      {
+        "name": "一级学科博士学位授权点",
+        "num": "14"
+      },
+      {
+        "name": "专业类别博士点",
+        "num": "3"
+      }
+    ],
+    "subject_arr": [],
+    "level_name": "本科",
+    "type_name": "理工类",
+    "school_type_name": "本科",
+    "school_nature_name": "公办",
+    "dual_class_name": "双一流",
+    "xueke_rank": {},
+    "province_single": {},
+    "single_year": 2021,
+    "remark": [],
+    "province_name": "广东",
+    "city_name": "深圳市",
+    "town_name": "",
+    "weiwangzhan": "",
+    "yjszs": "https://www.kaoyan.cn/school/1386",
+    "xiaoyuan": "",
+    "urllinks": {
+      "71006": {
+        "school_id": "2941",
+        "link": "https://s95.cnzz.com/z_stat.php?id=1259420532&web_id=1259420532",
+        "type": "71006",
+        "img_url": "",
+        "title": ""
+      },
+      "71004": {
+        "school_id": "2941",
+        "link": "https://www.kaoyan.cn/school/1386",
+        "type": "71004",
+        "img_url": "",
+        "title": ""
+      }
+    },
+    "email": "zsb@sustech.edu.cn",
+    "school_email": "",
+    "address": "广东省深圳市南山区学苑大道1088号",
+    "postcode": "518055",
+    "site": "https://zs.sustech.edu.cn/",
+    "school_site": "https://www.sustech.edu.cn/",
+    "phone": "0755-88010500,0755-88010507",
+    "school_phone": "",
+    "miniprogram": "",
+    "content": "南科大简介南方科技大学（简称：南科大）是深圳在中国高等教育改革发展的时代背景下创建的一所高起点、高定位的公办新型研究型大学。2022年2月14日，教育部等三部委公布第二轮“双一流”建设高校及建设学科名单，南方科技大学及数学学科入选“双一流”建设高校及建设学科名单。学校借鉴世界一流理工科大学的学科设置和办学模式，以理、工、医为主，兼具商科和特",
+    "video": {
+      "school_id": "2941",
+      "url": "https://vod.zjzw.cn/h387702296612125946/2z1x5f3djtf6nmnqthicbbgh0vfwe0dk.mp4",
+      "url_type": 2,
+      "img_url": "https://static-data.gaokao.cn//upload/svideo/1645783696_8224_thumb.png"
+    },
+    "video_pc": {
+      "school_id": "2941",
+      "url": "https://vod.zjzw.cn/h387702296612125946/2z1x5f3djtf6nmnqthicbbgh0vfwe0dk.mp4",
+      "url_type": 2,
+      "img_url": "https://static-data.gaokao.cn//upload/svideo/1645783696_8224_thumb.png"
+    },
+    "is_video": 1,
+    "dualclass": [
+      {
+        "id": "483",
+        "school_id": "2941",
+        "class": "数学"
+      }
+    ],
+    "school_special_num": 5,
+    "special": [
+      {
+        "id": "84561",
+        "school_id": "2941",
+        "special_id": "118",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "1",
+        "limit_year": "四年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "1",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "14",
+        "ruanke_level": "A",
+        "is_video": 2,
+        "special_name": "物理学",
+        "level_name": "本科(普通)"
+      },
+      {
+        "id": "84540",
+        "school_id": "2941",
+        "special_id": "1291",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "1",
+        "limit_year": "四年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "2",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "9999",
+        "ruanke_level": "",
+        "is_video": 2,
+        "special_name": "生物医学科学",
+        "level_name": "本科(普通)"
+      },
+      {
+        "id": "84554",
+        "school_id": "2941",
+        "special_id": "235",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "1",
+        "limit_year": "四年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "1",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "30",
+        "ruanke_level": "B",
+        "is_video": 2,
+        "special_name": "生物医学工程",
+        "level_name": "本科(普通)"
+      },
+      {
+        "id": "2164385",
+        "school_id": "2941",
+        "special_id": "8387",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "四年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "2",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "9999",
+        "ruanke_level": "",
+        "is_video": 2,
+        "special_name": "人工智能",
+        "level_name": "本科(普通)"
+      },
+      {
+        "id": "2164386",
+        "school_id": "2941",
+        "special_id": "268",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "五年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "2",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "9999",
+        "ruanke_level": "",
+        "is_video": 2,
+        "special_name": "口腔医学",
+        "level_name": "本科(普通)"
+      }
+    ],
+    "nature_name": "公办",
+    "province_score_min": {
+      "15": {
+        "province_id": "15",
+        "type": "1",
+        "min": "629",
+        "year": "2024"
+      },
+      "22": {
+        "province_id": "22",
+        "type": "2073",
+        "min": "648",
+        "year": "2024"
+      },
+      "34": {
+        "province_id": "34",
+        "type": "2073",
+        "min": "641",
+        "year": "2024"
+      },
+      "42": {
+        "province_id": "42",
+        "type": "2073",
+        "min": "525",
+        "year": "2024"
+      },
+      "46": {
+        "province_id": "46",
+        "type": "3",
+        "min": "727",
+        "year": "2024"
+      },
+      "45": {
+        "province_id": "45",
+        "type": "1",
+        "min": "620",
+        "year": "2022"
+      },
+      "52": {
+        "province_id": "52",
+        "type": "1",
+        "min": "591",
+        "year": "2022"
+      }
+    },
+    "pro_type_min": {
+      "15": [
+        {
+          "year": 2024,
+          "type": {
+            "1": "629"
+          }
+        },
+        {
+          "year": 2023,
+          "type": {
+            "1": "600"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "1": "596"
+          }
+        }
+      ],
+      "22": [
+        {
+          "year": 2024,
+          "type": {
+            "2073": "648"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "1": "598"
+          }
+        }
+      ],
+      "34": [
+        {
+          "year": 2024,
+          "type": {
+            "2073": "641"
+          }
+        },
+        {
+          "year": 2023,
+          "type": {
+            "1": "620"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "1": "616"
+          }
+        }
+      ],
+      "42": [
+        {
+          "year": 2024,
+          "type": {
+            "2073": "525"
+          }
+        }
+      ],
+      "46": [
+        {
+          "year": 2024,
+          "type": {
+            "3": "727"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "3": "733"
+          }
+        }
+      ],
+      "45": [
+        {
+          "year": 2022,
+          "type": {
+            "1": "620"
+          }
+        }
+      ],
+      "52": [
+        {
+          "year": 2022,
+          "type": {
+            "1": "591"
+          }
+        }
+      ]
+    },
+    "pro_type": {
+      "15": [
+        "1"
+      ],
+      "22": [
+        "2073",
+        "1"
+      ],
+      "34": [
+        "2073",
+        "1"
+      ],
+      "42": [
+        "2073"
+      ],
+      "46": [
+        "3"
+      ],
+      "45": [
+        "1"
+      ],
+      "52": [
+        "1"
+      ]
+    },
+    "province_score_year": "2024",
+    "qs_world": "343",
+    "rank": {
+      "ruanke_rank": "32",
+      "xyh_rank": "56",
+      "qs_world": "343",
+      "us_rank": "123",
+      "rk_mb": "0",
+      "rk_dl": "0",
+      "rk_zw": "0",
+      "rk_yy": "0",
+      "rk_cj": "0",
+      "rk_yuy": "0",
+      "rk_zf": "0",
+      "rk_ty": "0",
+      "rk_mz": "0",
+      "xyh_gz_1": "0",
+      "xyh_gz_2": "0",
+      "xyh_gz_3": "0",
+      "xyh_mb_1": "0",
+      "xyh_mb_2": "0",
+      "xyh_mb_3": "0",
+      "tws_china": "13"
+    },
+    "fenxiao": [
+      {
+        "fx_name": "校本部",
+        "yuanxi": []
+      }
+    ],
+    "gbh_url": "https://heec.cahe.edu.cn/school/1385",
+    "is_yikao": 2,
+    "yk_feature": [],
+    "yk_type": [],
+    "is_international_undergraduate": 2,
+    "is_evaluation": 1,
+    "is_special_project": 2,
+    "single_province": {}
+  },
+  "md5": "ad8a74f0ba0abdf459eeed60ccecaa4a"
+}

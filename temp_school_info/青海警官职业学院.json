@@ -1,0 +1,419 @@
+{
+  "code": "0000",
+  "message": "成功",
+  "data": {
+    "school_id": "2279",
+    "data_code": "632001100",
+    "name": "青海警官职业学院",
+    "type": "5007",
+    "school_type": "6001",
+    "school_nature": "36000",
+    "level": "2002",
+    "code_enroll": "1285200",
+    "zs_code": "12852",
+    "belong": "青海省",
+    "f985": "2",
+    "f211": "2",
+    "department": "2",
+    "admissions": "2",
+    "central": "2",
+    "dual_class": "38003",
+    "is_seal": "1",
+    "applied_grade": "0",
+    "vocational": "2",
+    "num_subject": "0",
+    "num_master": "0",
+    "num_doctor": "0",
+    "num_academician": "0",
+    "num_library": "0.00万",
+    "num_lab": "0",
+    "province_id": "63",
+    "city_id": "6301",
+    "county_id": "0",
+    "is_ads": "2",
+    "is_recruitment": "1",
+    "create_date": "2000",
+    "area": 104,
+    "old_name": "",
+    "is_fenxiao": "2",
+    "status": "1",
+    "ad_level": "3",
+    "short": "",
+    "e_pc": "1",
+    "e_app": "1",
+    "ruanke_rank": "0",
+    "single": "",
+    "colleges_level": "",
+    "doublehigh": "0",
+    "wsl_rank": "0",
+    "qs_rank": "0",
+    "xyh_rank": "0",
+    "is_sell": "2",
+    "eol_rank": "2388",
+    "school_batch": "10,1571",
+    "us_rank": "0",
+    "is_logo": "1",
+    "num_master2": "0",
+    "num_doctor2": "0",
+    "ai_status": "1",
+    "is_ads2": "2",
+    "coop_money": "0.00",
+    "bdold_name": "",
+    "college_employment": "1",
+    "xyq_id": "2660",
+    "senior_status": "2",
+    "senior_show": "1",
+    "is_upgrade": "2",
+    "view_total_show": "1",
+    "gb_show": "1",
+    "gbh_num": "0",
+    "motto": "",
+    "upgrading_rate": "0.00",
+    "recommend_master_rate": "0.00",
+    "is_show_xcxcode": 2,
+    "master_arr": [],
+    "doctor_arr": [],
+    "subject_arr": [],
+    "level_name": "专科（高职）",
+    "type_name": "政法类",
+    "school_type_name": "专科（高职）",
+    "school_nature_name": "公办",
+    "dual_class_name": "",
+    "xueke_rank": {},
+    "province_single": {},
+    "single_year": 2021,
+    "remark": [],
+    "province_name": "青海",
+    "city_name": "西宁市",
+    "town_name": "",
+    "weiwangzhan": "",
+    "yjszs": "",
+    "xiaoyuan": "",
+    "urllinks": {
+      "71013": {
+        "school_id": "2279",
+        "link": "http://map.baidu.com/?panoid=01014100001405290913474836M&pid=01014100001405290913474836M&panotype=street&heading=266&pitch=-10",
+        "type": "71013",
+        "img_url": "",
+        "title": ""
+      },
+      "71006": {
+        "school_id": "2279",
+        "link": "https://s22.cnzz.com/z_stat.php?id=1274053560&web_id=1274053560",
+        "type": "71006",
+        "img_url": "",
+        "title": ""
+      }
+    },
+    "email": "",
+    "school_email": "",
+    "address": "青海省西宁市城中区建新巷22号",
+    "postcode": "810000",
+    "site": "https://www.qhjyedu.com/50/list.htm",
+    "school_site": "https://www.qhjyedu.com/",
+    "phone": "0971-8232355",
+    "school_phone": "",
+    "miniprogram": "",
+    "content": "青海警官职业学院是青海省唯一一所公安政法类普通高等专科院校，2000年由原青海省人民警察学校（1953年）和原青海省司法警官学校（1982年）合并组建成立，隶属省公安厅领导。主要承担我省公安政法类专门人才学历教育和在职民警培训双重任务。学院占地104亩，建筑面积4.6万平方米；共设机构18个，其中管理机构6个，教学机构7个，教辅机构5个；省编办核定政法专项编制252",
+    "video": {},
+    "video_pc": {
+      "school_id": "2279",
+      "url": "",
+      "url_type": "2",
+      "img_url": "https://static-data.gaokao.cn//upload/svideo/1611801455_3869_thumb.png"
+    },
+    "is_video": 1,
+    "dualclass": [],
+    "school_special_num": 5,
+    "special": [
+      {
+        "id": "1728791",
+        "school_id": "2279",
+        "special_id": "1063",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "三年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "2",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "9999",
+        "ruanke_level": "",
+        "is_video": 2,
+        "special_name": "法律事务",
+        "level_name": "专科(高职)"
+      },
+      {
+        "id": "2159681",
+        "school_id": "2279",
+        "special_id": "9606",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "2",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "9999",
+        "ruanke_level": "",
+        "is_video": 2,
+        "special_name": "刑事侦查",
+        "level_name": "本科(职业)"
+      },
+      {
+        "id": "1596524",
+        "school_id": "2279",
+        "special_id": "1065",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "三年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "2",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "9999",
+        "ruanke_level": "",
+        "is_video": 2,
+        "special_name": "刑事执行",
+        "level_name": "专科(高职)"
+      },
+      {
+        "id": "261541",
+        "school_id": "2279",
+        "special_id": "1062",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "三年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "2",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "9999",
+        "ruanke_level": "",
+        "is_video": 2,
+        "special_name": "法律文秘",
+        "level_name": "专科(高职)"
+      },
+      {
+        "id": "123368",
+        "school_id": "2279",
+        "special_id": "1069",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "三年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "2",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "9999",
+        "ruanke_level": "",
+        "is_video": 2,
+        "special_name": "社区矫正",
+        "level_name": "专科(高职)"
+      }
+    ],
+    "nature_name": "公办",
+    "province_score_min": {
+      "37": {
+        "province_id": "37",
+        "type": "3",
+        "min": "437",
+        "year": "2024"
+      },
+      "51": {
+        "province_id": "51",
+        "type": "1",
+        "min": "423",
+        "year": "2024"
+      },
+      "63": {
+        "province_id": "63",
+        "type": "1",
+        "min": "340",
+        "year": "2024"
+      },
+      "62": {
+        "province_id": "62",
+        "type": "2074",
+        "min": "357",
+        "year": "2024"
+      },
+      "53": {
+        "province_id": "53",
+        "type": "1",
+        "min": "327",
+        "year": "2023"
+      }
+    },
+    "pro_type_min": {
+      "37": [
+        {
+          "year": 2024,
+          "type": {
+            "3": "437"
+          }
+        },
+        {
+          "year": 2023,
+          "type": {
+            "3": "427"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "3": "416"
+          }
+        }
+      ],
+      "51": [
+        {
+          "year": 2024,
+          "type": {
+            "2": "428",
+            "1": "423"
+          }
+        },
+        {
+          "year": 2023,
+          "type": {
+            "2": "425",
+            "1": "388"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "2": "420",
+            "1": "353"
+          }
+        }
+      ],
+      "63": [
+        {
+          "year": 2024,
+          "type": {
+            "2": "393",
+            "1": "340"
+          }
+        },
+        {
+          "year": 2023,
+          "type": {
+            "2": "400",
+            "1": "328"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "2": "383",
+            "1": "312"
+          }
+        }
+      ],
+      "62": [
+        {
+          "year": 2024,
+          "type": {
+            "2074": "357"
+          }
+        },
+        {
+          "year": 2023,
+          "type": {
+            "2": "361",
+            "1": "210"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "2": "361",
+            "1": "210"
+          }
+        }
+      ],
+      "53": [
+        {
+          "year": 2023,
+          "type": {
+            "2": "411",
+            "1": "327"
+          }
+        }
+      ]
+    },
+    "pro_type": {
+      "37": [
+        "3"
+      ],
+      "51": [
+        "1",
+        "2"
+      ],
+      "63": [
+        "1",
+        "2"
+      ],
+      "62": [
+        "2074",
+        "1",
+        "2"
+      ],
+      "53": [
+        "1",
+        "2"
+      ]
+    },
+    "province_score_year": "2024",
+    "qs_world": "0",
+    "rank": {
+      "ruanke_rank": "0",
+      "xyh_rank": "0",
+      "qs_world": "0",
+      "us_rank": "0",
+      "rk_mb": "0",
+      "rk_dl": "0",
+      "rk_zw": "0",
+      "rk_yy": "0",
+      "rk_cj": "0",
+      "rk_yuy": "0",
+      "rk_zf": "0",
+      "rk_ty": "0",
+      "rk_mz": "0",
+      "xyh_gz_1": "0",
+      "xyh_gz_2": "0",
+      "xyh_gz_3": "354",
+      "xyh_mb_1": "0",
+      "xyh_mb_2": "0",
+      "xyh_mb_3": "0",
+      "tws_china": "0"
+    },
+    "fenxiao": [
+      {
+        "fx_name": "校本部",
+        "yuanxi": []
+      }
+    ],
+    "gbh_url": "https://heec.cahe.edu.cn/school/2702",
+    "is_yikao": 2,
+    "yk_feature": [],
+    "yk_type": [],
+    "is_international_undergraduate": 2,
+    "is_evaluation": 2,
+    "is_special_project": 2,
+    "single_province": {}
+  },
+  "md5": "ad848b7df96151e0d167f83bacea141a"
+}

@@ -1,0 +1,355 @@
+{
+  "code": "0000",
+  "message": "成功",
+  "data": {
+    "school_id": "571",
+    "data_code": "112005400",
+    "name": "中国音乐学院",
+    "type": "5009",
+    "school_type": "6000",
+    "school_nature": "36000",
+    "level": "2001",
+    "code_enroll": "1004600",
+    "zs_code": "10046",
+    "belong": "北京市",
+    "f985": "2",
+    "f211": "2",
+    "department": "2",
+    "admissions": "2",
+    "central": "2",
+    "dual_class": "38000",
+    "is_seal": "1",
+    "applied_grade": "0",
+    "vocational": "2",
+    "num_subject": "0",
+    "num_master": "1",
+    "num_doctor": "1",
+    "num_academician": "0",
+    "num_library": "35.00万",
+    "num_lab": "0",
+    "province_id": "11",
+    "city_id": "1101",
+    "county_id": "110105",
+    "is_ads": "2",
+    "is_recruitment": "1",
+    "create_date": "1964",
+    "area": 0,
+    "old_name": "",
+    "is_fenxiao": "2",
+    "status": "1",
+    "ad_level": "1",
+    "short": "",
+    "e_pc": "1",
+    "e_app": "1",
+    "ruanke_rank": "0",
+    "single": "",
+    "colleges_level": "",
+    "doublehigh": "0",
+    "wsl_rank": "0",
+    "qs_rank": "0",
+    "xyh_rank": "228",
+    "is_sell": "2",
+    "eol_rank": "2100",
+    "school_batch": "",
+    "us_rank": "0",
+    "is_logo": "1",
+    "num_master2": "0",
+    "num_doctor2": "0",
+    "ai_status": "1",
+    "is_ads2": "2",
+    "coop_money": "0.00",
+    "bdold_name": "",
+    "college_employment": "1",
+    "xyq_id": "2819",
+    "senior_status": "2",
+    "senior_show": "1",
+    "is_upgrade": "2",
+    "view_total_show": "1",
+    "gb_show": "2",
+    "gbh_num": "0",
+    "motto": "",
+    "upgrading_rate": "0.00",
+    "recommend_master_rate": "3.19",
+    "recommend_master_level": 1,
+    "is_show_xcxcode": 2,
+    "master_arr": [
+      {
+        "name": "一级学科硕士学位授权点",
+        "num": "1"
+      }
+    ],
+    "doctor_arr": [
+      {
+        "name": "一级学科博士学位授权点",
+        "num": "1"
+      }
+    ],
+    "subject_arr": [],
+    "level_name": "本科",
+    "type_name": "艺术类",
+    "school_type_name": "本科",
+    "school_nature_name": "公办",
+    "dual_class_name": "双一流",
+    "xueke_rank": {
+      "A": "1"
+    },
+    "province_single": {},
+    "single_year": 2021,
+    "remark": [],
+    "province_name": "北京",
+    "city_name": "北京市",
+    "town_name": "朝阳区",
+    "weiwangzhan": "",
+    "yjszs": "https://www.kaoyan.cn/school/957",
+    "xiaoyuan": "",
+    "urllinks": {
+      "71013": {
+        "school_id": "571",
+        "link": "http://map.baidu.com/?panoid=09002200001501211448157516B&pid=09002200001501211448157516B&panotype=street&heading=7&pitch=-4",
+        "type": "71013",
+        "img_url": "",
+        "title": ""
+      },
+      "71006": {
+        "school_id": "571",
+        "link": "https://s95.cnzz.com/z_stat.php?id=1254843962&web_id=1254843962",
+        "type": "71006",
+        "img_url": "",
+        "title": ""
+      },
+      "71004": {
+        "school_id": "571",
+        "link": "https://www.kaoyan.cn/school/957",
+        "type": "71004",
+        "img_url": "",
+        "title": ""
+      }
+    },
+    "email": "ccmzhaosheng@163.com",
+    "school_email": "",
+    "address": "北京市朝阳区安翔路1号",
+    "postcode": "100101",
+    "site": "https://bkzs.ccmusic.edu.cn/",
+    "school_site": "https://www.ccmusic.edu.cn/",
+    "phone": "010-84097200",
+    "school_phone": "",
+    "miniprogram": "",
+    "content": "中国音乐学院建立于1964年，是国家“双一流”建设院校、北京市“高水平研究型大学”建设院校、“全球音乐教育联盟”秘书处学校。学校坚持党的领导，坚持社会主义办学方向，坚守弘扬中华优秀传统音乐文化、发展社会主义民族新音乐的办学初心，以“承国学、扬国韵、育国器、强国音”为办学理念，以“仁爱、诚信、博学、精艺”为校训，以建设中国特色世界一流高等",
+    "video": {},
+    "video_pc": {
+      "school_id": "571",
+      "url": "",
+      "url_type": "2",
+      "img_url": "https://static-data.gaokao.cn//upload/svideo/1611825623_9565_thumb.jpg"
+    },
+    "is_video": 1,
+    "dualclass": [
+      {
+        "id": "829",
+        "school_id": "571",
+        "class": "音乐与舞蹈学"
+      }
+    ],
+    "school_special_num": 5,
+    "special": [
+      {
+        "id": "2162309",
+        "school_id": "571",
+        "special_id": "2124",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "四年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "1",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "9999",
+        "ruanke_level": "",
+        "is_video": 2,
+        "special_name": "音乐教育",
+        "level_name": "本科(普通)"
+      },
+      {
+        "id": "1800377",
+        "school_id": "571",
+        "special_id": "8435",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "四年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "2",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "9999",
+        "ruanke_level": "",
+        "is_video": 2,
+        "special_name": "艺术管理",
+        "level_name": "本科(普通)"
+      },
+      {
+        "id": "803529",
+        "school_id": "571",
+        "special_id": "325",
+        "nation_feature": "1",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "四年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "1",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "9999",
+        "ruanke_level": "",
+        "is_video": 2,
+        "special_name": "音乐表演",
+        "level_name": "本科(普通)"
+      },
+      {
+        "id": "803530",
+        "school_id": "571",
+        "special_id": "326",
+        "nation_feature": "1",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "四年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "1",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "9999",
+        "ruanke_level": "",
+        "is_video": 2,
+        "special_name": "音乐学",
+        "level_name": "本科(普通)"
+      },
+      {
+        "id": "803531",
+        "school_id": "571",
+        "special_id": "327",
+        "nation_feature": "1",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "五年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "1",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "9999",
+        "ruanke_level": "",
+        "is_video": 2,
+        "special_name": "作曲与作曲技术理论",
+        "level_name": "本科(普通)"
+      }
+    ],
+    "nature_name": "公办",
+    "province_score_min": {
+      "11": {
+        "province_id": "11",
+        "type": "3",
+        "min": "544",
+        "year": "2024"
+      },
+      "44": {
+        "province_id": "44",
+        "type": "2073",
+        "min": "586",
+        "year": "2024"
+      },
+      "31": {
+        "province_id": "31",
+        "type": "3",
+        "min": "495",
+        "year": "2024"
+      }
+    },
+    "pro_type_min": {
+      "11": [
+        {
+          "year": 2024,
+          "type": {
+            "3": "544"
+          }
+        }
+      ],
+      "44": [
+        {
+          "year": 2024,
+          "type": {
+            "2073": "586",
+            "2074": "566"
+          }
+        }
+      ],
+      "31": [
+        {
+          "year": 2024,
+          "type": {
+            "3": "495"
+          }
+        }
+      ]
+    },
+    "pro_type": {
+      "11": [
+        "3"
+      ],
+      "44": [
+        "2073",
+        "2074"
+      ],
+      "31": [
+        "3"
+      ]
+    },
+    "province_score_year": "2024",
+    "qs_world": "0",
+    "rank": {
+      "ruanke_rank": "0",
+      "xyh_rank": "228",
+      "qs_world": "0",
+      "us_rank": "0",
+      "rk_mb": "0",
+      "rk_dl": "0",
+      "rk_zw": "0",
+      "rk_yy": "0",
+      "rk_cj": "0",
+      "rk_yuy": "0",
+      "rk_zf": "0",
+      "rk_ty": "0",
+      "rk_mz": "0",
+      "xyh_gz_1": "0",
+      "xyh_gz_2": "0",
+      "xyh_gz_3": "0",
+      "xyh_mb_1": "0",
+      "xyh_mb_2": "0",
+      "xyh_mb_3": "0",
+      "tws_china": "0"
+    },
+    "fenxiao": [
+      {
+        "fx_name": "校本部",
+        "yuanxi": []
+      }
+    ],
+    "gbh_url": "https://heec.cahe.edu.cn/school/532",
+    "is_yikao": 1,
+    "yk_feature": [
+      "30所独立"
+    ],
+    "yk_type": [
+      "校考"
+    ],
+    "is_international_undergraduate": 2,
+    "is_evaluation": 2,
+    "is_special_project": 2,
+    "single_province": {}
+  },
+  "md5": "db96f6630c5683c356d4d1e5004354d5"
+}

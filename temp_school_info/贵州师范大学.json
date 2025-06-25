@@ -1,0 +1,1028 @@
+{
+  "code": "0000",
+  "message": "成功",
+  "data": {
+    "school_id": "514",
+    "data_code": "522000200",
+    "name": "贵州师范大学",
+    "type": "5004",
+    "school_type": "6000",
+    "school_nature": "36000",
+    "level": "2001",
+    "code_enroll": "1066300",
+    "zs_code": "10663",
+    "belong": "贵州省",
+    "f985": "2",
+    "f211": "2",
+    "department": "2",
+    "admissions": "2",
+    "central": "2",
+    "dual_class": "38003",
+    "is_seal": "1",
+    "applied_grade": "0",
+    "vocational": "2",
+    "num_subject": "0",
+    "num_master": "25",
+    "num_doctor": "10",
+    "num_academician": "0",
+    "num_library": "203.00万",
+    "num_lab": "0",
+    "province_id": "52",
+    "city_id": "5201",
+    "county_id": "520103",
+    "is_ads": "1",
+    "is_recruitment": "1",
+    "create_date": "1941",
+    "area": 2780,
+    "old_name": "",
+    "is_fenxiao": "2",
+    "status": "1",
+    "ad_level": "1",
+    "short": "贵师大",
+    "e_pc": "1",
+    "e_app": "1",
+    "ruanke_rank": "237",
+    "single": "",
+    "colleges_level": "",
+    "doublehigh": "0",
+    "wsl_rank": "0",
+    "qs_rank": "0",
+    "xyh_rank": "216",
+    "is_sell": "1",
+    "eol_rank": "334",
+    "school_batch": "14,7,1570,8,44,1534",
+    "us_rank": "2026",
+    "is_logo": "1",
+    "num_master2": "0",
+    "num_doctor2": "0",
+    "ai_status": "1",
+    "is_ads2": "1",
+    "coop_money": "530921.00",
+    "bdold_name": "",
+    "college_employment": "1",
+    "xyq_id": "2812",
+    "senior_status": "1",
+    "senior_show": "2",
+    "is_upgrade": "1",
+    "view_total_show": "1",
+    "gb_show": "1",
+    "gbh_num": "0",
+    "motto": "",
+    "upgrading_rate": "0.00",
+    "recommend_master_rate": "1.74",
+    "recommend_master_level": 1,
+    "is_show_xcxcode": 2,
+    "master_arr": [
+      {
+        "name": "一级学科硕士学位授权点",
+        "num": "25"
+      },
+      {
+        "name": "硕士专业学位授权点",
+        "num": "25"
+      }
+    ],
+    "doctor_arr": [
+      {
+        "name": "一级学科博士学位授权点",
+        "num": "10"
+      }
+    ],
+    "subject_arr": [],
+    "level_name": "本科",
+    "type_name": "师范类",
+    "school_type_name": "本科",
+    "school_nature_name": "公办",
+    "dual_class_name": "",
+    "xueke_rank": {
+      "B-": "1",
+      "C+": "2",
+      "C": "2",
+      "B": "1",
+      "C-": "2"
+    },
+    "province_single": {},
+    "single_year": 2021,
+    "remark": [],
+    "province_name": "贵州",
+    "city_name": "贵阳市",
+    "town_name": "云岩区",
+    "weiwangzhan": "https://apps.eol.cn/2172/index.html",
+    "yjszs": "https://www.kaoyan.cn/school/577",
+    "xiaoyuan": "",
+    "urllinks": {
+      "71005": {
+        "school_id": "514",
+        "link": "https://answer.eol.cn/fillmess/index?id=1064&source=zsgk_app",
+        "type": "71005",
+        "img_url": "",
+        "title": ""
+      },
+      "71006": {
+        "school_id": "514",
+        "link": "https://s4.cnzz.com/z_stat.php?id=1000439721&web_id=1000439721",
+        "type": "71006",
+        "img_url": "",
+        "title": ""
+      },
+      "71004": {
+        "school_id": "514",
+        "link": "https://www.kaoyan.cn/school/577",
+        "type": "71004",
+        "img_url": "",
+        "title": ""
+      },
+      "71001": {
+        "school_id": "514",
+        "link": "https://apps.eol.cn/2172/index.html",
+        "type": "71001",
+        "img_url": "",
+        "title": ""
+      }
+    },
+    "email": "zjc@gznu.edu.cn",
+    "school_email": "",
+    "address": "花溪校区：贵州省贵安新区花溪大学城贵州师范大学东区,宝山校区：贵州省贵阳市云岩区宝山北路180号",
+    "postcode": "550001",
+    "site": "https://zjc.gznu.edu.cn/sdzs/",
+    "school_site": "https://www.gznu.edu.cn/",
+    "phone": "0851-88909960",
+    "school_phone": "",
+    "miniprogram": "",
+    "content": "贵州师范大学的前身——“国立贵阳师范学院”创建于1941年，是当时全国八所国立师范学院之一。1950年更名为“贵阳师范学院”；1954年教育部委托贵州省人民政府管理；1985年更名为“贵州师范大学”;1996年被贵州省人民政府确定为省属重点大学。党的十八大以来，学校各项事业稳步发展，2015年成为教育部与贵州省人民政府共建高校。先后荣获“全国文明单位”“全国文明校",
+    "video": {
+      "school_id": "514",
+      "url": "https://vod.zjzw.cn/h4886605985892478522/6uhs8vy9r4ka1bl6o2ds9llq17ddv41u.mp4",
+      "url_type": 2,
+      "img_url": "https://static-data.gaokao.cn//upload/svideo/1750645154_5381_thumb.jpg"
+    },
+    "video_pc": {
+      "school_id": "514",
+      "url": "https://vod.zjzw.cn/h4886605985892478522/6uhs8vy9r4ka1bl6o2ds9llq17ddv41u.mp4",
+      "url_type": 2,
+      "img_url": "https://static-data.gaokao.cn//upload/svideo/1750645154_5381_thumb.jpg"
+    },
+    "is_video": 1,
+    "dualclass": [],
+    "school_special_num": 81,
+    "special": [
+      {
+        "id": "28019",
+        "school_id": "514",
+        "special_id": "40",
+        "nation_feature": "1",
+        "province_feature": "2",
+        "is_important": "1",
+        "limit_year": "四年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "1",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "79",
+        "ruanke_level": "B+",
+        "is_video": 2,
+        "special_name": "汉语言文学",
+        "level_name": "本科(普通)"
+      },
+      {
+        "id": "27978",
+        "school_id": "514",
+        "special_id": "245",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "1",
+        "limit_year": "四年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "2",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "9999",
+        "ruanke_level": "",
+        "is_video": 2,
+        "special_name": "生物工程",
+        "level_name": "本科(普通)"
+      },
+      {
+        "id": "27999",
+        "school_id": "514",
+        "special_id": "116",
+        "nation_feature": "1",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "四年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "1",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "105",
+        "ruanke_level": "B+",
+        "is_video": 2,
+        "special_name": "数学与应用数学",
+        "level_name": "本科(普通)"
+      },
+      {
+        "id": "27988",
+        "school_id": "514",
+        "special_id": "124",
+        "nation_feature": "1",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "四年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "1",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "17",
+        "ruanke_level": "A",
+        "is_video": 2,
+        "special_name": "地理科学",
+        "level_name": "本科(普通)"
+      },
+      {
+        "id": "569660",
+        "school_id": "514",
+        "special_id": "136",
+        "nation_feature": "1",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "四年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "1",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "103",
+        "ruanke_level": "B",
+        "is_video": 2,
+        "special_name": "生物科学",
+        "level_name": "本科(普通)"
+      },
+      {
+        "id": "161274",
+        "school_id": "514",
+        "special_id": "28",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "四年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "2",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "9999",
+        "ruanke_level": "",
+        "is_video": 2,
+        "special_name": "科学教育",
+        "level_name": "本科(普通)"
+      },
+      {
+        "id": "28008",
+        "school_id": "514",
+        "special_id": "42",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "四年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "2",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "114",
+        "ruanke_level": "B",
+        "is_video": 2,
+        "special_name": "汉语国际教育",
+        "level_name": "本科(普通)"
+      },
+      {
+        "id": "28023",
+        "school_id": "514",
+        "special_id": "14",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "四年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "1",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "192",
+        "ruanke_level": "B",
+        "is_video": 2,
+        "special_name": "法学",
+        "level_name": "本科(普通)"
+      },
+      {
+        "id": "28010",
+        "school_id": "514",
+        "special_id": "112",
+        "nation_feature": "1",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "四年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "1",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "72",
+        "ruanke_level": "B",
+        "is_video": 2,
+        "special_name": "历史学",
+        "level_name": "本科(普通)"
+      },
+      {
+        "id": "28041",
+        "school_id": "514",
+        "special_id": "23",
+        "nation_feature": "1",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "四年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "1",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "61",
+        "ruanke_level": "B",
+        "is_video": 2,
+        "special_name": "思想政治教育",
+        "level_name": "本科(普通)"
+      }
+    ],
+    "nature_name": "公办",
+    "province_score_min": {
+      "13": {
+        "province_id": "13",
+        "type": "2073",
+        "min": "487",
+        "year": "2024"
+      },
+      "14": {
+        "province_id": "14",
+        "type": "1",
+        "min": "474",
+        "year": "2024"
+      },
+      "22": {
+        "province_id": "22",
+        "type": "2073",
+        "min": "460",
+        "year": "2024"
+      },
+      "23": {
+        "province_id": "23",
+        "type": "2073",
+        "min": "465",
+        "year": "2024"
+      },
+      "33": {
+        "province_id": "33",
+        "type": "3",
+        "min": "492",
+        "year": "2024"
+      },
+      "34": {
+        "province_id": "34",
+        "type": "2073",
+        "min": "513",
+        "year": "2024"
+      },
+      "36": {
+        "province_id": "36",
+        "type": "2073",
+        "min": "510",
+        "year": "2024"
+      },
+      "37": {
+        "province_id": "37",
+        "type": "3",
+        "min": "492",
+        "year": "2024"
+      },
+      "41": {
+        "province_id": "41",
+        "type": "1",
+        "min": "501",
+        "year": "2024"
+      },
+      "43": {
+        "province_id": "43",
+        "type": "2073",
+        "min": "538",
+        "year": "2024"
+      },
+      "44": {
+        "province_id": "44",
+        "type": "2073",
+        "min": "539",
+        "year": "2024"
+      },
+      "45": {
+        "province_id": "45",
+        "type": "2073",
+        "min": "509",
+        "year": "2024"
+      },
+      "50": {
+        "province_id": "50",
+        "type": "2073",
+        "min": "526",
+        "year": "2024"
+      },
+      "51": {
+        "province_id": "51",
+        "type": "1",
+        "min": "521",
+        "year": "2024"
+      },
+      "52": {
+        "province_id": "52",
+        "type": "2073",
+        "min": "470",
+        "year": "2024"
+      },
+      "53": {
+        "province_id": "53",
+        "type": "1",
+        "min": "493",
+        "year": "2024"
+      },
+      "61": {
+        "province_id": "61",
+        "type": "1",
+        "min": "451",
+        "year": "2024"
+      },
+      "32": {
+        "province_id": "32",
+        "type": "2073",
+        "min": "506",
+        "year": "2022"
+      },
+      "35": {
+        "province_id": "35",
+        "type": "2073",
+        "min": "541",
+        "year": "2022"
+      },
+      "42": {
+        "province_id": "42",
+        "type": "2073",
+        "min": "497",
+        "year": "2022"
+      },
+      "46": {
+        "province_id": "46",
+        "type": "3",
+        "min": "554",
+        "year": "2022"
+      }
+    },
+    "pro_type_min": {
+      "13": [
+        {
+          "year": 2024,
+          "type": {
+            "2074": "495",
+            "2073": "487"
+          }
+        },
+        {
+          "year": 2023,
+          "type": {
+            "2073": "507",
+            "2074": "480"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "2074": "492",
+            "2073": "464"
+          }
+        }
+      ],
+      "14": [
+        {
+          "year": 2024,
+          "type": {
+            "2": "496",
+            "1": "474"
+          }
+        },
+        {
+          "year": 2023,
+          "type": {
+            "2": "455",
+            "1": "443"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "2": "507",
+            "1": "443"
+          }
+        }
+      ],
+      "22": [
+        {
+          "year": 2024,
+          "type": {
+            "2074": "478",
+            "2073": "460"
+          }
+        },
+        {
+          "year": 2023,
+          "type": {
+            "2": "398",
+            "1": "376"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "1": "475"
+          }
+        }
+      ],
+      "23": [
+        {
+          "year": 2024,
+          "type": {
+            "2074": "480",
+            "2073": "465"
+          }
+        },
+        {
+          "year": 2023,
+          "type": {
+            "2": "394",
+            "1": "376"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "2": "447",
+            "1": "366"
+          }
+        }
+      ],
+      "33": [
+        {
+          "year": 2024,
+          "type": {
+            "3": "492"
+          }
+        },
+        {
+          "year": 2023,
+          "type": {
+            "3": "527"
+          }
+        }
+      ],
+      "34": [
+        {
+          "year": 2024,
+          "type": {
+            "2073": "513"
+          }
+        },
+        {
+          "year": 2023,
+          "type": {
+            "1": "442"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "2": "519",
+            "1": "493"
+          }
+        }
+      ],
+      "36": [
+        {
+          "year": 2024,
+          "type": {
+            "2074": "534",
+            "2073": "510"
+          }
+        },
+        {
+          "year": 2023,
+          "type": {
+            "2": "529",
+            "1": "492"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "2": "516",
+            "1": "483"
+          }
+        }
+      ],
+      "37": [
+        {
+          "year": 2024,
+          "type": {
+            "3": "492"
+          }
+        },
+        {
+          "year": 2023,
+          "type": {
+            "3": "511"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "3": "474"
+          }
+        }
+      ],
+      "41": [
+        {
+          "year": 2024,
+          "type": {
+            "2": "521",
+            "1": "501"
+          }
+        },
+        {
+          "year": 2023,
+          "type": {
+            "2": "540",
+            "1": "491"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "2": "490",
+            "1": "475"
+          }
+        }
+      ],
+      "43": [
+        {
+          "year": 2024,
+          "type": {
+            "2074": "543",
+            "2073": "538"
+          }
+        },
+        {
+          "year": 2023,
+          "type": {
+            "2073": "548",
+            "2074": "537"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "2074": "536",
+            "2073": "526"
+          }
+        }
+      ],
+      "44": [
+        {
+          "year": 2024,
+          "type": {
+            "2073": "539",
+            "2074": "528"
+          }
+        },
+        {
+          "year": 2023,
+          "type": {
+            "2073": "542",
+            "2074": "525"
+          }
+        }
+      ],
+      "45": [
+        {
+          "year": 2024,
+          "type": {
+            "2074": "544",
+            "2073": "509"
+          }
+        },
+        {
+          "year": 2023,
+          "type": {
+            "2": "540",
+            "1": "466"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "2": "530",
+            "1": "467"
+          }
+        }
+      ],
+      "50": [
+        {
+          "year": 2024,
+          "type": {
+            "2074": "528",
+            "2073": "526"
+          }
+        },
+        {
+          "year": 2023,
+          "type": {
+            "2074": "505",
+            "2073": "492"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "2074": "515",
+            "2073": "505"
+          }
+        }
+      ],
+      "51": [
+        {
+          "year": 2024,
+          "type": {
+            "1": "521",
+            "2": "521"
+          }
+        },
+        {
+          "year": 2023,
+          "type": {
+            "2": "543",
+            "1": "480"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "2": "547",
+            "1": "523"
+          }
+        }
+      ],
+      "52": [
+        {
+          "year": 2024,
+          "type": {
+            "2074": "522",
+            "2073": "470"
+          }
+        },
+        {
+          "year": 2023,
+          "type": {
+            "2": "568",
+            "1": "499"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "2": "571",
+            "1": "492"
+          }
+        }
+      ],
+      "53": [
+        {
+          "year": 2024,
+          "type": {
+            "2": "570",
+            "1": "493"
+          }
+        },
+        {
+          "year": 2023,
+          "type": {
+            "2": "485",
+            "1": "410"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "2": "580",
+            "1": "509"
+          }
+        }
+      ],
+      "61": [
+        {
+          "year": 2024,
+          "type": {
+            "2": "484",
+            "1": "451"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "2": "486",
+            "1": "434"
+          }
+        }
+      ],
+      "32": [
+        {
+          "year": 2022,
+          "type": {
+            "2074": "526",
+            "2073": "506"
+          }
+        }
+      ],
+      "35": [
+        {
+          "year": 2022,
+          "type": {
+            "2074": "555",
+            "2073": "541"
+          }
+        }
+      ],
+      "42": [
+        {
+          "year": 2022,
+          "type": {
+            "2074": "540",
+            "2073": "497"
+          }
+        }
+      ],
+      "46": [
+        {
+          "year": 2022,
+          "type": {
+            "3": "554"
+          }
+        }
+      ]
+    },
+    "pro_type": {
+      "13": [
+        "2073",
+        "2074"
+      ],
+      "14": [
+        "1",
+        "2"
+      ],
+      "22": [
+        "2073",
+        "2074",
+        "1",
+        "2"
+      ],
+      "23": [
+        "2073",
+        "2074",
+        "1",
+        "2"
+      ],
+      "33": [
+        "3"
+      ],
+      "34": [
+        "2073",
+        "1",
+        "2"
+      ],
+      "36": [
+        "2073",
+        "2074",
+        "1",
+        "2"
+      ],
+      "37": [
+        "3"
+      ],
+      "41": [
+        "1",
+        "2"
+      ],
+      "43": [
+        "2073",
+        "2074"
+      ],
+      "44": [
+        "2073",
+        "2074"
+      ],
+      "45": [
+        "2073",
+        "2074",
+        "1",
+        "2"
+      ],
+      "50": [
+        "2073",
+        "2074"
+      ],
+      "51": [
+        "1",
+        "2"
+      ],
+      "52": [
+        "2073",
+        "2074",
+        "1",
+        "2"
+      ],
+      "53": [
+        "1",
+        "2"
+      ],
+      "61": [
+        "1",
+        "2"
+      ],
+      "32": [
+        "2073",
+        "2074"
+      ],
+      "35": [
+        "2073",
+        "2074"
+      ],
+      "42": [
+        "2073",
+        "2074"
+      ],
+      "46": [
+        "3"
+      ]
+    },
+    "province_score_year": "2024",
+    "qs_world": "0",
+    "rank": {
+      "ruanke_rank": "237",
+      "xyh_rank": "216",
+      "qs_world": "0",
+      "us_rank": "2026",
+      "rk_mb": "0",
+      "rk_dl": "0",
+      "rk_zw": "0",
+      "rk_yy": "0",
+      "rk_cj": "0",
+      "rk_yuy": "0",
+      "rk_zf": "0",
+      "rk_ty": "0",
+      "rk_mz": "0",
+      "xyh_gz_1": "0",
+      "xyh_gz_2": "0",
+      "xyh_gz_3": "0",
+      "xyh_mb_1": "0",
+      "xyh_mb_2": "0",
+      "xyh_mb_3": "0",
+      "tws_china": "0"
+    },
+    "fenxiao": [
+      {
+        "fx_name": "花溪校区",
+        "yuanxi": []
+      },
+      {
+        "fx_name": "宝山校区",
+        "yuanxi": []
+      }
+    ],
+    "gbh_url": "https://heec.cahe.edu.cn/school/477",
+    "is_yikao": 1,
+    "yk_feature": [],
+    "yk_type": [
+      "统考"
+    ],
+    "is_international_undergraduate": 2,
+    "is_evaluation": 2,
+    "is_special_project": 1,
+    "single_province": {}
+  },
+  "md5": "88b4052997ec57d27322e4cb61c473b0"
+}

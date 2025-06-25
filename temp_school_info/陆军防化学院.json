@@ -1,0 +1,481 @@
+{
+  "code": "0000",
+  "message": "成功",
+  "data": {
+    "school_id": "1309",
+    "data_code": "112010800",
+    "name": "陆军防化学院",
+    "type": "5011",
+    "school_type": "6000",
+    "school_nature": "36000",
+    "level": "2001",
+    "code_enroll": "9999999",
+    "zs_code": "99999",
+    "belong": "解放军总参谋部",
+    "f985": "2",
+    "f211": "2",
+    "department": "2",
+    "admissions": "2",
+    "central": "2",
+    "dual_class": "38003",
+    "is_seal": "1",
+    "applied_grade": "0",
+    "vocational": "2",
+    "num_subject": "0",
+    "num_master": "0",
+    "num_doctor": "1",
+    "num_academician": "0",
+    "num_library": "0.00万",
+    "num_lab": "0",
+    "province_id": "11",
+    "city_id": "1101",
+    "county_id": "110114",
+    "is_ads": "2",
+    "is_recruitment": "1",
+    "create_date": "1950",
+    "area": 12000,
+    "old_name": "解放军防化学院,中国人民解放军陆军防化学院,中国人民解放军陆军防化学院",
+    "is_fenxiao": "2",
+    "status": "1",
+    "ad_level": "2",
+    "short": "陆军防化学院",
+    "e_pc": "1",
+    "e_app": "1",
+    "ruanke_rank": "0",
+    "single": "",
+    "colleges_level": "",
+    "doublehigh": "0",
+    "wsl_rank": "0",
+    "qs_rank": "0",
+    "xyh_rank": "0",
+    "is_sell": "2",
+    "eol_rank": "1908",
+    "school_batch": "6,36",
+    "us_rank": "0",
+    "is_logo": "1",
+    "num_master2": "0",
+    "num_doctor2": "0",
+    "ai_status": "1",
+    "is_ads2": "2",
+    "coop_money": "0.00",
+    "bdold_name": "中国人民解放军陆军防化学院",
+    "college_employment": "1",
+    "xyq_id": "552",
+    "senior_status": "2",
+    "senior_show": "1",
+    "is_upgrade": "2",
+    "view_total_show": "1",
+    "gb_show": "2",
+    "gbh_num": "0",
+    "motto": "",
+    "upgrading_rate": "0.00",
+    "recommend_master_rate": "0.00",
+    "is_show_xcxcode": 2,
+    "master_arr": [
+      {
+        "name": "专业学位硕士点",
+        "num": "6"
+      },
+      {
+        "name": "学术学位硕士点",
+        "num": "1"
+      }
+    ],
+    "doctor_arr": [
+      {
+        "name": "一级学科博士学位授权点",
+        "num": "1"
+      }
+    ],
+    "subject_arr": [],
+    "level_name": "本科",
+    "type_name": "军事类",
+    "school_type_name": "本科",
+    "school_nature_name": "公办",
+    "dual_class_name": "",
+    "xueke_rank": {},
+    "province_single": {},
+    "single_year": 2021,
+    "remark": [],
+    "province_name": "北京",
+    "city_name": "北京市",
+    "town_name": "昌平区",
+    "weiwangzhan": "",
+    "yjszs": "https://www.kaoyan.cn/school/862",
+    "xiaoyuan": "",
+    "urllinks": {
+      "71006": {
+        "school_id": "1309",
+        "link": "https://s95.cnzz.com/z_stat.php?id=1254859712&web_id=1254859712",
+        "type": "71006",
+        "img_url": "",
+        "title": ""
+      },
+      "71004": {
+        "school_id": "1309",
+        "link": "https://www.kaoyan.cn/school/862",
+        "type": "71004",
+        "img_url": "",
+        "title": ""
+      }
+    },
+    "email": "",
+    "school_email": "",
+    "address": "北京市昌平区阳坊镇中心北街1号",
+    "postcode": "100000",
+    "site": "",
+    "school_site": "",
+    "phone": "010-69760533,010-66761229",
+    "school_phone": "",
+    "miniprogram": "",
+    "content": "中国人民解放军防化指挥工程学院位于北京市昌平区，占地近3000亩，隶属于中国人民解放军总参谋部，是全军唯一的培养防化指挥与工程技术人才的综合型高等院校。中国人民解放军防化指挥工程学院前身为军委化学兵学校，1950年由毛主席、周总理批准成立。根据新的教学任务规划，中国人民解放军防化指挥工程学院承担学历教育和任职教育双重任务。现有全军重点学科2个",
+    "video": {},
+    "video_pc": {
+      "school_id": "1309",
+      "url": "",
+      "url_type": "1",
+      "img_url": "https://static-data.gaokao.cn//upload/svideo/1611819770_7909_thumb.jpg"
+    },
+    "is_video": 1,
+    "dualclass": [],
+    "school_special_num": 4,
+    "special": [
+      {
+        "id": "1378947",
+        "school_id": "1309",
+        "special_id": "121",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "四年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "2",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "9999",
+        "ruanke_level": "",
+        "is_video": 2,
+        "special_name": "化学",
+        "level_name": "本科(普通)"
+      },
+      {
+        "id": "1378948",
+        "school_id": "1309",
+        "special_id": "137",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "四年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "2",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "9999",
+        "ruanke_level": "",
+        "is_video": 2,
+        "special_name": "生物技术",
+        "level_name": "本科(普通)"
+      },
+      {
+        "id": "1378949",
+        "school_id": "1309",
+        "special_id": "220",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "四年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "2",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "9999",
+        "ruanke_level": "",
+        "is_video": 2,
+        "special_name": "辐射防护与核安全",
+        "level_name": "本科(普通)"
+      },
+      {
+        "id": "1378950",
+        "school_id": "1309",
+        "special_id": "4203",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "2",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "9999",
+        "ruanke_level": "",
+        "is_video": 2,
+        "special_name": "作战指挥",
+        "level_name": "本科(普通)"
+      }
+    ],
+    "nature_name": "公办",
+    "province_score_min": {
+      "11": {
+        "province_id": "11",
+        "type": "3",
+        "min": "553",
+        "year": "2024"
+      },
+      "21": {
+        "province_id": "21",
+        "type": "2073",
+        "min": "548",
+        "year": "2024"
+      },
+      "32": {
+        "province_id": "32",
+        "type": "2073",
+        "min": "586",
+        "year": "2024"
+      },
+      "34": {
+        "province_id": "34",
+        "type": "2073",
+        "min": "567",
+        "year": "2024"
+      },
+      "42": {
+        "province_id": "42",
+        "type": "2073",
+        "min": "563",
+        "year": "2024"
+      },
+      "43": {
+        "province_id": "43",
+        "type": "2073",
+        "min": "579",
+        "year": "2024"
+      },
+      "50": {
+        "province_id": "50",
+        "type": "2073",
+        "min": "577",
+        "year": "2024"
+      },
+      "51": {
+        "province_id": "51",
+        "type": "1",
+        "min": "574",
+        "year": "2024"
+      },
+      "36": {
+        "province_id": "36",
+        "type": "1",
+        "min": "559",
+        "year": "2023"
+      }
+    },
+    "pro_type_min": {
+      "11": [
+        {
+          "year": 2024,
+          "type": {
+            "3": "553"
+          }
+        },
+        {
+          "year": 2023,
+          "type": {
+            "3": "529"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "3": "549"
+          }
+        }
+      ],
+      "21": [
+        {
+          "year": 2024,
+          "type": {
+            "2073": "548"
+          }
+        }
+      ],
+      "32": [
+        {
+          "year": 2024,
+          "type": {
+            "2073": "586"
+          }
+        }
+      ],
+      "34": [
+        {
+          "year": 2024,
+          "type": {
+            "2073": "567"
+          }
+        },
+        {
+          "year": 2023,
+          "type": {
+            "1": "547"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "1": "548"
+          }
+        }
+      ],
+      "42": [
+        {
+          "year": 2024,
+          "type": {
+            "2073": "563"
+          }
+        },
+        {
+          "year": 2023,
+          "type": {
+            "2073": "566"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "2073": "544"
+          }
+        }
+      ],
+      "43": [
+        {
+          "year": 2024,
+          "type": {
+            "2073": "579"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "2073": "570"
+          }
+        }
+      ],
+      "50": [
+        {
+          "year": 2024,
+          "type": {
+            "2073": "577"
+          }
+        }
+      ],
+      "51": [
+        {
+          "year": 2024,
+          "type": {
+            "1": "574"
+          }
+        },
+        {
+          "year": 2023,
+          "type": {
+            "1": "520"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "1": "613"
+          }
+        }
+      ],
+      "36": [
+        {
+          "year": 2023,
+          "type": {
+            "1": "559"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "1": "544"
+          }
+        }
+      ]
+    },
+    "pro_type": {
+      "11": [
+        "3"
+      ],
+      "21": [
+        "2073"
+      ],
+      "32": [
+        "2073"
+      ],
+      "34": [
+        "2073",
+        "1"
+      ],
+      "42": [
+        "2073"
+      ],
+      "43": [
+        "2073"
+      ],
+      "50": [
+        "2073"
+      ],
+      "51": [
+        "1"
+      ],
+      "36": [
+        "1"
+      ]
+    },
+    "province_score_year": "2024",
+    "qs_world": "0",
+    "rank": {
+      "ruanke_rank": "0",
+      "xyh_rank": "0",
+      "qs_world": "0",
+      "us_rank": "0",
+      "rk_mb": "0",
+      "rk_dl": "0",
+      "rk_zw": "0",
+      "rk_yy": "0",
+      "rk_cj": "0",
+      "rk_yuy": "0",
+      "rk_zf": "0",
+      "rk_ty": "0",
+      "rk_mz": "0",
+      "xyh_gz_1": "0",
+      "xyh_gz_2": "0",
+      "xyh_gz_3": "0",
+      "xyh_mb_1": "0",
+      "xyh_mb_2": "0",
+      "xyh_mb_3": "0",
+      "tws_china": "0"
+    },
+    "fenxiao": [
+      {
+        "fx_name": "校本部",
+        "yuanxi": []
+      }
+    ],
+    "gbh_url": "",
+    "is_yikao": 2,
+    "yk_feature": [],
+    "yk_type": [],
+    "is_international_undergraduate": 2,
+    "is_evaluation": 2,
+    "is_special_project": 2,
+    "single_province": {}
+  },
+  "md5": "5912a69bae9618c444f170cea1cb0351"
+}

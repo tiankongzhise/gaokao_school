@@ -1,0 +1,235 @@
+{
+  "code": "0000",
+  "message": "成功",
+  "data": {
+    "school_id": "1430",
+    "data_code": "412004500",
+    "name": "河南警察学院",
+    "type": "5007",
+    "school_type": "6000",
+    "school_nature": "36000",
+    "level": "2001",
+    "code_enroll": "1178800",
+    "zs_code": "11788",
+    "belong": "河南省",
+    "f985": "2",
+    "f211": "2",
+    "department": "2",
+    "admissions": "2",
+    "central": "2",
+    "dual_class": "38003",
+    "is_seal": "1",
+    "applied_grade": "0",
+    "vocational": "2",
+    "num_subject": "0",
+    "num_master": "0",
+    "num_doctor": "0",
+    "num_academician": "0",
+    "num_library": "98.00万",
+    "num_lab": "0",
+    "province_id": "41",
+    "city_id": "4101",
+    "county_id": "0",
+    "is_ads": "1",
+    "is_recruitment": "1",
+    "create_date": "1949",
+    "area": 1390,
+    "old_name": "",
+    "is_fenxiao": "2",
+    "status": "1",
+    "ad_level": "2",
+    "short": "河南警院",
+    "e_pc": "1",
+    "e_app": "1",
+    "ruanke_rank": "372",
+    "single": "",
+    "colleges_level": "",
+    "doublehigh": "0",
+    "wsl_rank": "0",
+    "qs_rank": "0",
+    "xyh_rank": "475",
+    "is_sell": "1",
+    "eol_rank": "549",
+    "school_batch": "",
+    "us_rank": "0",
+    "is_logo": "1",
+    "num_master2": "0",
+    "num_doctor2": "0",
+    "ai_status": "1",
+    "is_ads2": "1",
+    "coop_money": "105000.00",
+    "bdold_name": "",
+    "college_employment": "1",
+    "xyq_id": "807",
+    "senior_status": "2",
+    "senior_show": "2",
+    "is_upgrade": "2",
+    "view_total_show": "1",
+    "gb_show": "1",
+    "gbh_num": "0",
+    "motto": "",
+    "upgrading_rate": "0.00",
+    "recommend_master_rate": "0.00",
+    "is_show_xcxcode": 2,
+    "master_arr": [],
+    "doctor_arr": [],
+    "subject_arr": [],
+    "level_name": "本科",
+    "type_name": "政法类",
+    "school_type_name": "本科",
+    "school_nature_name": "公办",
+    "dual_class_name": "",
+    "xueke_rank": {},
+    "province_single": {},
+    "single_year": 2021,
+    "remark": [],
+    "province_name": "河南",
+    "city_name": "郑州市",
+    "town_name": "",
+    "weiwangzhan": "",
+    "yjszs": "",
+    "xiaoyuan": "",
+    "urllinks": {
+      "71006": {
+        "school_id": "1430",
+        "link": "https://s4.cnzz.com/z_stat.php?id=1254860978&web_id=1254860978",
+        "type": "71006",
+        "img_url": "",
+        "title": ""
+      }
+    },
+    "email": "jyzsb@hnp.edu.cn",
+    "school_email": "",
+    "address": "校本部：河南省郑州市郑东新区龙子湖东路1号,开封校区：河南省开封市开封市市辖区东京大道,洛阳校区：河南省洛阳市西工区王城大道156号",
+    "postcode": "450046",
+    "site": "https://xsc.hnp.edu.cn/",
+    "school_site": "https://www.hnp.edu.cn/",
+    "phone": "0371-56817119,0371-56817120",
+    "school_phone": "",
+    "miniprogram": "",
+    "content": "河南警察学院是我省唯一的省属公安本科院校，前身是1949年2月成立的河南省人民政府公安厅公安学校，历经河南省公安干部学校、河南省人民警察学校、河南公安高等专科学校等时期。2010年3月经教育部批准成立河南警察学院。2012年8月开封警校、洛阳警校并入河南警察学院。2019年11月通过教育部本科教学合格评估。2021年，被省教育厅、省发改委、省财政厅批准为河南省警务",
+    "video": {
+      "school_id": "1430",
+      "url": "https://vod.zjzw.cn/h3701925919839605934/pkrafj3yu1vapm29pn2okiq6chb7vqxt.mp4",
+      "url_type": 2,
+      "img_url": "https://static-data.gaokao.cn//upload/svideo/piliang_1430_thumb.jpg"
+    },
+    "video_pc": {
+      "school_id": "1430",
+      "url": "https://vod.zjzw.cn/h3701925919839605934/pkrafj3yu1vapm29pn2okiq6chb7vqxt.mp4",
+      "url_type": 2,
+      "img_url": "https://static-data.gaokao.cn//upload/svideo/piliang_1430_thumb.jpg"
+    },
+    "is_video": 1,
+    "dualclass": [],
+    "school_special_num": 1,
+    "special": [
+      {
+        "id": "54131",
+        "school_id": "1430",
+        "special_id": "14",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "四年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "2",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "9999",
+        "ruanke_level": "",
+        "is_video": 2,
+        "special_name": "法学",
+        "level_name": "本科(普通)"
+      }
+    ],
+    "nature_name": "公办",
+    "province_score_min": {
+      "41": {
+        "province_id": "41",
+        "type": "1",
+        "min": "512",
+        "year": "2024"
+      }
+    },
+    "pro_type_min": {
+      "41": [
+        {
+          "year": 2024,
+          "type": {
+            "2": "523",
+            "1": "512"
+          }
+        },
+        {
+          "year": 2023,
+          "type": {
+            "2": "545",
+            "1": "513"
+          }
+        },
+        {
+          "year": 2022,
+          "type": {
+            "1": "563",
+            "2": "556"
+          }
+        }
+      ]
+    },
+    "pro_type": {
+      "41": [
+        "1",
+        "2"
+      ]
+    },
+    "province_score_year": "2024",
+    "qs_world": "0",
+    "rank": {
+      "ruanke_rank": "372",
+      "xyh_rank": "475",
+      "qs_world": "0",
+      "us_rank": "0",
+      "rk_mb": "0",
+      "rk_dl": "0",
+      "rk_zw": "0",
+      "rk_yy": "0",
+      "rk_cj": "0",
+      "rk_yuy": "0",
+      "rk_zf": "19",
+      "rk_ty": "0",
+      "rk_mz": "0",
+      "xyh_gz_1": "0",
+      "xyh_gz_2": "0",
+      "xyh_gz_3": "0",
+      "xyh_mb_1": "0",
+      "xyh_mb_2": "0",
+      "xyh_mb_3": "0",
+      "tws_china": "0"
+    },
+    "fenxiao": [
+      {
+        "fx_name": "校本部",
+        "yuanxi": []
+      },
+      {
+        "fx_name": "开封校区",
+        "yuanxi": []
+      },
+      {
+        "fx_name": "洛阳校区",
+        "yuanxi": []
+      }
+    ],
+    "gbh_url": "https://heec.cahe.edu.cn/school/1941",
+    "is_yikao": 2,
+    "yk_feature": [],
+    "yk_type": [],
+    "is_international_undergraduate": 2,
+    "is_evaluation": 2,
+    "is_special_project": 2,
+    "single_province": {}
+  },
+  "md5": "62e441db1aaaf832523acf017b9182c9"
+}
