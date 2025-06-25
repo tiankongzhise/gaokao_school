@@ -1,0 +1,44 @@
+{
+  "code": "0000",
+  "message": "成功",
+  "data": {
+    "1": {
+      "numFound": 1,
+      "item": [
+        {
+          "school_id": "433",
+          "province_id": "43",
+          "type": "1",
+          "batch": "7",
+          "zslx": "0",
+          "xclevel": "0",
+          "max": "-",
+          "min_section": "27340",
+          "min": "575",
+          "average": "-",
+          "filing": "575",
+          "special_group": "0",
+          "first_km": "0",
+          "num": "-",
+          "local_province_name": "湖南",
+          "local_type_name": "理科",
+          "local_batch_id": "7",
+          "local_batch_name": "本科一批",
+          "zslx_name": "普通类",
+          "xclevel_name": "-",
+          "zslx_rank": 200,
+          "sg_fxk": "",
+          "sg_sxk": "",
+          "sg_type": "",
+          "sg_name": "",
+          "sg_info": "",
+          "proscore": "507",
+          "year": "2020",
+          "diff": 68
+        }
+      ]
+    }
+  },
+  "md5": "2e395ad2a711bcdd7a640c8ffc63de85",
+  "time": "2025-06-11 18:11:11"
+}

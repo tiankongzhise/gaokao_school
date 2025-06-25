@@ -1,0 +1,80 @@
+{
+  "code": "0000",
+  "message": "成功",
+  "data": {
+    "2073": {
+      "numFound": 1,
+      "item": [
+        {
+          "school_id": "1986",
+          "province_id": "43",
+          "type": "2073",
+          "batch": "14",
+          "zslx": "0",
+          "xclevel": "0",
+          "max": "-",
+          "min_section": "103626",
+          "min": "469",
+          "average": "-",
+          "filing": "469",
+          "special_group": "68275",
+          "first_km": "70000",
+          "num": "-",
+          "local_province_name": "湖南",
+          "local_type_name": "物理类",
+          "local_batch_id": "14",
+          "local_batch_name": "本科批",
+          "zslx_name": "普通类",
+          "xclevel_name": "-",
+          "zslx_rank": 200,
+          "sg_fxk": "70000",
+          "sg_sxk": "70008",
+          "sg_type": "80001",
+          "sg_name": "（002）",
+          "sg_info": "首选物理，再选不限",
+          "proscore": "414",
+          "year": "2022",
+          "diff": 55
+        }
+      ]
+    },
+    "2074": {
+      "numFound": 1,
+      "item": [
+        {
+          "school_id": "1986",
+          "province_id": "43",
+          "type": "2074",
+          "batch": "14",
+          "zslx": "0",
+          "xclevel": "0",
+          "max": "-",
+          "min_section": "28947",
+          "min": "496",
+          "average": "-",
+          "filing": "496",
+          "special_group": "64289",
+          "first_km": "70004",
+          "num": "-",
+          "local_province_name": "湖南",
+          "local_type_name": "历史类",
+          "local_batch_id": "14",
+          "local_batch_name": "本科批",
+          "zslx_name": "普通类",
+          "xclevel_name": "-",
+          "zslx_rank": 200,
+          "sg_fxk": "70004",
+          "sg_sxk": "70008",
+          "sg_type": "80001",
+          "sg_name": "（001）",
+          "sg_info": "首选历史，再选不限",
+          "proscore": "451",
+          "year": "2022",
+          "diff": 45
+        }
+      ]
+    }
+  },
+  "md5": "b20d59189ffa908f55cd6fe223865f0e",
+  "time": "2025-06-11 19:24:07"
+}

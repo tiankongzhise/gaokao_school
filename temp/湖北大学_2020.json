@@ -1,0 +1,80 @@
+{
+  "code": "0000",
+  "message": "成功",
+  "data": {
+    "1": {
+      "numFound": 1,
+      "item": [
+        {
+          "school_id": "425",
+          "province_id": "43",
+          "type": "1",
+          "batch": "7",
+          "zslx": "0",
+          "xclevel": "0",
+          "max": "-",
+          "min_section": "19644",
+          "min": "591",
+          "average": "-",
+          "filing": "591",
+          "special_group": "0",
+          "first_km": "0",
+          "num": "-",
+          "local_province_name": "湖南",
+          "local_type_name": "理科",
+          "local_batch_id": "7",
+          "local_batch_name": "本科一批",
+          "zslx_name": "普通类",
+          "xclevel_name": "-",
+          "zslx_rank": 200,
+          "sg_fxk": "",
+          "sg_sxk": "",
+          "sg_type": "",
+          "sg_name": "",
+          "sg_info": "",
+          "proscore": "507",
+          "year": "2020",
+          "diff": 84
+        }
+      ]
+    },
+    "2": {
+      "numFound": 1,
+      "item": [
+        {
+          "school_id": "425",
+          "province_id": "43",
+          "type": "2",
+          "batch": "7",
+          "zslx": "0",
+          "xclevel": "0",
+          "max": "-",
+          "min_section": "4013",
+          "min": "601",
+          "average": "-",
+          "filing": "601",
+          "special_group": "0",
+          "first_km": "0",
+          "num": "-",
+          "local_province_name": "湖南",
+          "local_type_name": "文科",
+          "local_batch_id": "7",
+          "local_batch_name": "本科一批",
+          "zslx_name": "普通类",
+          "xclevel_name": "-",
+          "zslx_rank": 200,
+          "sg_fxk": "",
+          "sg_sxk": "",
+          "sg_type": "",
+          "sg_name": "",
+          "sg_info": "",
+          "proscore": "550",
+          "year": "2020",
+          "diff": 51
+        }
+      ]
+    }
+  },
+  "md5": "7c568cbf656054b133295637df060c7f",
+  "time": "2025-06-11 18:09:46"
+}

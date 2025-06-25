@@ -1,0 +1,44 @@
+{
+  "code": "0000",
+  "message": "成功",
+  "data": {
+    "2073": {
+      "numFound": 1,
+      "item": [
+        {
+          "school_id": "576",
+          "province_id": "43",
+          "type": "2073",
+          "batch": "14",
+          "zslx": "0",
+          "xclevel": "0",
+          "max": "-",
+          "min_section": "13300",
+          "min": "597",
+          "average": "-",
+          "filing": "597",
+          "special_group": "31958",
+          "first_km": "70000",
+          "num": "-",
+          "local_province_name": "湖南",
+          "local_type_name": "物理类",
+          "local_batch_id": "14",
+          "local_batch_name": "本科批",
+          "zslx_name": "普通类",
+          "xclevel_name": "-",
+          "zslx_rank": 200,
+          "sg_fxk": "70000",
+          "sg_sxk": "70008",
+          "sg_type": "80001",
+          "sg_name": "（101）",
+          "sg_info": "首选物理，再选不限",
+          "proscore": "434",
+          "year": "2021",
+          "diff": 163
+        }
+      ]
+    }
+  },
+  "md5": "02a0a5e0df93257f9e23d7a02eb38eaf",
+  "time": "2025-06-11 18:22:27"
+}

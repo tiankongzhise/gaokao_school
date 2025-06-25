@@ -1,0 +1,80 @@
+{
+  "code": "0000",
+  "message": "成功",
+  "data": {
+    "2074": {
+      "numFound": 1,
+      "item": [
+        {
+          "school_id": "40",
+          "province_id": "43",
+          "type": "2074",
+          "batch": "6",
+          "zslx": "0",
+          "xclevel": "0",
+          "max": "-",
+          "min_section": "0",
+          "min": "326",
+          "average": "-",
+          "filing": "0",
+          "special_group": "136566",
+          "first_km": "70004",
+          "num": "-",
+          "local_province_name": "湖南",
+          "local_type_name": "历史类",
+          "local_batch_id": "6",
+          "local_batch_name": "本科提前批",
+          "zslx_name": "普通类",
+          "xclevel_name": "-",
+          "zslx_rank": 200,
+          "sg_fxk": "70004",
+          "sg_sxk": "70008",
+          "sg_type": "80001",
+          "sg_name": "（L艺术类）",
+          "sg_info": "首选历史，再选不限",
+          "proscore": "-",
+          "year": "2021",
+          "diff": "-"
+        }
+      ]
+    },
+    "2073": {
+      "numFound": 1,
+      "item": [
+        {
+          "school_id": "40",
+          "province_id": "43",
+          "type": "2073",
+          "batch": "6",
+          "zslx": "0",
+          "xclevel": "0",
+          "max": "-",
+          "min_section": "0",
+          "min": "303",
+          "average": "-",
+          "filing": "0",
+          "special_group": "136572",
+          "first_km": "70000",
+          "num": "-",
+          "local_province_name": "湖南",
+          "local_type_name": "物理类",
+          "local_batch_id": "6",
+          "local_batch_name": "本科提前批",
+          "zslx_name": "普通类",
+          "xclevel_name": "-",
+          "zslx_rank": 200,
+          "sg_fxk": "70000",
+          "sg_sxk": "70008",
+          "sg_type": "80001",
+          "sg_name": "（W艺术类）",
+          "sg_info": "首选物理，再选不限",
+          "proscore": "-",
+          "year": "2021",
+          "diff": "-"
+        }
+      ]
+    }
+  },
+  "md5": "221e620c73f3cca73f3b4a7eaa128331",
+  "time": "2025-06-11 17:37:44"
+}

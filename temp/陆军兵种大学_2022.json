@@ -1,0 +1,44 @@
+{
+  "code": "0000",
+  "message": "成功",
+  "data": {
+    "2073": {
+      "numFound": 1,
+      "item": [
+        {
+          "school_id": "2971",
+          "province_id": "43",
+          "type": "2073",
+          "batch": "6",
+          "zslx": "2305",
+          "xclevel": "0",
+          "max": "-",
+          "min_section": "30619",
+          "min": "552",
+          "average": "-",
+          "filing": "552",
+          "special_group": "88598",
+          "first_km": "70000",
+          "num": "-",
+          "local_province_name": "湖南",
+          "local_type_name": "物理类",
+          "local_batch_id": "6",
+          "local_batch_name": "本科提前批",
+          "zslx_name": "其他专业合格（指挥专业，男生）",
+          "xclevel_name": "-",
+          "zslx_rank": 100,
+          "sg_fxk": "70000",
+          "sg_sxk": "70008",
+          "sg_type": "80001",
+          "sg_name": "（001）",
+          "sg_info": "首选物理，再选不限",
+          "proscore": "475",
+          "year": "2022",
+          "diff": 77
+        }
+      ]
+    }
+  },
+  "md5": "fae253a57b9a29b13b080d3ab8587069",
+  "time": "2025-06-11 19:57:16"
+}

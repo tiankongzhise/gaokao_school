@@ -1,0 +1,80 @@
+{
+  "code": "0000",
+  "message": "成功",
+  "data": {
+    "2073": {
+      "numFound": 1,
+      "item": [
+        {
+          "school_id": "334",
+          "province_id": "43",
+          "type": "2073",
+          "batch": "14",
+          "zslx": "211",
+          "xclevel": "0",
+          "max": "-",
+          "min_section": "15770",
+          "min": "591",
+          "average": "-",
+          "filing": "591",
+          "special_group": "34375",
+          "first_km": "70000",
+          "num": "-",
+          "local_province_name": "湖南",
+          "local_type_name": "物理类",
+          "local_batch_id": "14",
+          "local_batch_name": "本科批",
+          "zslx_name": "少数民族预科班",
+          "xclevel_name": "-",
+          "zslx_rank": 100,
+          "sg_fxk": "70000",
+          "sg_sxk": "70008",
+          "sg_type": "80001",
+          "sg_name": "（821）",
+          "sg_info": "首选物理，再选不限",
+          "proscore": "434",
+          "year": "2021",
+          "diff": 157
+        }
+      ]
+    },
+    "2074": {
+      "numFound": 1,
+      "item": [
+        {
+          "school_id": "334",
+          "province_id": "43",
+          "type": "2074",
+          "batch": "14",
+          "zslx": "211",
+          "xclevel": "0",
+          "max": "-",
+          "min_section": "3188",
+          "min": "586",
+          "average": "-",
+          "filing": "586",
+          "special_group": "31726",
+          "first_km": "70004",
+          "num": "-",
+          "local_province_name": "湖南",
+          "local_type_name": "历史类",
+          "local_batch_id": "14",
+          "local_batch_name": "本科批",
+          "zslx_name": "少数民族预科班",
+          "xclevel_name": "-",
+          "zslx_rank": 100,
+          "sg_fxk": "70004",
+          "sg_sxk": "70008",
+          "sg_type": "80001",
+          "sg_name": "（820）",
+          "sg_info": "首选历史，再选不限",
+          "proscore": "466",
+          "year": "2021",
+          "diff": 120
+        }
+      ]
+    }
+  },
+  "md5": "fd8e275d77c3fab88b0cd6a30876ee9c",
+  "time": "2025-06-11 18:02:32"
+}

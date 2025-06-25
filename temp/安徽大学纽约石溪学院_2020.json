@@ -1,0 +1,44 @@
+{
+  "code": "0000",
+  "message": "成功",
+  "data": {
+    "1": {
+      "numFound": 1,
+      "item": [
+        {
+          "school_id": "3769",
+          "province_id": "43",
+          "type": "1",
+          "batch": "7",
+          "zslx": "207",
+          "xclevel": "0",
+          "max": "612",
+          "min_section": "24795",
+          "min": "580",
+          "average": "589.25",
+          "filing": "0",
+          "special_group": "0",
+          "first_km": "0",
+          "num": "-",
+          "local_province_name": "湖南",
+          "local_type_name": "理科",
+          "local_batch_id": "7",
+          "local_batch_name": "本科一批",
+          "zslx_name": "中外合作办学",
+          "xclevel_name": "-",
+          "zslx_rank": 100,
+          "sg_fxk": "",
+          "sg_sxk": "",
+          "sg_type": "",
+          "sg_name": "",
+          "sg_info": "",
+          "proscore": "507",
+          "year": "2020",
+          "diff": 73
+        }
+      ]
+    }
+  },
+  "md5": "05b70e1b05ba3af7f6036cedb2d10a1e",
+  "time": "2025-06-11 20:11:31"
+}
