@@ -1,0 +1,56 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "数学与应用数学(师范)",
+        "sfks": false,
+        "jhrs": 5,
+        "yxdm": "10576",
+        "zydm": "070101",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0100004500105",
+        "zyxh": null,
+        "bxdd": "广东省韶关市",
+        "bz": null,
+        "zydh": "010",
+        "yxdh": "4429",
+        "wyyzdm": "不限",
+        "sfbz": "5710",
+        "kskmyq": "首选物理，再选限化学"
+      },
+      {
+        "skkmyq": "不限",
+        "zymc": "数据科学与大数据技术",
+        "sfks": false,
+        "jhrs": 5,
+        "yxdm": "10576",
+        "zydm": "080910",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0100004500105",
+        "zyxh": null,
+        "bxdd": "广东省韶关市",
+        "bz": null,
+        "zydh": "011",
+        "yxdh": "4429",
+        "wyyzdm": "不限",
+        "sfbz": "5710",
+        "kskmyq": "首选物理，再选限化学"
+      }
+    ],
+    "total": 2,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751167723430
+}

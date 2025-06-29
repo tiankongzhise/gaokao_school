@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "68257-69068",
+        "zymc": "信息与计算科学",
+        "pjf": "514"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "72504-73398",
+        "zymc": "工业设计",
+        "pjf": "509"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "69918-70811",
+        "zymc": "轻化工程",
+        "pjf": "512"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "74312-75161",
+        "zymc": "数学与应用数学",
+        "pjf": "507"
+      }
+    ],
+    "total": 4,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751181718296
+}

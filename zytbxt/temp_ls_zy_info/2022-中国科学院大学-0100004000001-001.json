@@ -1,0 +1,67 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "204-220",
+        "zymc": "物理学",
+        "pjf": "660"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "204-220",
+        "zymc": "材料科学与工程",
+        "pjf": "660"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "162-177",
+        "zymc": "电子信息工程",
+        "pjf": "663"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "162-177",
+        "zymc": "人工智能",
+        "pjf": "663"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "151-161",
+        "zymc": "计算机科学与技术",
+        "pjf": "664"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "204-220",
+        "zymc": "网络空间安全",
+        "pjf": "660"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "221-249",
+        "zymc": "数学与应用数学",
+        "pjf": "659"
+      }
+    ],
+    "total": 7,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751179375720
+}

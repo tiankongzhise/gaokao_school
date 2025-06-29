@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "软件工程(中外合作办学)",
+        "sfks": false,
+        "jhrs": 5,
+        "yxdm": "10918",
+        "zydm": "080902H",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "1100004500205",
+        "zyxh": null,
+        "bxdd": "河南省驻马店市",
+        "bz": "与印度迈索尔大学合作办学",
+        "zydh": "009",
+        "yxdh": "4152",
+        "wyyzdm": "不限",
+        "sfbz": "18000",
+        "kskmyq": "首选物理，再选限化学"
+      }
+    ],
+    "total": 1,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751167745288
+}

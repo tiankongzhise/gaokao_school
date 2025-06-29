@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "海外安全管理",
+        "sfks": false,
+        "jhrs": 6,
+        "yxdm": "11105",
+        "zydm": "120416",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0100004000110",
+        "zyxh": null,
+        "bxdd": "河北省廊坊市",
+        "bz": "非公安专业，自主就业。具体标准详见警察大学2025年《招生章程》。",
+        "zydh": "020",
+        "yxdh": "1325",
+        "wyyzdm": "不限",
+        "sfbz": "4900",
+        "kskmyq": "首选物理，再选不限"
+      }
+    ],
+    "total": 1,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751163951550
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "241-263",
+        "zymc": "经济管理试验班(含双学士学位项目)",
+        "pjf": "676"
+      },
+      {
+        "zydm": null,
+        "lqrs": "27",
+        "pjmc": "210-240",
+        "zymc": "工科试验班类(信息类)",
+        "pjf": "677"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "146-165",
+        "zymc": "理科试验班类(含致远，吴文俊、李政道班，双学士学位项目)",
+        "pjf": "680"
+      },
+      {
+        "zydm": null,
+        "lqrs": "10",
+        "pjmc": "264-295",
+        "zymc": "工科试验班类(机电类)",
+        "pjf": "675"
+      }
+    ],
+    "total": 4,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751178523816
+}

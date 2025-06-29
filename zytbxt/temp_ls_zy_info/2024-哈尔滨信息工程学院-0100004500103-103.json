@@ -1,0 +1,67 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "19",
+        "pjmc": "181104-182332",
+        "zymc": "电子信息工程",
+        "pjf": "428"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "174571-175864",
+        "zymc": "人工智能",
+        "pjf": "433"
+      },
+      {
+        "zydm": null,
+        "lqrs": "20",
+        "pjmc": "179772-181103",
+        "zymc": "计算机科学与技术",
+        "pjf": "429"
+      },
+      {
+        "zydm": null,
+        "lqrs": "16",
+        "pjmc": "179772-181103",
+        "zymc": "软件工程",
+        "pjf": "429"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "155948-157289",
+        "zymc": "智能科学与技术",
+        "pjf": "447"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "186224-187459",
+        "zymc": "数据科学与大数据技术",
+        "pjf": "424"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "179772-181103",
+        "zymc": "虚拟现实技术",
+        "pjf": "429"
+      }
+    ],
+    "total": 7,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751181407098
+}

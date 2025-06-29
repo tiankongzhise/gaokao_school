@@ -1,0 +1,56 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "金融科技(与对外经贸大学会计联合学位)",
+        "sfks": false,
+        "jhrs": 3,
+        "yxdm": "10013",
+        "zydm": "020310",
+        "bxddbb": false,
+        "xzdm": "四年",
+        "zyzdm": "0200004000307",
+        "zyxh": null,
+        "bxdd": null,
+        "bz": "一年级在沙河校区，二、三、四年级将根据学校规划安排在沙河校区或西土城路校区。",
+        "zydh": "025",
+        "yxdh": "1106",
+        "wyyzdm": "不限",
+        "sfbz": "5000",
+        "kskmyq": "首选物理，再选不限"
+      },
+      {
+        "skkmyq": "不限",
+        "zymc": "大数据管理与应用(数智科学实验班)",
+        "sfks": false,
+        "jhrs": 3,
+        "yxdm": "10013",
+        "zydm": "120108",
+        "bxddbb": false,
+        "xzdm": "四年",
+        "zyzdm": "0200004000307",
+        "zyxh": null,
+        "bxdd": null,
+        "bz": "一年级在沙河校区，二、三、四年级将根据学校规划安排在沙河校区或西土城路校区。",
+        "zydh": "026",
+        "yxdh": "1106",
+        "wyyzdm": "不限",
+        "sfbz": "5000",
+        "kskmyq": "首选物理，再选不限"
+      }
+    ],
+    "total": 2,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751164343943
+}

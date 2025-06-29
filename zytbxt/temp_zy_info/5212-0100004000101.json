@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "工程造价",
+        "sfks": false,
+        "jhrs": 2,
+        "yxdm": "14440",
+        "zydm": "120105",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0100004000101",
+        "zyxh": null,
+        "bxdd": "贵州省贵阳市",
+        "bz": null,
+        "zydh": "001",
+        "yxdh": "5212",
+        "wyyzdm": "不限",
+        "sfbz": "4100",
+        "kskmyq": "首选物理，再选不限"
+      }
+    ],
+    "total": 1,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751167236018
+}

@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "87820-88742",
+        "zymc": "工程管理",
+        "pjf": "492"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "87820-88742",
+        "zymc": "工业工程",
+        "pjf": "492"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "88743-89647",
+        "zymc": "建筑环境与能源应用工程",
+        "pjf": "491"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "76044-76890",
+        "zymc": "电子信息工程",
+        "pjf": "505"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "86919-87819",
+        "zymc": "机械类(轻工学院)",
+        "pjf": "493"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "85030-86010",
+        "zymc": "机器人工程",
+        "pjf": "495"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "84113-85029",
+        "zymc": "大数据管理与应用",
+        "pjf": "496"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "78661-79588",
+        "zymc": "计算机类(计算机学院)",
+        "pjf": "502"
+      }
+    ],
+    "total": 8,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751181440578
+}

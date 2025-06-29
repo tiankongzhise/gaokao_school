@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "材料成型及控制工程",
+        "sfks": false,
+        "jhrs": 4,
+        "yxdm": "13386",
+        "zydm": "080203",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0100004500102",
+        "zyxh": null,
+        "bxdd": "山东省东营市",
+        "bz": null,
+        "zydh": "002",
+        "yxdh": "3749",
+        "wyyzdm": "不限",
+        "sfbz": "5000",
+        "kskmyq": "首选物理，再选限化学"
+      }
+    ],
+    "total": 1,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751165213217
+}

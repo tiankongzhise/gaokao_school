@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "土木工程(中外合作办学)",
+        "sfks": false,
+        "jhrs": 5,
+        "yxdm": "10217",
+        "zydm": "081001H",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "1100004500217",
+        "zyxh": null,
+        "bxdd": "黑龙江省哈尔滨市",
+        "bz": "英国阿伯丁大学，实行3+1培养模式",
+        "zydh": "042",
+        "yxdh": "2302",
+        "wyyzdm": "不限",
+        "sfbz": "45000",
+        "kskmyq": "首选物理，再选限化学"
+      }
+    ],
+    "total": 1,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751164825895
+}

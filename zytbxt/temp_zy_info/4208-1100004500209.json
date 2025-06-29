@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "计算机科学与技术(中外合作办学)(大数据方向)",
+        "sfks": false,
+        "jhrs": 5,
+        "yxdm": "10491",
+        "zydm": "080901H",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "1100004500209",
+        "zyxh": null,
+        "bxdd": "湖北省武汉市",
+        "bz": "美国伊利诺伊理工大学",
+        "zydh": "048",
+        "yxdh": "4208",
+        "wyyzdm": "不限",
+        "sfbz": "65000",
+        "kskmyq": "首选物理，再选限化学"
+      }
+    ],
+    "total": 1,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751163980187
+}

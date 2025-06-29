@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "76266-77261",
+        "zymc": "信息管理与信息系统",
+        "pjf": "510"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "80530-81598",
+        "zymc": "高分子材料与工程",
+        "pjf": "506"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "58418-59313",
+        "zymc": "服装设计与工程",
+        "pjf": "528"
+      }
+    ],
+    "total": 3,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180080438
+}

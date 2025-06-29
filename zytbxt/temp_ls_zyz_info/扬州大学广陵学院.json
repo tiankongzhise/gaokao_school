@@ -1,0 +1,71 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "sf985": "0",
+        "ssmc": "江苏省",
+        "yxNfZyzVoList": [
+          {
+            "zyzbh": "002",
+            "zyzmc": "第2组",
+            "zyzdm": "0100004000002",
+            "lqrs": "14",
+            "nf": "2022",
+            "zgf": "460",
+            "zdmc": "127701",
+            "zymcStr": "机械设计制造及其自动化、通信工程、软件工程、生物制药、园林",
+            "zdf": "446",
+            "pjf": "449"
+          },
+          {
+            "zyzbh": "102",
+            "zyzmc": "第102组",
+            "zyzdm": "0100004000102",
+            "lqrs": "14",
+            "nf": "2023",
+            "zgf": "462",
+            "zdmc": "136612",
+            "zymcStr": "机械设计制造及其自动化、通信工程、软件工程、生物制药、园林",
+            "zdf": "445",
+            "pjf": "451"
+          },
+          {
+            "zyzbh": "102",
+            "zyzmc": "第102组",
+            "zyzdm": "0100004500102",
+            "lqrs": "17",
+            "nf": "2024",
+            "zgf": "466",
+            "zdmc": "172573",
+            "zymcStr": "机械设计制造及其自动化、通信工程、计算机科学与技术、软件工程、水利水电工程、生物制药",
+            "zdf": "435",
+            "pjf": "444"
+          }
+        ],
+        "djsdm": "321000000000",
+        "yxnfList": null,
+        "yxmc": "扬州大学广陵学院",
+        "yxdm": "13987",
+        "djsmc": "扬州市",
+        "sfsyl": "",
+        "yxjbzdm": "5",
+        "yxdh": "4846",
+        "sf211": "0",
+        "jhsxdm": "3",
+        "ssdm": "320000000000"
+      }
+    ],
+    "total": 1,
+    "size": 10,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751176806374
+}

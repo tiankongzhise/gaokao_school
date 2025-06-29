@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "工科试验班(卓越优才计划)",
+        "sfks": false,
+        "jhrs": 5,
+        "yxdm": "19213",
+        "zydm": "00600",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0200004500304",
+        "zyxh": null,
+        "bxdd": "山东省威海市",
+        "bz": "本专业类内任选专业，高考投档成绩在本科批我校统招录取投档成绩以下的，入学后仅可申请在卓越优才计划内转专业，需通过考核。 包含专业:环境工程、生物工程、化学工程与工艺、交通工程、土木工程、船舶与海洋工程、大数据管理与应用、信息管理与信息系统。",
+        "zydh": "008",
+        "yxdh": "3704",
+        "wyyzdm": "不限",
+        "sfbz": "6600",
+        "kskmyq": "首选物理，再选限化学"
+      }
+    ],
+    "total": 1,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751164800104
+}

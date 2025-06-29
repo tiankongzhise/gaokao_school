@@ -1,0 +1,83 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "sf985": "0",
+        "ssmc": "江西省",
+        "yxNfZyzVoList": [
+          {
+            "zyzbh": "002",
+            "zyzmc": "第2组",
+            "zyzdm": "0100004000002",
+            "lqrs": "7",
+            "nf": "2022",
+            "zgf": "461",
+            "zdmc": "119382",
+            "zymcStr": "机械工程、矿物加工工程、机器人工程",
+            "zdf": "454",
+            "pjf": "457"
+          },
+          {
+            "zyzbh": "102",
+            "zyzmc": "第102组",
+            "zyzdm": "0100004000102",
+            "lqrs": "6",
+            "nf": "2023",
+            "zgf": "478",
+            "zdmc": "116638",
+            "zymcStr": "计算机科学与技术、土木工程",
+            "zdf": "464",
+            "pjf": "468"
+          },
+          {
+            "zyzbh": "102",
+            "zyzmc": "第102组",
+            "zyzdm": "0100004000102",
+            "lqrs": "2",
+            "nf": "2024",
+            "zgf": "491",
+            "zdmc": "106738",
+            "zymcStr": "工程造价",
+            "zdf": "484",
+            "pjf": "487"
+          },
+          {
+            "zyzbh": "103",
+            "zyzmc": "第103组",
+            "zyzdm": "0100004500103",
+            "lqrs": "4",
+            "nf": "2024",
+            "zgf": "495",
+            "zdmc": "107718",
+            "zymcStr": "电气工程及其自动化、物联网工程",
+            "zdf": "484",
+            "pjf": "487"
+          }
+        ],
+        "djsdm": "360700000000",
+        "yxnfList": null,
+        "yxmc": "赣南科技学院",
+        "yxdm": "13434",
+        "djsmc": "赣州市",
+        "sfsyl": "",
+        "yxjbzdm": "1",
+        "yxdh": "3627",
+        "sf211": "0",
+        "jhsxdm": "3",
+        "ssdm": "360000000000"
+      }
+    ],
+    "total": 1,
+    "size": 10,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751176471363
+}

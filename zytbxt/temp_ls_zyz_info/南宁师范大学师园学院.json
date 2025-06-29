@@ -1,0 +1,59 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "sf985": "0",
+        "ssmc": "广西壮族自治区",
+        "yxNfZyzVoList": [
+          {
+            "zyzbh": "003",
+            "zyzmc": "第3组",
+            "zyzdm": "0100004000003",
+            "lqrs": "7",
+            "nf": "2022",
+            "zgf": "447",
+            "zdmc": "131331",
+            "zymcStr": "小学教育(师范)、应用心理学(师范)",
+            "zdf": "443",
+            "pjf": "444"
+          },
+          {
+            "zyzbh": "004",
+            "zyzmc": "第4组",
+            "zyzdm": "0100004000004",
+            "lqrs": "9",
+            "nf": "2022",
+            "zgf": "460",
+            "zdmc": "130563",
+            "zymcStr": "数学与应用数学(师范)、数据科学与大数据技术、计算机科学与技术",
+            "zdf": "444",
+            "pjf": "447"
+          }
+        ],
+        "djsdm": "450100000000",
+        "yxnfList": null,
+        "yxmc": "南宁师范大学师园学院",
+        "yxdm": "13642",
+        "djsmc": "南宁市",
+        "sfsyl": "",
+        "yxjbzdm": "5",
+        "yxdh": "4557",
+        "sf211": "0",
+        "jhsxdm": "3",
+        "ssdm": "450000000000"
+      }
+    ],
+    "total": 1,
+    "size": 10,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751176753869
+}

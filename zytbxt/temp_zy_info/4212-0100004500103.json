@@ -1,0 +1,56 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "计算机科学与技术",
+        "sfks": false,
+        "jhrs": 5,
+        "yxdm": "14899",
+        "zydm": "080901",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0100004500103",
+        "zyxh": null,
+        "bxdd": "湖北省宜昌市",
+        "bz": "最终学费以主管部门批复的为准",
+        "zydh": "007",
+        "yxdh": "4212",
+        "wyyzdm": "不限",
+        "sfbz": "22000",
+        "kskmyq": "首选物理，再选限化学"
+      },
+      {
+        "skkmyq": "不限",
+        "zymc": "飞行器制造工程",
+        "sfks": false,
+        "jhrs": 5,
+        "yxdm": "14899",
+        "zydm": "082003",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0100004500103",
+        "zyxh": null,
+        "bxdd": "湖北省宜昌市",
+        "bz": "最终学费以主管部门批复的为准",
+        "zydh": "008",
+        "yxdh": "4212",
+        "wyyzdm": "不限",
+        "sfbz": "26000",
+        "kskmyq": "首选物理，再选限化学"
+      }
+    ],
+    "total": 2,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751166313163
+}

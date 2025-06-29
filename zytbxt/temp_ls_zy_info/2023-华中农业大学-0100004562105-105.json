@@ -1,0 +1,116 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "20194-20665",
+        "zymc": "茶学",
+        "pjf": "587"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "21095-21577",
+        "zymc": "林学",
+        "pjf": "585"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "16788-17199",
+        "zymc": "园艺(国家卓越农林人才计划)",
+        "pjf": "595"
+      },
+      {
+        "zydm": null,
+        "lqrs": "7",
+        "pjmc": "18463-18878",
+        "zymc": "动物科学(国家卓越农林人才计划)",
+        "pjf": "591"
+      },
+      {
+        "zydm": null,
+        "lqrs": "17",
+        "pjmc": "18879-19299",
+        "zymc": "植物生产类",
+        "pjf": "590"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "21578-22037",
+        "zymc": "设施农业科学与工程",
+        "pjf": "584"
+      },
+      {
+        "zydm": null,
+        "lqrs": "7",
+        "pjmc": "17200-17605",
+        "zymc": "智慧农业",
+        "pjf": "594"
+      },
+      {
+        "zydm": null,
+        "lqrs": "9",
+        "pjmc": "15150-15507",
+        "zymc": "动物医学",
+        "pjf": "599"
+      },
+      {
+        "zydm": null,
+        "lqrs": "11",
+        "pjmc": "20666-21094",
+        "zymc": "水产类",
+        "pjf": "586"
+      },
+      {
+        "zydm": null,
+        "lqrs": "9",
+        "pjmc": "13604-13989",
+        "zymc": "生物科学类",
+        "pjf": "603"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "12170-12519",
+        "zymc": "生物信息学",
+        "pjf": "607"
+      },
+      {
+        "zydm": null,
+        "lqrs": "11",
+        "pjmc": "19726-20193",
+        "zymc": "环境科学与工程类",
+        "pjf": "588"
+      },
+      {
+        "zydm": null,
+        "lqrs": "17",
+        "pjmc": "18463-18878",
+        "zymc": "食品科学与工程类",
+        "pjf": "591"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "15927-16325",
+        "zymc": "生物工程",
+        "pjf": "597"
+      }
+    ],
+    "total": 14,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180385405
+}

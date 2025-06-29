@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "84113-85029",
+        "zymc": "医疗产品管理",
+        "pjf": "496"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "80501-81346",
+        "zymc": "数据科学与大数据技术",
+        "pjf": "500"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "86011-86918",
+        "zymc": "生物医学工程",
+        "pjf": "494"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "83201-84112",
+        "zymc": "临床工程技术",
+        "pjf": "497"
+      }
+    ],
+    "total": 4,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751178549022
+}

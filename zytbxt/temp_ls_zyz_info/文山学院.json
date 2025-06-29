@@ -1,0 +1,83 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "sf985": "0",
+        "ssmc": "云南省",
+        "yxNfZyzVoList": [
+          {
+            "zyzbh": "002",
+            "zyzmc": "第2组",
+            "zyzdm": "0100004000002",
+            "lqrs": "5",
+            "nf": "2022",
+            "zgf": "460",
+            "zdmc": "119365",
+            "zymcStr": "人工智能",
+            "zdf": "454",
+            "pjf": "455"
+          },
+          {
+            "zyzbh": "004",
+            "zyzmc": "第4组",
+            "zyzdm": "0100004000004",
+            "lqrs": "5",
+            "nf": "2022",
+            "zgf": "422",
+            "zdmc": null,
+            "zymcStr": "学前教育(师范)",
+            "zdf": "408",
+            "pjf": "412"
+          },
+          {
+            "zyzbh": "102",
+            "zyzmc": "第102组",
+            "zyzdm": "0100004000102",
+            "lqrs": "5",
+            "nf": "2023",
+            "zgf": "469",
+            "zdmc": "128692",
+            "zymcStr": "人工智能",
+            "zdf": "452",
+            "pjf": "456"
+          },
+          {
+            "zyzbh": "102",
+            "zyzmc": "第102组",
+            "zyzdm": "0100004500102",
+            "lqrs": "5",
+            "nf": "2024",
+            "zgf": "460",
+            "zdmc": "141269",
+            "zymcStr": "人工智能",
+            "zdf": "458",
+            "pjf": "459"
+          }
+        ],
+        "djsdm": "532600000000",
+        "yxnfList": null,
+        "yxmc": "文山学院",
+        "yxdm": "11556",
+        "djsmc": "文山壮族苗族自治州",
+        "sfsyl": "",
+        "yxjbzdm": "1",
+        "yxdh": "5361",
+        "sf211": "0",
+        "jhsxdm": "3",
+        "ssdm": "530000000000"
+      }
+    ],
+    "total": 1,
+    "size": 10,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751175692225
+}

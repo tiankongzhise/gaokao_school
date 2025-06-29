@@ -1,0 +1,165 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "7691-8009",
+        "zymc": "经济学类",
+        "pjf": "601"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "7691-8009",
+        "zymc": "金融学类(保险精算)",
+        "pjf": "601"
+      },
+      {
+        "zydm": null,
+        "lqrs": "11",
+        "pjmc": "9541-9829",
+        "zymc": "金融数学",
+        "pjf": "595"
+      },
+      {
+        "zydm": null,
+        "lqrs": "12",
+        "pjmc": "9541-9829",
+        "zymc": "统计学类",
+        "pjf": "595"
+      },
+      {
+        "zydm": null,
+        "lqrs": "18",
+        "pjmc": "10141-10493",
+        "zymc": "计算机类",
+        "pjf": "593"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "9830-10140",
+        "zymc": "环境工程",
+        "pjf": "594"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "10141-10493",
+        "zymc": "管理科学与工程类",
+        "pjf": "593"
+      },
+      {
+        "zydm": null,
+        "lqrs": "8",
+        "pjmc": "9541-9829",
+        "zymc": "工商管理类",
+        "pjf": "595"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "10141-10493",
+        "zymc": "劳动关系",
+        "pjf": "593"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "10141-10493",
+        "zymc": "农林经济管理",
+        "pjf": "593"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "10862-11205",
+        "zymc": "公共管理类",
+        "pjf": "591"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "10862-11205",
+        "zymc": "旅游管理",
+        "pjf": "591"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "10141-10493",
+        "zymc": "日语",
+        "pjf": "593"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "10141-10493",
+        "zymc": "新闻传播学类",
+        "pjf": "593"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "7136-7411",
+        "zymc": "财政学类",
+        "pjf": "603"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "6877-7135",
+        "zymc": "金融学类",
+        "pjf": "604"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "9541-9829",
+        "zymc": "经济与贸易类",
+        "pjf": "595"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "7412-7690",
+        "zymc": "工商管理类(会计学院)",
+        "pjf": "602"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "10141-10493",
+        "zymc": "国际商务",
+        "pjf": "593"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "9541-9829",
+        "zymc": "外国语言文学类",
+        "pjf": "595"
+      },
+      {
+        "zydm": null,
+        "lqrs": "14",
+        "pjmc": "5625-5846",
+        "zymc": "法学类",
+        "pjf": "609"
+      }
+    ],
+    "total": 21,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751179058602
+}

@@ -1,0 +1,32 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "38",
+        "pjmc": "28553-29153",
+        "zymc": "医学检验技术",
+        "pjf": "554"
+      },
+      {
+        "zydm": null,
+        "lqrs": "56",
+        "pjmc": "43343-44145",
+        "zymc": "卫生检验与检疫",
+        "pjf": "532"
+      }
+    ],
+    "total": 2,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180760406
+}

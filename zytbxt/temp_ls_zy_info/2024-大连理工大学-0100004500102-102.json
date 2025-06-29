@@ -1,0 +1,102 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "4437-4618",
+        "zymc": "工程力学(创新班)",
+        "pjf": "634"
+      },
+      {
+        "zydm": null,
+        "lqrs": "10",
+        "pjmc": "4246-4436",
+        "zymc": "智能制造工程(创新班)",
+        "pjf": "635"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "3733-3912",
+        "zymc": "电子信息类(创新班)",
+        "pjf": "638"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "3913-4078",
+        "zymc": "人工智能(创新班)",
+        "pjf": "637"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "3440-3577",
+        "zymc": "计算机科学与技术(基础学科拔尖计划班)",
+        "pjf": "640"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "4437-4618",
+        "zymc": "应用化学(张大煜化学基础科学拔尖计划班)",
+        "pjf": "634"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "4246-4436",
+        "zymc": "数学类(数学类及华罗庚拔尖计划班)",
+        "pjf": "635"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "2512-2610",
+        "zymc": "人工智能(新工科大师班)",
+        "pjf": "647"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "4079-4245",
+        "zymc": "储能科学与工程(新工科拔尖班)",
+        "pjf": "636"
+      },
+      {
+        "zydm": null,
+        "lqrs": "21",
+        "pjmc": "3733-3912",
+        "zymc": "人工智能(未来技术班)",
+        "pjf": "638"
+      },
+      {
+        "zydm": null,
+        "lqrs": "22",
+        "pjmc": "4437-4618",
+        "zymc": "电子信息类",
+        "pjf": "634"
+      },
+      {
+        "zydm": null,
+        "lqrs": "10",
+        "pjmc": "4437-4618",
+        "zymc": "软件工程",
+        "pjf": "634"
+      }
+    ],
+    "total": 12,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751181951812
+}

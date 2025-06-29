@@ -1,0 +1,88 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "27344-27941",
+        "zymc": "机械类(机电)",
+        "pjf": "556"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "30399-31011",
+        "zymc": "工业设计",
+        "pjf": "551"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "36856-37551",
+        "zymc": "森林工程",
+        "pjf": "541"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "38993-39708",
+        "zymc": "工商管理类",
+        "pjf": "538"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "35522-36171",
+        "zymc": "工业工程",
+        "pjf": "543"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "28553-29153",
+        "zymc": "计算机类",
+        "pjf": "554"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "38267-38992",
+        "zymc": "建筑环境与能源应用工程",
+        "pjf": "539"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "42607-43342",
+        "zymc": "物流工程",
+        "pjf": "533"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "35522-36171",
+        "zymc": "英语",
+        "pjf": "543"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "36172-36855",
+        "zymc": "机械类(车辆)",
+        "pjf": "542"
+      }
+    ],
+    "total": 10,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751178818640
+}

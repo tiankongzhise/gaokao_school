@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "12861-13227",
+        "zymc": "化学类",
+        "pjf": "605"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "13990-14370",
+        "zymc": "生物科学类",
+        "pjf": "602"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "12170-12519",
+        "zymc": "材料类",
+        "pjf": "607"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "11460-11792",
+        "zymc": "电子信息类",
+        "pjf": "609"
+      }
+    ],
+    "total": 4,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751179732952
+}

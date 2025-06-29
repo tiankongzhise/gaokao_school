@@ -1,0 +1,130 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "98446-99466",
+        "zymc": "经济统计学",
+        "pjf": "481"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "101449-102477",
+        "zymc": "房地产开发与管理",
+        "pjf": "478"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "107544-108534",
+        "zymc": "工程造价",
+        "pjf": "472"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "107544-108534",
+        "zymc": "工程管理",
+        "pjf": "472"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "87820-88742",
+        "zymc": "电子信息工程",
+        "pjf": "492"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "90617-91611",
+        "zymc": "电子信息科学与技术",
+        "pjf": "489"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "101449-102477",
+        "zymc": "自动化",
+        "pjf": "478"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "95512-96507",
+        "zymc": "计算机科学与技术",
+        "pjf": "484"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "93545-94518",
+        "zymc": "软件工程",
+        "pjf": "486"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "85030-86010",
+        "zymc": "网络工程",
+        "pjf": "495"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "106480-107543",
+        "zymc": "遥感科学与技术",
+        "pjf": "473"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "102478-103466",
+        "zymc": "地理空间信息工程",
+        "pjf": "477"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "84113-85029",
+        "zymc": "电气工程及其自动化",
+        "pjf": "496"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "102478-103466",
+        "zymc": "建筑电气与智能化",
+        "pjf": "477"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "105454-106479",
+        "zymc": "测绘工程",
+        "pjf": "474"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "106480-107543",
+        "zymc": "勘查技术与工程",
+        "pjf": "473"
+      }
+    ],
+    "total": 16,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751181283646
+}

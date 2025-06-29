@@ -1,0 +1,228 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "8603-8925",
+        "zymc": "金融学",
+        "pjf": "598"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "8603-8925",
+        "zymc": "应用物理学",
+        "pjf": "598"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "8010-8298",
+        "zymc": "应用统计学",
+        "pjf": "600"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "8299-8602",
+        "zymc": "管理科学与工程类",
+        "pjf": "599"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "7412-7690",
+        "zymc": "大数据管理与应用",
+        "pjf": "602"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "7412-7690",
+        "zymc": "微电子科学与工程(集成电路设计)",
+        "pjf": "602"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "8603-8925",
+        "zymc": "土木工程",
+        "pjf": "598"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "8010-8298",
+        "zymc": "工业设计",
+        "pjf": "600"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "8010-8298",
+        "zymc": "光电信息科学与工程",
+        "pjf": "600"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "8010-8298",
+        "zymc": "飞行器控制与信息工程",
+        "pjf": "600"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "8603-8925",
+        "zymc": "核工程类",
+        "pjf": "598"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "6609-6876",
+        "zymc": "信息与计算科学",
+        "pjf": "605"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "8299-8602",
+        "zymc": "交通运输(民航电子电气工程)",
+        "pjf": "599"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "8010-8298",
+        "zymc": "交通运输(民航运输管理)",
+        "pjf": "600"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "8603-8925",
+        "zymc": "交通运输(空中交通管制与签派)",
+        "pjf": "598"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "8603-8925",
+        "zymc": "测控技术与仪器",
+        "pjf": "598"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "6345-6608",
+        "zymc": "电气工程及其自动化",
+        "pjf": "606"
+      },
+      {
+        "zydm": null,
+        "lqrs": "10",
+        "pjmc": "7412-7690",
+        "zymc": "电子信息类",
+        "pjf": "602"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "6079-6344",
+        "zymc": "人工智能",
+        "pjf": "607"
+      },
+      {
+        "zydm": null,
+        "lqrs": "7",
+        "pjmc": "6609-6876",
+        "zymc": "自动化",
+        "pjf": "605"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "6079-6344",
+        "zymc": "计算机科学与技术",
+        "pjf": "607"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "6345-6608",
+        "zymc": "软件工程",
+        "pjf": "606"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "7136-7411",
+        "zymc": "信息安全",
+        "pjf": "603"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "7412-7690",
+        "zymc": "物联网工程",
+        "pjf": "602"
+      },
+      {
+        "zydm": null,
+        "lqrs": "12",
+        "pjmc": "8299-8602",
+        "zymc": "机械工程",
+        "pjf": "599"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "8603-8925",
+        "zymc": "车辆工程",
+        "pjf": "598"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "8299-8602",
+        "zymc": "材料科学与工程",
+        "pjf": "599"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "7412-7690",
+        "zymc": "能源与动力工程",
+        "pjf": "602"
+      },
+      {
+        "zydm": null,
+        "lqrs": "29",
+        "pjmc": "7412-7690",
+        "zymc": "航空航天类",
+        "pjf": "602"
+      },
+      {
+        "zydm": null,
+        "lqrs": "10",
+        "pjmc": "7136-7411",
+        "zymc": "航空航天工程",
+        "pjf": "603"
+      }
+    ],
+    "total": 30,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180722682
+}

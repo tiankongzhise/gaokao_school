@@ -1,0 +1,95 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "sf985": "0",
+        "ssmc": "安徽省",
+        "yxNfZyzVoList": [
+          {
+            "zyzbh": "001",
+            "zyzmc": "第1组",
+            "zyzdm": "0100004500001",
+            "lqrs": "8",
+            "nf": "2022",
+            "zgf": "451",
+            "zdmc": "126115",
+            "zymcStr": "水文与水资源工程、应用化学",
+            "zdf": "448",
+            "pjf": "448"
+          },
+          {
+            "zyzbh": "002",
+            "zyzmc": "第2组",
+            "zyzdm": "0100004562002",
+            "lqrs": "4",
+            "nf": "2022",
+            "zgf": "465",
+            "zdmc": "118149",
+            "zymcStr": "食品科学与工程",
+            "zdf": "455",
+            "pjf": "459"
+          },
+          {
+            "zyzbh": "101",
+            "zyzmc": "第101组",
+            "zyzdm": "0100004500101",
+            "lqrs": "8",
+            "nf": "2023",
+            "zgf": "468",
+            "zdmc": "126563",
+            "zymcStr": "水文与水资源工程、应用化学",
+            "zdf": "454",
+            "pjf": "457"
+          },
+          {
+            "zyzbh": "102",
+            "zyzmc": "第102组",
+            "zyzdm": "0100004562102",
+            "lqrs": "4",
+            "nf": "2023",
+            "zgf": "471",
+            "zdmc": "118367",
+            "zymcStr": "食品科学与工程",
+            "zdf": "462",
+            "pjf": "464"
+          },
+          {
+            "zyzbh": "104",
+            "zyzmc": "第104组",
+            "zyzdm": "0100004500104",
+            "lqrs": "12",
+            "nf": "2024",
+            "zgf": "472",
+            "zdmc": "148243",
+            "zymcStr": "生物技术、水文与水资源工程、化学工程与工艺、食品科学与工程",
+            "zdf": "453",
+            "pjf": "459"
+          }
+        ],
+        "djsdm": "341300000000",
+        "yxnfList": null,
+        "yxmc": "宿州学院",
+        "yxdm": "10379",
+        "djsmc": "宿州市",
+        "sfsyl": "",
+        "yxjbzdm": "1",
+        "yxdh": "3443",
+        "sf211": "0",
+        "jhsxdm": "3",
+        "ssdm": "340000000000"
+      }
+    ],
+    "total": 1,
+    "size": 10,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751176408769
+}

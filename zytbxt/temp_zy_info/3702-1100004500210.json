@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "生物技术(中外合作办学)",
+        "sfks": false,
+        "jhrs": 3,
+        "yxdm": "10423",
+        "zydm": "071002H",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "1100004500210",
+        "zyxh": null,
+        "bxdd": "山东省青岛市",
+        "bz": "与澳大利亚阿德莱德大学合办，“4+0”“2+2”“3+2”模式均可，非英语语种考生慎重报考",
+        "zydh": "049",
+        "yxdh": "3702",
+        "wyyzdm": "不限",
+        "sfbz": "60000",
+        "kskmyq": "首选物理，再选限化学"
+      }
+    ],
+    "total": 1,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751164000645
+}

@@ -1,0 +1,109 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "113111-114187",
+        "zymc": "学前教育",
+        "pjf": "459"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "128670-129713",
+        "zymc": "小学教育",
+        "pjf": "445"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "114188-115331",
+        "zymc": "金融学类",
+        "pjf": "458"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "135129-136213",
+        "zymc": "工业设计",
+        "pjf": "439"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "48834-49625",
+        "zymc": "计算机科学与技术",
+        "pjf": "525"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "118774-119874",
+        "zymc": "物联网工程",
+        "pjf": "454"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "117629-118773",
+        "zymc": "土木工程(智能设计与建造)",
+        "pjf": "455"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "132907-133992",
+        "zymc": "建筑学",
+        "pjf": "441"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "132907-133992",
+        "zymc": "工程造价",
+        "pjf": "441"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "125404-126492",
+        "zymc": "工商管理类",
+        "pjf": "448"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "125404-126492",
+        "zymc": "社会工作",
+        "pjf": "448"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "100058-101121",
+        "zymc": "软件工程(阿里云校企合作班)",
+        "pjf": "471"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "119875-121010",
+        "zymc": "数据科学与大数据技术(阿里云校企合作班)",
+        "pjf": "453"
+      }
+    ],
+    "total": 13,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751179991444
+}

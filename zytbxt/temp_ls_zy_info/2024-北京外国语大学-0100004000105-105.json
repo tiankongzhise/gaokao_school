@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "10703-11037",
+        "zymc": "金融学",
+        "pjf": "609"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "10383-10702",
+        "zymc": "国际经济与贸易",
+        "pjf": "610"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "10070-10382",
+        "zymc": "法学",
+        "pjf": "611"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "10703-11037",
+        "zymc": "工商管理类",
+        "pjf": "609"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "6557-6798",
+        "zymc": "英语(国别与区域研究)",
+        "pjf": "624"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "5638-5852",
+        "zymc": "翻译(外交外事高级翻译)",
+        "pjf": "628"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "6075-6314",
+        "zymc": "英语",
+        "pjf": "626"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "10703-11037",
+        "zymc": "信息管理与信息系统(大数据与商务分析)",
+        "pjf": "609"
+      }
+    ],
+    "total": 8,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180010346
+}

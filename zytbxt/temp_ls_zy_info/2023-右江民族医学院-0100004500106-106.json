@@ -1,0 +1,60 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "130502-131544",
+        "zymc": "生物技术",
+        "pjf": "450"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "125110-126165",
+        "zymc": "医学检验技术",
+        "pjf": "455"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "127246-128361",
+        "zymc": "医学实验技术",
+        "pjf": "453"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "111544-112612",
+        "zymc": "医学影像技术",
+        "pjf": "468"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "130502-131544",
+        "zymc": "卫生检验与检疫",
+        "pjf": "450"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "126166-127245",
+        "zymc": "康复物理治疗",
+        "pjf": "454"
+      }
+    ],
+    "total": 6,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751181070087
+}

@@ -1,0 +1,71 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "sf985": "0",
+        "ssmc": "山东省",
+        "yxNfZyzVoList": [
+          {
+            "zyzbh": "001",
+            "zyzmc": "第1组",
+            "zyzdm": "0100004000001",
+            "lqrs": "15",
+            "nf": "2022",
+            "zgf": "478",
+            "zdmc": "116535",
+            "zymcStr": "审计学、资产评估、公共事业管理",
+            "zdf": "456",
+            "pjf": "464"
+          },
+          {
+            "zyzbh": "101",
+            "zyzmc": "第101组",
+            "zyzdm": "0100004000101",
+            "lqrs": "15",
+            "nf": "2023",
+            "zgf": "483",
+            "zdmc": "128500",
+            "zymcStr": "资产评估、审计学、公共事业管理",
+            "zdf": "452",
+            "pjf": "464"
+          },
+          {
+            "zyzbh": "101",
+            "zyzmc": "第101组",
+            "zyzdm": "0100004000101",
+            "lqrs": "15",
+            "nf": "2024",
+            "zgf": "485",
+            "zdmc": "124536",
+            "zymcStr": "公共事业管理、审计学、资产评估",
+            "zdf": "471",
+            "pjf": "475"
+          }
+        ],
+        "djsdm": "370100000000",
+        "yxnfList": null,
+        "yxmc": "山东青年政治学院",
+        "yxdm": "14277",
+        "djsmc": "济南市",
+        "sfsyl": "",
+        "yxjbzdm": "1",
+        "yxdh": "3763",
+        "sf211": "0",
+        "jhsxdm": "3",
+        "ssdm": "370000000000"
+      }
+    ],
+    "total": 1,
+    "size": 10,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751176531778
+}

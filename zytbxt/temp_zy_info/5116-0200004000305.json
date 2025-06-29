@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "物流工程(航空物流)",
+        "sfks": false,
+        "jhrs": 1,
+        "yxdm": "10624",
+        "zydm": "120602",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0200004000305",
+        "zyxh": null,
+        "bxdd": "四川省德阳市",
+        "bz": "无色盲色弱。",
+        "zydh": "038",
+        "yxdh": "5116",
+        "wyyzdm": "不限",
+        "sfbz": "4800",
+        "kskmyq": "首选物理，再选不限"
+      }
+    ],
+    "total": 1,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751163989393
+}

@@ -1,0 +1,116 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "170660-171934",
+        "zymc": "新闻学(新媒体方向)",
+        "pjf": "436"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "147928-149240",
+        "zymc": "金融学",
+        "pjf": "453"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "175865-177190",
+        "zymc": "国际经济与贸易",
+        "pjf": "432"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "150580-151919",
+        "zymc": "英语",
+        "pjf": "451"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "158625-159946",
+        "zymc": "日语",
+        "pjf": "445"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "183617-184956",
+        "zymc": "朝鲜语",
+        "pjf": "426"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "179772-181103",
+        "zymc": "工商管理",
+        "pjf": "429"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "186224-187459",
+        "zymc": "文化产业管理",
+        "pjf": "424"
+      },
+      {
+        "zydm": null,
+        "lqrs": "7",
+        "pjmc": "159947-161251",
+        "zymc": "法学(双语班)",
+        "pjf": "444"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "155948-157289",
+        "zymc": "西班牙语(双语班)",
+        "pjf": "447"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "169352-170659",
+        "zymc": "会计学(双语班)",
+        "pjf": "437"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "183617-184956",
+        "zymc": "大数据管理与应用",
+        "pjf": "426"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "186224-187459",
+        "zymc": "国际经济与贸易(全英语教学班)",
+        "pjf": "424"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "162598-163931",
+        "zymc": "会计学(全英语教学班)",
+        "pjf": "442"
+      }
+    ],
+    "total": 14,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751178574396
+}

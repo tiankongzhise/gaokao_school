@@ -1,0 +1,71 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "sf985": "0",
+        "ssmc": "安徽省",
+        "yxNfZyzVoList": [
+          {
+            "zyzbh": "002",
+            "zyzmc": "第2组",
+            "zyzdm": "0100004500002",
+            "lqrs": "10",
+            "nf": "2022",
+            "zgf": "470",
+            "zdmc": "113553",
+            "zymcStr": "智能科学与技术、电子信息工程",
+            "zdf": "459",
+            "pjf": "463"
+          },
+          {
+            "zyzbh": "102",
+            "zyzmc": "第102组",
+            "zyzdm": "0100004000102",
+            "lqrs": "10",
+            "nf": "2023",
+            "zgf": "478",
+            "zdmc": "108184",
+            "zymcStr": "智能科学与技术、数据科学与大数据技术",
+            "zdf": "472",
+            "pjf": "474"
+          },
+          {
+            "zyzbh": "104",
+            "zyzmc": "第104组",
+            "zyzdm": "0100004500104",
+            "lqrs": "10",
+            "nf": "2024",
+            "zgf": "493",
+            "zdmc": "114333",
+            "zymcStr": "网络工程、数据科学与大数据技术",
+            "zdf": "478",
+            "pjf": "482"
+          }
+        ],
+        "djsdm": "341500000000",
+        "yxnfList": null,
+        "yxmc": "皖西学院",
+        "yxdm": "10376",
+        "djsmc": "六安市",
+        "sfsyl": "",
+        "yxjbzdm": "1",
+        "yxdh": "3444",
+        "sf211": "0",
+        "jhsxdm": "3",
+        "ssdm": "340000000000"
+      }
+    ],
+    "total": 1,
+    "size": 10,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751176409796
+}

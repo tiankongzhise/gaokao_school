@@ -1,0 +1,95 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "26159-26762",
+        "zymc": "工程管理(实验班)",
+        "pjf": "558"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "23887-24462",
+        "zymc": "工程造价",
+        "pjf": "562"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "9830-10140",
+        "zymc": "建筑学",
+        "pjf": "594"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "17399-17815",
+        "zymc": "环境设计",
+        "pjf": "575"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "22239-22773",
+        "zymc": "车辆工程(城市轨道车辆实验班)",
+        "pjf": "565"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "26159-26762",
+        "zymc": "电气工程及其自动化(城市电网)",
+        "pjf": "558"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "14296-14722",
+        "zymc": "人工智能(实验班)",
+        "pjf": "582"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "25001-25591",
+        "zymc": "自动化(建筑智能控制与机器人)",
+        "pjf": "560"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "25001-25591",
+        "zymc": "土木工程(城市道路与桥梁工程)",
+        "pjf": "560"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "23887-24462",
+        "zymc": "土木工程(实验班)",
+        "pjf": "562"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "23887-24462",
+        "zymc": "给排水科学与工程",
+        "pjf": "562"
+      }
+    ],
+    "total": 11,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180068966
+}

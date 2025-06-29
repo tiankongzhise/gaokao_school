@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "59071-59849",
+        "zymc": "植物保护(植物医学)",
+        "pjf": "525"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "61445-62273",
+        "zymc": "农学(现代种业)",
+        "pjf": "522"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "62274-63138",
+        "zymc": "农业资源与环境",
+        "pjf": "521"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "64861-65709",
+        "zymc": "园林",
+        "pjf": "518"
+      }
+    ],
+    "total": 4,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751179968407
+}

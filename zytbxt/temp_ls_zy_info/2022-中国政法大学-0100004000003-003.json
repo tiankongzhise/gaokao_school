@@ -1,0 +1,81 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "3648-3808",
+        "zymc": "经济学",
+        "pjf": "619"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "3977-4182",
+        "zymc": "金融工程(成思危现代金融菁英班)",
+        "pjf": "617"
+      },
+      {
+        "zydm": null,
+        "lqrs": "12",
+        "pjmc": "2399-2536",
+        "zymc": "法学",
+        "pjf": "627"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "4183-4373",
+        "zymc": "社会学",
+        "pjf": "616"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "4183-4373",
+        "zymc": "工商管理",
+        "pjf": "616"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "1138-1215",
+        "zymc": "法学(法学人才培养模式改革实验班)",
+        "pjf": "639"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "3809-3976",
+        "zymc": "哲学(拔尖创新人才培养实验班)",
+        "pjf": "618"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "3295-3474",
+        "zymc": "信息管理与信息系统(法治信息管理实验班)",
+        "pjf": "621"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "3475-3647",
+        "zymc": "英语(法律英语实验班)",
+        "pjf": "620"
+      }
+    ],
+    "total": 9,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751179216353
+}

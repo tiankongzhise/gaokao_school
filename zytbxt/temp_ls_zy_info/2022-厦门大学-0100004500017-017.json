@@ -1,0 +1,32 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "27942-28552",
+        "zymc": "化学工程与工艺(厦门大学马来西亚分校招生专业)",
+        "pjf": "555"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "26763-27343",
+        "zymc": "新能源科学与工程(厦门大学马来西亚分校招生专业)",
+        "pjf": "557"
+      }
+    ],
+    "total": 2,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751181009032
+}

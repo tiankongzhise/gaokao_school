@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "135900-136942",
+        "zymc": "市场营销(数字营销)",
+        "pjf": "445"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "136943-138010",
+        "zymc": "工商管理",
+        "pjf": "444"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "134835-135899",
+        "zymc": "焊接技术与工程(智能焊接技术)",
+        "pjf": "446"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "135900-136942",
+        "zymc": "材料成型及控制工程",
+        "pjf": "445"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "133740-134834",
+        "zymc": "测控技术与仪器",
+        "pjf": "447"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "135900-136942",
+        "zymc": "金属材料工程",
+        "pjf": "445"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "135900-136942",
+        "zymc": "网络空间安全",
+        "pjf": "445"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "128362-129414",
+        "zymc": "飞行器制造工程",
+        "pjf": "452"
+      }
+    ],
+    "total": 8,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180933274
+}

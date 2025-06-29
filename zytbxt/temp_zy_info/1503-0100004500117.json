@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "建筑环境与能源应用工程",
+        "sfks": false,
+        "jhrs": 6,
+        "yxdm": "10128",
+        "zydm": "081002",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0100004500117",
+        "zyxh": null,
+        "bxdd": "内蒙古自治区呼和浩特市",
+        "bz": null,
+        "zydh": "019",
+        "yxdh": "1503",
+        "wyyzdm": "不限",
+        "sfbz": "4600",
+        "kskmyq": "首选物理，再选限化学"
+      }
+    ],
+    "total": 1,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751164192395
+}

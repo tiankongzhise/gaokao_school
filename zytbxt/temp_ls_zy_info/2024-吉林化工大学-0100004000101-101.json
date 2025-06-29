@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "122098-123440",
+        "zymc": "金融工程",
+        "pjf": "472"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "115563-116805",
+        "zymc": "工程管理",
+        "pjf": "477"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "123441-124739",
+        "zymc": "物流工程",
+        "pjf": "471"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "114297-115562",
+        "zymc": "工业工程",
+        "pjf": "478"
+      }
+    ],
+    "total": 4,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751181178658
+}

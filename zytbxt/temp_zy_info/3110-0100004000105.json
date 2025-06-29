@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "经济学类",
+        "sfks": false,
+        "jhrs": 4,
+        "yxdm": "10280",
+        "zydm": "0201",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0100004000105",
+        "zyxh": null,
+        "bxdd": "上海市市辖区",
+        "bz": "该专业代表经济管理类。按类招生，原则上第一学年内进行专业分流。 包含专业:经济学、金融学、国际经济与贸易、工商管理、会计学、档案学、信息资源管理、管理科学、信息管理与信息系统、工程管理。",
+        "zydh": "016",
+        "yxdh": "3110",
+        "wyyzdm": "不限",
+        "sfbz": "6500",
+        "kskmyq": "首选物理，再选不限"
+      }
+    ],
+    "total": 1,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751163775112
+}

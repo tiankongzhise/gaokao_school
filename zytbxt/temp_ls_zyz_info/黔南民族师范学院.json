@@ -1,0 +1,95 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "sf985": "0",
+        "ssmc": "贵州省",
+        "yxNfZyzVoList": [
+          {
+            "zyzbh": "003",
+            "zyzmc": "第3组",
+            "zyzdm": "0100004000003",
+            "lqrs": "6",
+            "nf": "2022",
+            "zgf": "478",
+            "zdmc": "121612",
+            "zymcStr": "天文学、计算机类",
+            "zdf": "452",
+            "pjf": "460"
+          },
+          {
+            "zyzbh": "004",
+            "zyzmc": "第4组",
+            "zyzdm": "0100004562004",
+            "lqrs": "2",
+            "nf": "2022",
+            "zgf": "456",
+            "zdmc": "125498",
+            "zymcStr": "植物保护",
+            "zdf": "448",
+            "pjf": "452"
+          },
+          {
+            "zyzbh": "103",
+            "zyzmc": "第103组",
+            "zyzdm": "0100004000103",
+            "lqrs": "1",
+            "nf": "2023",
+            "zgf": "456",
+            "zdmc": "124320",
+            "zymcStr": "天文学",
+            "zdf": "456",
+            "pjf": "456"
+          },
+          {
+            "zyzbh": "110",
+            "zyzmc": "第110组",
+            "zyzdm": "0100004500110",
+            "lqrs": "1",
+            "nf": "2024",
+            "zgf": "457",
+            "zdmc": "143530",
+            "zymcStr": "茶学",
+            "zdf": "457",
+            "pjf": "457"
+          },
+          {
+            "zyzbh": "111",
+            "zyzmc": "第111组",
+            "zyzdm": "5000004000111",
+            "lqrs": "1",
+            "nf": "2024",
+            "zgf": "668",
+            "zdmc": "1971-2000",
+            "zymcStr": "体育教育(师范)",
+            "zdf": "668",
+            "pjf": "668"
+          }
+        ],
+        "djsdm": "522700000000",
+        "yxnfList": null,
+        "yxmc": "黔南民族师范学院",
+        "yxdm": "10670",
+        "djsmc": "黔南布依族苗族自治州",
+        "sfsyl": "",
+        "yxjbzdm": "1",
+        "yxdh": "5209",
+        "sf211": "0",
+        "jhsxdm": "3",
+        "ssdm": "520000000000"
+      }
+    ],
+    "total": 1,
+    "size": 10,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751175644737
+}

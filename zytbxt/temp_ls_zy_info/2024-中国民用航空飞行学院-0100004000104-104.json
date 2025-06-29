@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "55698-56573",
+        "zymc": "工商管理",
+        "pjf": "531"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "81599-82704",
+        "zymc": "市场营销",
+        "pjf": "505"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "78341-79429",
+        "zymc": "公共事业管理",
+        "pjf": "508"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "81599-82704",
+        "zymc": "英语",
+        "pjf": "505"
+      }
+    ],
+    "total": 4,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751179234118
+}

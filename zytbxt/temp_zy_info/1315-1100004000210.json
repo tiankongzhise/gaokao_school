@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "翻译(中外合作办学)",
+        "sfks": false,
+        "jhrs": 3,
+        "yxdm": "10094",
+        "zydm": "050261H",
+        "bxddbb": false,
+        "xzdm": "四年",
+        "zyzdm": "1100004000210",
+        "zyxh": null,
+        "bxdd": null,
+        "bz": "要求外语单科成绩不低于95分，前三年就读于河北师范大学，每年学费为26000元人民币；按要求学生须修完规定学分，第四年进入斯特灵大学学习（按2028年入学时英方国家规定标准收取学费，学费预计1.8万英镑/年），报考前请仔细查阅招生章程。",
+        "zydh": "018",
+        "yxdh": "1315",
+        "wyyzdm": "英语",
+        "sfbz": "见备注",
+        "kskmyq": "首选物理，再选不限"
+      }
+    ],
+    "total": 1,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751166018470
+}

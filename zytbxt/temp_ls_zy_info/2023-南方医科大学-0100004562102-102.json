@@ -1,0 +1,109 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "13604-13989",
+        "zymc": "生物信息学",
+        "pjf": "603"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "13604-13989",
+        "zymc": "生物统计学",
+        "pjf": "603"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "12170-12519",
+        "zymc": "药学(创新班)",
+        "pjf": "607"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "7431-7721",
+        "zymc": "临床医学(卓越创新班)",
+        "pjf": "622"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "12170-12519",
+        "zymc": "预防医学(卓越创新班)",
+        "pjf": "607"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "11135-11459",
+        "zymc": "临床药学(卓越药师班)",
+        "pjf": "610"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "5497-5723",
+        "zymc": "临床医学(本硕博连读)",
+        "pjf": "630"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "9462-9752",
+        "zymc": "基础医学(院士创新班)",
+        "pjf": "615"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "12520-12860",
+        "zymc": "基础医学",
+        "pjf": "606"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "11793-12169",
+        "zymc": "临床医学",
+        "pjf": "608"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "7431-7721",
+        "zymc": "口腔医学",
+        "pjf": "622"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "12520-12860",
+        "zymc": "预防医学",
+        "pjf": "606"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "13604-13989",
+        "zymc": "药学",
+        "pjf": "603"
+      }
+    ],
+    "total": 13,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180854615
+}

@@ -58,6 +58,7 @@ dependencies = [
     { name = "openpyxl" },
     { name = "pandas" },
     { name = "requests" },
+    { name = "tk-base-utils" },
     { name = "tk-db-utils" },
 ]
 
@@ -66,6 +67,7 @@ requires-dist = [
     { name = "openpyxl", specifier = ">=3.1.0" },
     { name = "pandas", specifier = ">=2.0.0" },
     { name = "requests", specifier = ">=2.31.0" },
+    { name = "tk-base-utils", specifier = ">=0.1.4" },
     { name = "tk-db-utils", specifier = ">=0.1.3" },
 ]
 
@@ -296,6 +298,15 @@ wheels = [
     { url = "https://files.pythonhosted.org/packages/fa/2e/677c17c5d6a004c3c45334ab1dbe7b7deb834430b282b8a0f75ae220c8eb/sqlalchemy-2.0.41-cp313-cp313-win32.whl", hash = "sha256:bfc9064f6658a3d1cadeaa0ba07570b83ce6801a1314985bf98ec9b95d74e15f", size = 2082420 },
     { url = "https://files.pythonhosted.org/packages/e9/61/e8c1b9b6307c57157d328dd8b8348ddc4c47ffdf1279365a13b2b98b8049/sqlalchemy-2.0.41-cp313-cp313-win_amd64.whl", hash = "sha256:82ca366a844eb551daff9d2e6e7a9e5e76d2612c8564f58db6c19a726869c1df", size = 2108329 },
     { url = "https://files.pythonhosted.org/packages/1c/fc/9ba22f01b5cdacc8f5ed0d22304718d2c758fce3fd49a5372b886a86f37c/sqlalchemy-2.0.41-py3-none-any.whl", hash = "sha256:57df5dc6fdb5ed1a88a1ed2195fd31927e705cad62dedd86b46972752a80f576", size = 1911224 },
+]
+
+[[package]]
+name = "tk-base-utils"
+version = "0.1.4"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/f9/13/f99d0f18a3bac33987eb6ed54956fffafa8010c08250ab81a688fee9876a/tk_base_utils-0.1.4.tar.gz", hash = "sha256:99dc23e9df5e2ba8ee25720ee72d58f0008d0af10f7aff13a524c5875882d9fd", size = 9746 }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/2b/c6/a5d4bdddbd542f98e6afb99b1cb1105cea0537a7a596ad3f83b0046e6f63/tk_base_utils-0.1.4-py3-none-any.whl", hash = "sha256:938afcfc579b18599351edca16d9e5bfa93b3b2ddff335ef682927d50e16c60a", size = 12502 },
 ]
 
 [[package]]

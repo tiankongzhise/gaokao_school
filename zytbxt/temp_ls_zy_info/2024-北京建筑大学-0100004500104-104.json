@@ -1,0 +1,67 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "24125-24652",
+        "zymc": "电气工程及其自动化(实验班)",
+        "pjf": "577"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "30739-31312",
+        "zymc": "土木工程(实验班)",
+        "pjf": "565"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "28409-29004",
+        "zymc": "自动化(建筑智能控制与机器人)",
+        "pjf": "569"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "29005-29583",
+        "zymc": "车辆工程(智能轨道车辆)",
+        "pjf": "568"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "23062-23584",
+        "zymc": "人工智能",
+        "pjf": "579"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "32621-33236",
+        "zymc": "土木工程",
+        "pjf": "562"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "31945-32620",
+        "zymc": "给排水科学与工程",
+        "pjf": "563"
+      }
+    ],
+    "total": 7,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180073146
+}

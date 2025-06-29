@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "42607-43342",
+        "zymc": "核生化消防",
+        "pjf": "533"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "38267-38992",
+        "zymc": "电子信息工程(智慧消防方向)",
+        "pjf": "539"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "46463-47221",
+        "zymc": "消防工程",
+        "pjf": "528"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "40424-41129",
+        "zymc": "海外安全管理",
+        "pjf": "536"
+      }
+    ],
+    "total": 4,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751179101621
+}

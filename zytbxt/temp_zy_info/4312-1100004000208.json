@@ -1,0 +1,56 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "金融学(中外合作办学)",
+        "sfks": false,
+        "jhrs": 17,
+        "yxdm": "10538",
+        "zydm": "020301H",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "1100004000208",
+        "zyxh": null,
+        "bxdd": "湖南省长沙市",
+        "bz": "与英国班戈大学联合举办，绝大部分专业课采用全英文教学和考核，要求外语成绩不低于100分，非英语语种考生慎重填报，录取学生不得转专业；考生务必详见该项目当年招生简章。",
+        "zydh": "088",
+        "yxdh": "4312",
+        "wyyzdm": "不限",
+        "sfbz": "38000",
+        "kskmyq": "首选物理，再选不限"
+      },
+      {
+        "skkmyq": "不限",
+        "zymc": "会计学(中外合作办学)",
+        "sfks": false,
+        "jhrs": 20,
+        "yxdm": "10538",
+        "zydm": "120203H",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "1100004000208",
+        "zyxh": null,
+        "bxdd": "湖南省长沙市",
+        "bz": "与英国班戈大学联合举办，绝大部分专业课采用全英文教学和考核，要求外语成绩不低于100分，非英语语种考生慎重填报，录取学生不得转专业；考生务必详见该项目当年招生简章。",
+        "zydh": "089",
+        "yxdh": "4312",
+        "wyyzdm": "不限",
+        "sfbz": "38000",
+        "kskmyq": "首选物理，再选不限"
+      }
+    ],
+    "total": 2,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751163911489
+}

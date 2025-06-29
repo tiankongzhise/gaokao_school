@@ -1,0 +1,60 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "39876-40582",
+        "zymc": "数学与应用数学(中外合作办学)",
+        "pjf": "551"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "41286-42008",
+        "zymc": "统计学(中外合作办学)",
+        "pjf": "549"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "43487-44249",
+        "zymc": "人工智能(中外合作办学)",
+        "pjf": "546"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "47368-48114",
+        "zymc": "环境科学(中外合作办学)",
+        "pjf": "541"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "45814-46585",
+        "zymc": "食品科学与工程(中外合作办学)",
+        "pjf": "543"
+      },
+      {
+        "zydm": null,
+        "lqrs": "11",
+        "pjmc": "41286-42008",
+        "zymc": "计算机类(中外合作办学)",
+        "pjf": "549"
+      }
+    ],
+    "total": 6,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180244205
+}

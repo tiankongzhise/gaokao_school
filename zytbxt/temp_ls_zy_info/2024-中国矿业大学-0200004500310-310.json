@@ -1,0 +1,81 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "16204-16588",
+        "zymc": "矿业类",
+        "pjf": "594"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "22013-22516",
+        "zymc": "地球物理学",
+        "pjf": "581"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "23062-23584",
+        "zymc": "化工与制药类",
+        "pjf": "579"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "22517-23061",
+        "zymc": "工程力学",
+        "pjf": "580"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "15796-16203",
+        "zymc": "机械类",
+        "pjf": "595"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "20544-21009",
+        "zymc": "材料科学与工程",
+        "pjf": "584"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "16589-16978",
+        "zymc": "新能源材料与器件",
+        "pjf": "593"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "22013-22516",
+        "zymc": "水文与水资源工程",
+        "pjf": "581"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "24125-24652",
+        "zymc": "地质类",
+        "pjf": "577"
+      }
+    ],
+    "total": 9,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751179356809
+}

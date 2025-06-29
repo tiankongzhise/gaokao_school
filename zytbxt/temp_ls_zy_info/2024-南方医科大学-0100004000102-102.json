@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "21010-21515",
+        "zymc": "法学(卫生法学)",
+        "pjf": "583"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "40583-41285",
+        "zymc": "公共事业管理",
+        "pjf": "550"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "40583-41285",
+        "zymc": "健康服务与管理",
+        "pjf": "550"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "47368-48114",
+        "zymc": "外国语言文学类",
+        "pjf": "541"
+      }
+    ],
+    "total": 4,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180855665
+}

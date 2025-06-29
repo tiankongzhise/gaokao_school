@@ -1,0 +1,123 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "124043-125109",
+        "zymc": "数字经济",
+        "pjf": "456"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "101449-102477",
+        "zymc": "电子信息工程",
+        "pjf": "478"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "110524-111543",
+        "zymc": "人工智能",
+        "pjf": "469"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "97478-98445",
+        "zymc": "计算机科学与技术",
+        "pjf": "482"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "115701-116762",
+        "zymc": "网络工程",
+        "pjf": "464"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "119902-120948",
+        "zymc": "物联网工程",
+        "pjf": "460"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "128362-129414",
+        "zymc": "智能建造与智慧交通",
+        "pjf": "452"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "115701-116762",
+        "zymc": "工程造价",
+        "pjf": "464"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "129415-130501",
+        "zymc": "物流管理",
+        "pjf": "451"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "111544-112612",
+        "zymc": "电子商务",
+        "pjf": "468"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "122962-124042",
+        "zymc": "商务英语",
+        "pjf": "457"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "128362-129414",
+        "zymc": "车辆工程",
+        "pjf": "452"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "125110-126165",
+        "zymc": "材料化学",
+        "pjf": "455"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "124043-125109",
+        "zymc": "化学工程与工艺",
+        "pjf": "456"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "127246-128361",
+        "zymc": "环境工程",
+        "pjf": "453"
+      }
+    ],
+    "total": 15,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751178503921
+}

@@ -1,0 +1,53 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "89449-90557",
+        "zymc": "工商管理",
+        "pjf": "481"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "80366-81369",
+        "zymc": "市场营销",
+        "pjf": "490"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "90558-91572",
+        "zymc": "公共事业管理",
+        "pjf": "480"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "79376-80365",
+        "zymc": "英语",
+        "pjf": "491"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "92559-93621",
+        "zymc": "应用心理学",
+        "pjf": "478"
+      }
+    ],
+    "total": 5,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751179223658
+}

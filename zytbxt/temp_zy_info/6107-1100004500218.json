@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "机械设计制造及其自动化(中外合作办学)",
+        "sfks": false,
+        "jhrs": 4,
+        "yxdm": "10708",
+        "zydm": "080202H",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "1100004500218",
+        "zyxh": null,
+        "bxdd": "陕西省西安市",
+        "bz": "中英双学位",
+        "zydh": "036",
+        "yxdh": "6107",
+        "wyyzdm": "不限",
+        "sfbz": "60000",
+        "kskmyq": "首选物理，再选限化学"
+      }
+    ],
+    "total": 1,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751167667265
+}

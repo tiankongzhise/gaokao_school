@@ -1,0 +1,81 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "22540-22982",
+        "zymc": "数字经济",
+        "pjf": "582"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "31613-32192",
+        "zymc": "人工智能",
+        "pjf": "565"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "29932-30454",
+        "zymc": "电子商务",
+        "pjf": "568"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "33985-34562",
+        "zymc": "管理科学与工程类",
+        "pjf": "561"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "29343-29931",
+        "zymc": "工商管理类",
+        "pjf": "569"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "31030-31612",
+        "zymc": "经济统计学",
+        "pjf": "566"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "28784-29342",
+        "zymc": "财政学类",
+        "pjf": "570"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "21095-21577",
+        "zymc": "金融学类",
+        "pjf": "585"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "32788-33357",
+        "zymc": "管理科学与工程类",
+        "pjf": "563"
+      }
+    ],
+    "total": 9,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751178859597
+}

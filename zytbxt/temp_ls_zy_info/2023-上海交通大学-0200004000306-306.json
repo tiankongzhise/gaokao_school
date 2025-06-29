@@ -1,0 +1,53 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "1295-1387",
+        "zymc": "建筑学(五年制)",
+        "pjf": "657"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "741-803",
+        "zymc": "工科试验班类(信息类)",
+        "pjf": "664"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "940-1025",
+        "zymc": "工科试验班类(机电类)",
+        "pjf": "661"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "1200-1294",
+        "zymc": "工科试验班类(材料学院)",
+        "pjf": "658"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "1106-1199",
+        "zymc": "工科试验班类(船建学院)",
+        "pjf": "659"
+      }
+    ],
+    "total": 5,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751178525917
+}

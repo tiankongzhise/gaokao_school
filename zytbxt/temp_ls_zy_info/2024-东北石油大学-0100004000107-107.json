@@ -1,0 +1,67 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "87225-88344",
+        "zymc": "旅游管理",
+        "pjf": "500"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "75171-76265",
+        "zymc": "国际经济与贸易",
+        "pjf": "511"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "82705-83835",
+        "zymc": "建筑学",
+        "pjf": "504"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "86078-87224",
+        "zymc": "工商管理",
+        "pjf": "501"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "76266-77261",
+        "zymc": "会计学",
+        "pjf": "510"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "77262-78340",
+        "zymc": "工程管理",
+        "pjf": "509"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "70966-72035",
+        "zymc": "工程造价",
+        "pjf": "515"
+      }
+    ],
+    "total": 7,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751178850098
+}

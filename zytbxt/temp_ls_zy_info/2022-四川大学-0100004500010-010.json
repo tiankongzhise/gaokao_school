@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "1706-1813",
+        "zymc": "临床医学(五年)",
+        "pjf": "633"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "1926-2043",
+        "zymc": "临床医学(卓越检验医师试验班)",
+        "pjf": "631"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "1138-1215",
+        "zymc": "临床医学(八年)",
+        "pjf": "639"
+      }
+    ],
+    "total": 3,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751181634249
+}

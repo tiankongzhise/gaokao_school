@@ -1,0 +1,67 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "3416-3595",
+        "zymc": "管理科学与工程类(大数据管理与供应链优化试验班)",
+        "pjf": "641"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "4913-5120",
+        "zymc": "环境科学与工程类(智慧环境试验班)",
+        "pjf": "633"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "4913-5120",
+        "zymc": "土木类(智能化建造试验班)",
+        "pjf": "633"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "3596-3743",
+        "zymc": "经济学类",
+        "pjf": "640"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "2731-2917",
+        "zymc": "材料类(3D打印、智能成型、智能材料、新能源)",
+        "pjf": "645"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "4716-4912",
+        "zymc": "船舶与海洋工程",
+        "pjf": "634"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "4716-4912",
+        "zymc": "核工程与核技术",
+        "pjf": "634"
+      }
+    ],
+    "total": 7,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180434764
+}

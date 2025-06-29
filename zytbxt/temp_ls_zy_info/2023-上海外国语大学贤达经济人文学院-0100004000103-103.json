@@ -1,0 +1,95 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "156297-157449",
+        "zymc": "新闻学(新媒体方向)",
+        "pjf": "426"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "158555-159592",
+        "zymc": "金融学",
+        "pjf": "424"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "147692-148808",
+        "zymc": "国际经济与贸易",
+        "pjf": "434"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "160656-161740",
+        "zymc": "英语",
+        "pjf": "422"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "161741-162818",
+        "zymc": "日语",
+        "pjf": "421"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "164966-166070",
+        "zymc": "广告学",
+        "pjf": "418"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "166071-167117",
+        "zymc": "工商管理",
+        "pjf": "417"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "163890-164965",
+        "zymc": "会计学",
+        "pjf": "419"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "135900-136942",
+        "zymc": "法学(双语班)",
+        "pjf": "445"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "167118-168197",
+        "zymc": "西班牙语(双语班)",
+        "pjf": "416"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "159593-160655",
+        "zymc": "大数据管理与应用",
+        "pjf": "423"
+      }
+    ],
+    "total": 11,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751178573344
+}

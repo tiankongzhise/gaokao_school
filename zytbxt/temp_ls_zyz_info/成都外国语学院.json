@@ -1,0 +1,83 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "sf985": "0",
+        "ssmc": "四川省",
+        "yxNfZyzVoList": [
+          {
+            "zyzbh": "002",
+            "zyzmc": "第2组",
+            "zyzdm": "0100004000002",
+            "lqrs": "12",
+            "nf": "2022",
+            "zgf": "462",
+            "zdmc": "125138",
+            "zymcStr": "国际经济与贸易、英语、西班牙语、日语、意大利语、财务管理、跨境电子商务、汉语言文学、汉语国际教育、商务英语",
+            "zdf": "449",
+            "pjf": "453"
+          },
+          {
+            "zyzbh": "102",
+            "zyzmc": "第102组",
+            "zyzdm": "0100004000102",
+            "lqrs": "3",
+            "nf": "2023",
+            "zgf": "484",
+            "zdmc": "123123",
+            "zymcStr": "汉语言文学、汉语国际教育、商务英语",
+            "zdf": "457",
+            "pjf": "468"
+          },
+          {
+            "zyzbh": "102",
+            "zyzmc": "第102组",
+            "zyzdm": "0100004000102",
+            "lqrs": "3",
+            "nf": "2024",
+            "zgf": "464",
+            "zdmc": "139502",
+            "zymcStr": "汉语言文学、汉语国际教育、商务英语",
+            "zdf": "460",
+            "pjf": "461"
+          },
+          {
+            "zyzbh": "105",
+            "zyzmc": "第105组",
+            "zyzdm": "0100004000105",
+            "lqrs": "1",
+            "nf": "2024",
+            "zgf": "379",
+            "zdmc": null,
+            "zymcStr": "商务英语",
+            "zdf": "379",
+            "pjf": "379"
+          }
+        ],
+        "djsdm": "510100000000",
+        "yxnfList": null,
+        "yxmc": "成都外国语学院",
+        "yxdm": "13673",
+        "djsmc": "成都市",
+        "sfsyl": "",
+        "yxjbzdm": "2",
+        "yxdh": "5133",
+        "sf211": "0",
+        "jhsxdm": "3",
+        "ssdm": "510000000000"
+      }
+    ],
+    "total": 1,
+    "size": 10,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751175619968
+}

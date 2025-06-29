@@ -1,0 +1,60 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "12710-13118",
+        "zymc": "市场营销(品牌管理方向)",
+        "pjf": "586"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "13479-13886",
+        "zymc": "电子信息工程",
+        "pjf": "584"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "14723-15143",
+        "zymc": "智能装备与系统(演艺工程与智能技术方向)",
+        "pjf": "581"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "10862-11205",
+        "zymc": "数字媒体技术",
+        "pjf": "591"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "14723-15143",
+        "zymc": "网络空间安全",
+        "pjf": "581"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "12309-12709",
+        "zymc": "英语",
+        "pjf": "587"
+      }
+    ],
+    "total": 6,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751179114275
+}

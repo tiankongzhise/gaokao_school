@@ -1,0 +1,59 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "sf985": "0",
+        "ssmc": "河南省",
+        "yxNfZyzVoList": [
+          {
+            "zyzbh": "102",
+            "zyzmc": "第102组",
+            "zyzdm": "0100004000102",
+            "lqrs": "4",
+            "nf": "2023",
+            "zgf": "443",
+            "zdmc": "143343",
+            "zymcStr": "国际经济与贸易、会计学、财务管理",
+            "zdf": "439",
+            "pjf": "440"
+          },
+          {
+            "zyzbh": "102",
+            "zyzmc": "第102组",
+            "zyzdm": "0100004000102",
+            "lqrs": "5",
+            "nf": "2024",
+            "zgf": "466",
+            "zdmc": "137714",
+            "zymcStr": "国际经济与贸易、会计学、财务管理",
+            "zdf": "461",
+            "pjf": "463"
+          }
+        ],
+        "djsdm": "410100000000",
+        "yxnfList": null,
+        "yxmc": "郑州商学院",
+        "yxdm": "14040",
+        "djsmc": "郑州市",
+        "sfsyl": "",
+        "yxjbzdm": "2",
+        "yxdh": "4187",
+        "sf211": "0",
+        "jhsxdm": "3",
+        "ssdm": "410000000000"
+      }
+    ],
+    "total": 1,
+    "size": 10,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751176578932
+}

@@ -1,0 +1,32 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "7",
+        "pjmc": "32901-33552",
+        "zymc": "预防医学",
+        "pjf": "547"
+      },
+      {
+        "zydm": null,
+        "lqrs": "13",
+        "pjmc": "40424-41129",
+        "zymc": "药学",
+        "pjf": "536"
+      }
+    ],
+    "total": 2,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180767752
+}

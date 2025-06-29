@@ -1,0 +1,123 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "73069-74125",
+        "zymc": "制药工程",
+        "pjf": "513"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "77262-78340",
+        "zymc": "食品质量与安全",
+        "pjf": "509"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "66927-67972",
+        "zymc": "中医学",
+        "pjf": "519"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "78341-79429",
+        "zymc": "针灸推拿学",
+        "pjf": "508"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "82705-83835",
+        "zymc": "中医康复学",
+        "pjf": "504"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "77262-78340",
+        "zymc": "中医养生学",
+        "pjf": "509"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "80530-81598",
+        "zymc": "中医儿科学",
+        "pjf": "506"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "83836-84903",
+        "zymc": "中医骨伤科学",
+        "pjf": "503"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "82705-83835",
+        "zymc": "中西医临床医学",
+        "pjf": "504"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "74126-75170",
+        "zymc": "药学",
+        "pjf": "512"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "81599-82704",
+        "zymc": "药物制剂",
+        "pjf": "505"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "79430-80529",
+        "zymc": "中药学",
+        "pjf": "507"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "82705-83835",
+        "zymc": "中药资源与开发",
+        "pjf": "504"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "84904-86077",
+        "zymc": "中草药栽培与鉴定",
+        "pjf": "502"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "80530-81598",
+        "zymc": "康复治疗学",
+        "pjf": "506"
+      }
+    ],
+    "total": 15,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751179532158
+}

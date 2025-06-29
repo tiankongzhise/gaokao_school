@@ -1,0 +1,151 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "12",
+        "pjmc": "5638-5852",
+        "zymc": "工科试验班(先进化工与高端装备类)",
+        "pjf": "628"
+      },
+      {
+        "zydm": null,
+        "lqrs": "8",
+        "pjmc": "3733-3912",
+        "zymc": "数学类(含双学士学位)",
+        "pjf": "638"
+      },
+      {
+        "zydm": null,
+        "lqrs": "11",
+        "pjmc": "6075-6314",
+        "zymc": "生物科学类(含双学士学位)",
+        "pjf": "626"
+      },
+      {
+        "zydm": null,
+        "lqrs": "16",
+        "pjmc": "3913-4078",
+        "zymc": "计算机类(含双学士学位)",
+        "pjf": "637"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "4246-4436",
+        "zymc": "网络空间安全(含双学士学位)",
+        "pjf": "635"
+      },
+      {
+        "zydm": null,
+        "lqrs": "22",
+        "pjmc": "5853-6074",
+        "zymc": "材料类(新能源与纳米材料)",
+        "pjf": "627"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "4786-4992",
+        "zymc": "工科试验班(智能制造)",
+        "pjf": "632"
+      },
+      {
+        "zydm": null,
+        "lqrs": "12",
+        "pjmc": "5853-6074",
+        "zymc": "工科试验班(绿色城市与智慧建造)",
+        "pjf": "627"
+      },
+      {
+        "zydm": null,
+        "lqrs": "18",
+        "pjmc": "6315-6556",
+        "zymc": "工科试验班(绿色能源与智慧建造)",
+        "pjf": "625"
+      },
+      {
+        "zydm": null,
+        "lqrs": "13",
+        "pjmc": "4993-5214",
+        "zymc": "物理学类",
+        "pjf": "631"
+      },
+      {
+        "zydm": null,
+        "lqrs": "14",
+        "pjmc": "6557-6798",
+        "zymc": "化学类",
+        "pjf": "624"
+      },
+      {
+        "zydm": null,
+        "lqrs": "10",
+        "pjmc": "5418-5637",
+        "zymc": "高分子材料与工程",
+        "pjf": "629"
+      },
+      {
+        "zydm": null,
+        "lqrs": "14",
+        "pjmc": "4246-4436",
+        "zymc": "电气类",
+        "pjf": "635"
+      },
+      {
+        "zydm": null,
+        "lqrs": "20",
+        "pjmc": "4437-4618",
+        "zymc": "电子信息类",
+        "pjf": "634"
+      },
+      {
+        "zydm": null,
+        "lqrs": "8",
+        "pjmc": "4786-4992",
+        "zymc": "航空航天类",
+        "pjf": "632"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "5215-5417",
+        "zymc": "生物医学工程类",
+        "pjf": "630"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "6557-6798",
+        "zymc": "医学试验班(医学基础与法医学)",
+        "pjf": "624"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "6315-6556",
+        "zymc": "医学技术类(含双学士学位)",
+        "pjf": "625"
+      },
+      {
+        "zydm": null,
+        "lqrs": "8",
+        "pjmc": "6315-6556",
+        "zymc": "药学类",
+        "pjf": "625"
+      }
+    ],
+    "total": 19,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751181651016
+}

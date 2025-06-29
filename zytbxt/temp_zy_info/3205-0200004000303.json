@@ -1,0 +1,56 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "经济学类",
+        "sfks": false,
+        "jhrs": 3,
+        "yxdm": "10288",
+        "zydm": "0201",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0200004000303",
+        "zyxh": null,
+        "bxdd": "江苏省南京市",
+        "bz": "第一学年在江阴校区学习，第二、三、四学年在南京校区学习 包含专业:国际经济与贸易、金融学。",
+        "zydh": "027",
+        "yxdh": "3205",
+        "wyyzdm": "不限",
+        "sfbz": "5720",
+        "kskmyq": "首选物理，再选不限"
+      },
+      {
+        "skkmyq": "不限",
+        "zymc": "工商管理类",
+        "sfks": false,
+        "jhrs": 3,
+        "yxdm": "10288",
+        "zydm": "1202",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0200004000303",
+        "zyxh": null,
+        "bxdd": "江苏省南京市",
+        "bz": "第一学年在江阴校区学习，第二、三、四学年在南京校区学习 包含专业:会计学、人力资源管理。",
+        "zydh": "028",
+        "yxdh": "3205",
+        "wyyzdm": "不限",
+        "sfbz": "5720",
+        "kskmyq": "首选物理，再选不限"
+      }
+    ],
+    "total": 2,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751164516798
+}

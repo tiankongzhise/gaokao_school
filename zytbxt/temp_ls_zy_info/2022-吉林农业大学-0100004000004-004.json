@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "93622-94677",
+        "zymc": "社会学类",
+        "pjf": "477"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "89449-90557",
+        "zymc": "工商管理类",
+        "pjf": "481"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "80366-81369",
+        "zymc": "英语",
+        "pjf": "490"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "88452-89448",
+        "zymc": "传播学",
+        "pjf": "482"
+      }
+    ],
+    "total": 4,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751181137571
+}

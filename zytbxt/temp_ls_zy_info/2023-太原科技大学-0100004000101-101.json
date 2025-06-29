@@ -1,0 +1,109 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "56729-57510",
+        "zymc": "应用统计学",
+        "pjf": "528"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "53633-54427",
+        "zymc": "会计学",
+        "pjf": "532"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "49965-50694",
+        "zymc": "计算机科学与技术",
+        "pjf": "537"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "48437-49239",
+        "zymc": "机械设计制造及其自动化",
+        "pjf": "539"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "59850-60628",
+        "zymc": "材料成型及控制工程",
+        "pjf": "524"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "61445-62273",
+        "zymc": "过程装备与控制工程",
+        "pjf": "522"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "55964-56728",
+        "zymc": "冶金工程",
+        "pjf": "529"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "52154-52879",
+        "zymc": "电气工程及其自动化",
+        "pjf": "534"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "55161-55963",
+        "zymc": "自动化",
+        "pjf": "530"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "56729-57510",
+        "zymc": "智能装备与系统",
+        "pjf": "528"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "61445-62273",
+        "zymc": "油气储运工程",
+        "pjf": "522"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "55964-56728",
+        "zymc": "环境工程",
+        "pjf": "529"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "57511-58303",
+        "zymc": "环境科学",
+        "pjf": "527"
+      }
+    ],
+    "total": 13,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751182248698
+}

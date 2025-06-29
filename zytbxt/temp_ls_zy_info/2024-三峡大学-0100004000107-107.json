@@ -1,0 +1,88 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "55698-56573",
+        "zymc": "金融学",
+        "pjf": "531"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "61098-62058",
+        "zymc": "投资学",
+        "pjf": "525"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "63034-63989",
+        "zymc": "法语",
+        "pjf": "523"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "52228-53086",
+        "zymc": "行政管理",
+        "pjf": "535"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "44999-45813",
+        "zymc": "供应链管理",
+        "pjf": "544"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "64972-65953",
+        "zymc": "城乡规划(乡村振兴方向)",
+        "pjf": "521"
+      },
+      {
+        "zydm": null,
+        "lqrs": "7",
+        "pjmc": "62059-63033",
+        "zymc": "工程管理(含造价方向)",
+        "pjf": "524"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "65954-66926",
+        "zymc": "英语(教师教育、翻译、国际传播方向)",
+        "pjf": "520"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "44999-45813",
+        "zymc": "法学",
+        "pjf": "544"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "75171-76265",
+        "zymc": "建筑学",
+        "pjf": "511"
+      }
+    ],
+    "total": 10,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751178487187
+}

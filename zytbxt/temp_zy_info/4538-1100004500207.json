@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "数字媒体技术(中外合作办学)",
+        "sfks": false,
+        "jhrs": 6,
+        "yxdm": "11548",
+        "zydm": "080906H",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "1100004500207",
+        "zyxh": null,
+        "bxdd": "广西壮族自治区南宁市",
+        "bz": "合作院校为英国奇切斯特大学，采用“4+0”模式。学生四年均在广西财经学院就读，第一学年在武鸣校区，第二至第四学年在明秀或相思湖校区。符合学校毕业条件和学位授予条件的，获广西财经学院本科毕业证书和学士学位证书。",
+        "zydh": "020",
+        "yxdh": "4538",
+        "wyyzdm": "不限",
+        "sfbz": "35000",
+        "kskmyq": "首选物理，再选限化学"
+      }
+    ],
+    "total": 1,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751165429533
+}

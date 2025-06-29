@@ -1,0 +1,32 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "103-118",
+        "zymc": "人工智能(卓越人才试点班)",
+        "pjf": "667"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "96-102",
+        "zymc": "电子信息类(IEEE试点班，含双学士学位项目)",
+        "pjf": "668"
+      }
+    ],
+    "total": 2,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751178518569
+}

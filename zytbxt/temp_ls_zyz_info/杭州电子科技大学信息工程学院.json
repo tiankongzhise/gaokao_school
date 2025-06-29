@@ -1,0 +1,59 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "sf985": "0",
+        "ssmc": "浙江省",
+        "yxNfZyzVoList": [
+          {
+            "zyzbh": "102",
+            "zyzmc": "第102组",
+            "zyzdm": "0100004000102",
+            "lqrs": "2",
+            "nf": "2024",
+            "zgf": "479",
+            "zdmc": "115554",
+            "zymcStr": "管理科学与工程类",
+            "zdf": "478",
+            "pjf": "478"
+          },
+          {
+            "zyzbh": "103",
+            "zyzmc": "第103组",
+            "zyzdm": "0100004500103",
+            "lqrs": "15",
+            "nf": "2024",
+            "zgf": "478",
+            "zdmc": "161760",
+            "zymcStr": "计算机类、电子信息类、机械设计制造及其自动化(数字化设计与制造方向)、智能制造工程",
+            "zdf": "443",
+            "pjf": "451"
+          }
+        ],
+        "djsdm": "330100000000",
+        "yxnfList": null,
+        "yxmc": "杭州电子科技大学信息工程学院",
+        "yxdm": "13279",
+        "djsmc": "杭州市",
+        "sfsyl": "",
+        "yxjbzdm": "5",
+        "yxdh": "3359",
+        "sf211": "0",
+        "jhsxdm": "3",
+        "ssdm": "330000000000"
+      }
+    ],
+    "total": 1,
+    "size": 10,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751176371762
+}

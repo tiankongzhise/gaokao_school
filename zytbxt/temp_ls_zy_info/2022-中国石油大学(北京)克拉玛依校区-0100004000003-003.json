@@ -1,0 +1,116 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "39709-40423",
+        "zymc": "经济学类",
+        "pjf": "537"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "34204-34869",
+        "zymc": "会计学",
+        "pjf": "545"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "38993-39708",
+        "zymc": "行政管理",
+        "pjf": "538"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "27942-28552",
+        "zymc": "数学与应用数学",
+        "pjf": "555"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "33553-34203",
+        "zymc": "统计学",
+        "pjf": "546"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "35522-36171",
+        "zymc": "机械类",
+        "pjf": "543"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "34204-34869",
+        "zymc": "自动化",
+        "pjf": "545"
+      },
+      {
+        "zydm": null,
+        "lqrs": "9",
+        "pjmc": "34204-34869",
+        "zymc": "计算机类",
+        "pjf": "545"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "26763-27343",
+        "zymc": "勘查技术与工程",
+        "pjf": "557"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "36172-36855",
+        "zymc": "资源勘查工程",
+        "pjf": "542"
+      },
+      {
+        "zydm": null,
+        "lqrs": "7",
+        "pjmc": "32289-32900",
+        "zymc": "石油工程",
+        "pjf": "548"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "36856-37551",
+        "zymc": "油气储运工程",
+        "pjf": "541"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "38993-39708",
+        "zymc": "安全工程",
+        "pjf": "538"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "38267-38992",
+        "zymc": "英语",
+        "pjf": "539"
+      }
+    ],
+    "total": 14,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751179306570
+}

@@ -1,0 +1,56 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "软件工程(VR软件开发)",
+        "sfks": false,
+        "jhrs": 5,
+        "yxdm": "10421",
+        "zydm": "080902",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0100004500113",
+        "zyxh": null,
+        "bxdd": "江西省南昌市",
+        "bz": null,
+        "zydh": "058",
+        "yxdh": "3604",
+        "wyyzdm": "不限",
+        "sfbz": "10000",
+        "kskmyq": "首选物理，再选限化学"
+      },
+      {
+        "skkmyq": "不限",
+        "zymc": "软件工程",
+        "sfks": false,
+        "jhrs": 10,
+        "yxdm": "10421",
+        "zydm": "080902",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0100004500113",
+        "zyxh": null,
+        "bxdd": "江西省南昌市",
+        "bz": null,
+        "zydh": "059",
+        "yxdh": "3604",
+        "wyyzdm": "不限",
+        "sfbz": "10000",
+        "kskmyq": "首选物理，再选限化学"
+      }
+    ],
+    "total": 2,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751165907776
+}

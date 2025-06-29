@@ -1,0 +1,60 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "2068-2184",
+        "zymc": "理科试验班类(物理学拔尖班)",
+        "pjf": "650"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "2731-2917",
+        "zymc": "理科试验班类(生态环境)",
+        "pjf": "645"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "940-1025",
+        "zymc": "人力资源管理(经管试验班)",
+        "pjf": "661"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "2185-2299",
+        "zymc": "社会学类",
+        "pjf": "649"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "1200-1294",
+        "zymc": "应用心理学",
+        "pjf": "658"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "576-611",
+        "zymc": "金融学类",
+        "pjf": "667"
+      }
+    ],
+    "total": 6,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751179096346
+}

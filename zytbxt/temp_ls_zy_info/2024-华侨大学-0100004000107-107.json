@@ -1,0 +1,95 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "40583-41285",
+        "zymc": "行政管理(数字政府治理、社会福利、公共危机管理方向)",
+        "pjf": "550"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "41286-42008",
+        "zymc": "会展经济与管理(数智会展与策划管理方向)",
+        "pjf": "549"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "39144-39875",
+        "zymc": "翻译",
+        "pjf": "552"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "40583-41285",
+        "zymc": "经济学",
+        "pjf": "550"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "37812-38493",
+        "zymc": "国际经济与贸易",
+        "pjf": "554"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "42009-42749",
+        "zymc": "金融学",
+        "pjf": "548"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "29005-29583",
+        "zymc": "法学",
+        "pjf": "568"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "31945-32620",
+        "zymc": "汉语言文学",
+        "pjf": "563"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "31313-31944",
+        "zymc": "信息管理与信息系统",
+        "pjf": "564"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "35156-35798",
+        "zymc": "哲学(含中西人文综合试验班、中华文化学试验班)",
+        "pjf": "558"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "34534-35155",
+        "zymc": "汉语国际教育",
+        "pjf": "559"
+      }
+    ],
+    "total": 11,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180449407
+}

@@ -1,0 +1,60 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "323-368",
+        "zymc": "经济管理试验班",
+        "pjf": "655"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "190-203",
+        "zymc": "数学类(拔尖学生培养基地)",
+        "pjf": "661"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "323-368",
+        "zymc": "工科试验班(新工科本研贯通)",
+        "pjf": "655"
+      },
+      {
+        "zydm": null,
+        "lqrs": "21",
+        "pjmc": "401-440",
+        "zymc": "技术科学试验班(拔尖学生培养基地)",
+        "pjf": "653"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "274-296",
+        "zymc": "计算机科学与技术(拔尖人才试验班)",
+        "pjf": "657"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "250-273",
+        "zymc": "软件工程(国家示范性软件学院)",
+        "pjf": "658"
+      }
+    ],
+    "total": 6,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751181740350
+}

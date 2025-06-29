@@ -1,0 +1,53 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "9183-9461",
+        "zymc": "化学工程与工艺(卓越优才计划)",
+        "pjf": "616"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "7163-7430",
+        "zymc": "车辆工程(卓越优才计划)",
+        "pjf": "623"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "9753-10060",
+        "zymc": "海洋技术(卓越优才计划)",
+        "pjf": "614"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "8281-8560",
+        "zymc": "智能材料与结构(卓越优才计划)",
+        "pjf": "619"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "9183-9461",
+        "zymc": "海洋信息工程(卓越优才计划)",
+        "pjf": "616"
+      }
+    ],
+    "total": 5,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751181458363
+}

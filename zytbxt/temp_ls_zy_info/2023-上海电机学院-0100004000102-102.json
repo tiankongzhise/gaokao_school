@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "56729-57510",
+        "zymc": "经济统计学",
+        "pjf": "528"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "63139-64002",
+        "zymc": "工业工程类",
+        "pjf": "520"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "62274-63138",
+        "zymc": "机械类(汽车类)",
+        "pjf": "521"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "59071-59849",
+        "zymc": "机械电子工程",
+        "pjf": "525"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "55161-55963",
+        "zymc": "电气类",
+        "pjf": "530"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "53633-54427",
+        "zymc": "电子信息工程",
+        "pjf": "532"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "48437-49239",
+        "zymc": "计算机类",
+        "pjf": "539"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "62274-63138",
+        "zymc": "智能制造工程",
+        "pjf": "521"
+      }
+    ],
+    "total": 8,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751178690193
+}

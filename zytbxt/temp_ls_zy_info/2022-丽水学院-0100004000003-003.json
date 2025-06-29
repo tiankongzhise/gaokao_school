@@ -1,0 +1,102 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "96766-97843",
+        "zymc": "数学与应用数学(师范)",
+        "pjf": "474"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "102204-103281",
+        "zymc": "物理学",
+        "pjf": "469"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "103282-104374",
+        "zymc": "财务管理",
+        "pjf": "468"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "100058-101121",
+        "zymc": "电子商务",
+        "pjf": "471"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "95717-96765",
+        "zymc": "机械设计制造及其自动化",
+        "pjf": "475"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "106591-107624",
+        "zymc": "工业设计",
+        "pjf": "465"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "98957-100057",
+        "zymc": "电子信息工程",
+        "pjf": "472"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "96766-97843",
+        "zymc": "自动化",
+        "pjf": "474"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "87462-88451",
+        "zymc": "数字媒体技术",
+        "pjf": "483"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "107625-108725",
+        "zymc": "土木工程",
+        "pjf": "464"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "101122-102203",
+        "zymc": "护理学",
+        "pjf": "470"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "94678-95716",
+        "zymc": "计算机科学与技术",
+        "pjf": "476"
+      }
+    ],
+    "total": 12,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751179485941
+}

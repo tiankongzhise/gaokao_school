@@ -1,0 +1,56 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "金融学(厦门大学马来西亚分校招生专业)",
+        "sfks": false,
+        "jhrs": 2,
+        "yxdm": "10384",
+        "zydm": "020301",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0100004000117",
+        "zyxh": null,
+        "bxdd": "福建省厦门市",
+        "bz": "学费2.7万林吉特/学年。全英文授课，非英语语种考生慎报，外语单科不低于120分。入学第一学年内获得专业要求的达标英语成绩后开始学位课程学习。办学地点在马来西亚雪邦。",
+        "zydh": "042",
+        "yxdh": "3501",
+        "wyyzdm": "不限",
+        "sfbz": "见备注",
+        "kskmyq": "首选物理，再选不限"
+      },
+      {
+        "skkmyq": "不限",
+        "zymc": "会计学(厦门大学马来西亚分校招生专业)",
+        "sfks": false,
+        "jhrs": 2,
+        "yxdm": "10384",
+        "zydm": "120203",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0100004000117",
+        "zyxh": null,
+        "bxdd": "福建省厦门市",
+        "bz": "学费2.7万林吉特/学年。全英文授课，非英语语种考生慎报，外语单科不低于120分。入学第一学年内获得专业要求的达标英语成绩后开始学位课程学习。办学地点在马来西亚雪邦。",
+        "zydh": "043",
+        "yxdh": "3501",
+        "wyyzdm": "不限",
+        "sfbz": "见备注",
+        "kskmyq": "首选物理，再选不限"
+      }
+    ],
+    "total": 2,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751164618826
+}

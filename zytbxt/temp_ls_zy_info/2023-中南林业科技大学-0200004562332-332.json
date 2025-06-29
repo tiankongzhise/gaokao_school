@@ -1,0 +1,95 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "62274-63138",
+        "zymc": "林学(陶铸实验班)",
+        "pjf": "521"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "86919-87819",
+        "zymc": "水土保持与荒漠化防治",
+        "pjf": "493"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "69069-69917",
+        "zymc": "智慧林业",
+        "pjf": "513"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "66536-67417",
+        "zymc": "林学类",
+        "pjf": "516"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "81347-82256",
+        "zymc": "园艺",
+        "pjf": "499"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "72504-73398",
+        "zymc": "生物技术(陶铸实验班)",
+        "pjf": "509"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "84113-85029",
+        "zymc": "生态学(陶铸实验班)",
+        "pjf": "496"
+      },
+      {
+        "zydm": null,
+        "lqrs": "32",
+        "pjmc": "86919-87819",
+        "zymc": "生物科学类",
+        "pjf": "493"
+      },
+      {
+        "zydm": null,
+        "lqrs": "24",
+        "pjmc": "83201-84112",
+        "zymc": "食品科学与工程类",
+        "pjf": "497"
+      },
+      {
+        "zydm": null,
+        "lqrs": "25",
+        "pjmc": "88743-89647",
+        "zymc": "环境科学与工程类",
+        "pjf": "491"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "77778-78660",
+        "zymc": "生物工程",
+        "pjf": "503"
+      }
+    ],
+    "total": 11,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751179000265
+}

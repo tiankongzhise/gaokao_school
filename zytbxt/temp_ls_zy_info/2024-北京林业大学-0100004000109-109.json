@@ -1,0 +1,32 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "14197-14586",
+        "zymc": "数字经济",
+        "pjf": "599"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "13822-14196",
+        "zymc": "信息管理与信息系统",
+        "pjf": "600"
+      }
+    ],
+    "total": 2,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180096021
+}

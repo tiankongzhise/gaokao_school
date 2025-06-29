@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "7",
+        "pjmc": "60629-61444",
+        "zymc": "材料化学",
+        "pjf": "523"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "55964-56728",
+        "zymc": "高分子材料与工程",
+        "pjf": "529"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "64003-64860",
+        "zymc": "复合材料与工程",
+        "pjf": "519"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "55964-56728",
+        "zymc": "智能医学工程",
+        "pjf": "529"
+      }
+    ],
+    "total": 4,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180467111
+}

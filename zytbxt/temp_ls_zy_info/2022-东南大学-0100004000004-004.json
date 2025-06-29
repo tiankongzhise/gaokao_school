@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "2992-3155",
+        "zymc": "理科试验班",
+        "pjf": "623"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "1706-1813",
+        "zymc": "工科试验班(吴健雄班)",
+        "pjf": "633"
+      },
+      {
+        "zydm": null,
+        "lqrs": "15",
+        "pjmc": "3156-3294",
+        "zymc": "工科试验班(土木交通材料实验班)",
+        "pjf": "622"
+      },
+      {
+        "zydm": null,
+        "lqrs": "25",
+        "pjmc": "3156-3294",
+        "zymc": "工科试验班(碳中和与智能制造实验班)",
+        "pjf": "622"
+      },
+      {
+        "zydm": null,
+        "lqrs": "14",
+        "pjmc": "2686-2836",
+        "zymc": "电子信息类",
+        "pjf": "625"
+      },
+      {
+        "zydm": null,
+        "lqrs": "11",
+        "pjmc": "2537-2685",
+        "zymc": "计算机类",
+        "pjf": "626"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "2992-3155",
+        "zymc": "生物医学工程(学制七年本硕连读)",
+        "pjf": "623"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "2686-2836",
+        "zymc": "建筑类",
+        "pjf": "625"
+      }
+    ],
+    "total": 8,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751178885907
+}

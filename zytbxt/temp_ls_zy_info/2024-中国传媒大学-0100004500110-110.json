@@ -1,0 +1,67 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "6799-7038",
+        "zymc": "数字媒体技术(智能交互与游戏技术方向)",
+        "pjf": "623"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "9479-9800",
+        "zymc": "通信工程",
+        "pjf": "613"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "9174-9478",
+        "zymc": "人工智能",
+        "pjf": "614"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "9801-10069",
+        "zymc": "物联网工程",
+        "pjf": "612"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "8042-8300",
+        "zymc": "数字媒体技术",
+        "pjf": "618"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "10070-10382",
+        "zymc": "智能科学与技术",
+        "pjf": "611"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "8301-8576",
+        "zymc": "网络空间安全",
+        "pjf": "617"
+      }
+    ],
+    "total": 7,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751179122697
+}

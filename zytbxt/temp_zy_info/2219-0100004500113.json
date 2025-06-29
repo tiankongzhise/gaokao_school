@@ -1,0 +1,56 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "人工智能",
+        "sfks": false,
+        "jhrs": 8,
+        "yxdm": "10205",
+        "zydm": "080717",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0100004500113",
+        "zyxh": null,
+        "bxdd": "吉林省长春市",
+        "bz": "与科大讯飞股份有限公司合作办学专业。",
+        "zydh": "026",
+        "yxdh": "2219",
+        "wyyzdm": "不限",
+        "sfbz": "8500",
+        "kskmyq": "首选物理，再选限化学"
+      },
+      {
+        "skkmyq": "不限",
+        "zymc": "智能制造工程",
+        "sfks": false,
+        "jhrs": 4,
+        "yxdm": "10205",
+        "zydm": "080213",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0100004500113",
+        "zyxh": null,
+        "bxdd": "吉林省长春市",
+        "bz": "与长春三友汽车部件制造有限公司合作办学专业。",
+        "zydh": "027",
+        "yxdh": "2219",
+        "wyyzdm": "不限",
+        "sfbz": "13000",
+        "kskmyq": "首选物理，再选限化学"
+      }
+    ],
+    "total": 2,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751167533591
+}

@@ -1,0 +1,109 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "36447-37119",
+        "zymc": "财政学",
+        "pjf": "556"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "44999-45813",
+        "zymc": "税收学",
+        "pjf": "544"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "47368-48114",
+        "zymc": "工商管理",
+        "pjf": "541"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "29005-29583",
+        "zymc": "会计学",
+        "pjf": "568"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "42750-43486",
+        "zymc": "财务管理",
+        "pjf": "547"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "49747-50562",
+        "zymc": "人力资源管理",
+        "pjf": "538"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "38494-39143",
+        "zymc": "审计学",
+        "pjf": "553"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "47368-48114",
+        "zymc": "资产评估",
+        "pjf": "541"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "47368-48114",
+        "zymc": "商务英语",
+        "pjf": "541"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "46586-47367",
+        "zymc": "经济学",
+        "pjf": "542"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "44250-44998",
+        "zymc": "金融学",
+        "pjf": "545"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "48926-49746",
+        "zymc": "国际经济与贸易",
+        "pjf": "539"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "41286-42008",
+        "zymc": "法学",
+        "pjf": "549"
+      }
+    ],
+    "total": 13,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751178708135
+}

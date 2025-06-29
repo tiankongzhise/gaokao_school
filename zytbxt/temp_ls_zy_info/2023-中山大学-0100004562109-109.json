@@ -1,0 +1,67 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "576-611",
+        "zymc": "口腔医学(5+3一体化)",
+        "pjf": "667"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "264-295",
+        "zymc": "临床医学(八年制)",
+        "pjf": "675"
+      },
+      {
+        "zydm": null,
+        "lqrs": "19",
+        "pjmc": "1703-1809",
+        "zymc": "临床医学(广州)",
+        "pjf": "653"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "2300-2461",
+        "zymc": "预防医学(广州)",
+        "pjf": "648"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "2462-2584",
+        "zymc": "基础医学",
+        "pjf": "647"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "1810-1931",
+        "zymc": "口腔医学",
+        "pjf": "652"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "2462-2584",
+        "zymc": "药学(广州)",
+        "pjf": "647"
+      }
+    ],
+    "total": 7,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751179469124
+}

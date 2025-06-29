@@ -1,0 +1,67 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "14723-15143",
+        "zymc": "经济统计学",
+        "pjf": "581"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "16440-16905",
+        "zymc": "金融学",
+        "pjf": "577"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "16012-16439",
+        "zymc": "国际经济与贸易",
+        "pjf": "578"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "16440-16905",
+        "zymc": "法学(法务会计)",
+        "pjf": "577"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "12710-13118",
+        "zymc": "工程审计",
+        "pjf": "586"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "15144-15581",
+        "zymc": "会计学",
+        "pjf": "580"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "9541-9829",
+        "zymc": "审计学",
+        "pjf": "595"
+      }
+    ],
+    "total": 7,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180620639
+}

@@ -1,0 +1,88 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "29932-30454",
+        "zymc": "应用化学",
+        "pjf": "568"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "26086-26620",
+        "zymc": "化学生物学",
+        "pjf": "575"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "25517-26085",
+        "zymc": "材料科学与工程",
+        "pjf": "576"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "26621-27123",
+        "zymc": "无机非金属材料工程",
+        "pjf": "574"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "23488-23964",
+        "zymc": "高分子材料与工程",
+        "pjf": "580"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "23488-23964",
+        "zymc": "化学工程与工艺",
+        "pjf": "580"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "27124-27663",
+        "zymc": "纺织工程",
+        "pjf": "573"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "31030-31612",
+        "zymc": "服装设计与工程",
+        "pjf": "566"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "28784-29342",
+        "zymc": "非织造材料与工程",
+        "pjf": "570"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "26621-27123",
+        "zymc": "智能医学工程",
+        "pjf": "574"
+      }
+    ],
+    "total": 10,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751182125696
+}

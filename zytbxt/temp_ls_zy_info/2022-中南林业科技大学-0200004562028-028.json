@@ -1,0 +1,81 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "7",
+        "pjmc": "76392-77369",
+        "zymc": "园艺",
+        "pjf": "494"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "80366-81369",
+        "zymc": "水土保持与荒漠化防治",
+        "pjf": "490"
+      },
+      {
+        "zydm": null,
+        "lqrs": "23",
+        "pjmc": "82372-83400",
+        "zymc": "林学类",
+        "pjf": "488"
+      },
+      {
+        "zydm": null,
+        "lqrs": "30",
+        "pjmc": "85384-86359",
+        "zymc": "生物科学类",
+        "pjf": "485"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "70545-71490",
+        "zymc": "化学工程与工艺",
+        "pjf": "500"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "85384-86359",
+        "zymc": "林产化工",
+        "pjf": "485"
+      },
+      {
+        "zydm": null,
+        "lqrs": "24",
+        "pjmc": "88452-89448",
+        "zymc": "环境科学与工程类",
+        "pjf": "482"
+      },
+      {
+        "zydm": null,
+        "lqrs": "25",
+        "pjmc": "83401-84415",
+        "zymc": "食品科学与工程类",
+        "pjf": "487"
+      },
+      {
+        "zydm": null,
+        "lqrs": "7",
+        "pjmc": "78397-79375",
+        "zymc": "生物工程",
+        "pjf": "492"
+      }
+    ],
+    "total": 9,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751178980390
+}

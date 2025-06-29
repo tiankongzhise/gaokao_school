@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "广播电视编导",
+        "sfks": false,
+        "jhrs": 15,
+        "yxdm": "12656",
+        "zydm": "130305",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0100004000Y08",
+        "zyxh": null,
+        "bxdd": "湖南省长沙市",
+        "bz": null,
+        "zydh": "046",
+        "yxdh": "4729",
+        "wyyzdm": "不限",
+        "sfbz": "18000",
+        "kskmyq": "首选物理，再选不限"
+      }
+    ],
+    "total": 1,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751163923817
+}

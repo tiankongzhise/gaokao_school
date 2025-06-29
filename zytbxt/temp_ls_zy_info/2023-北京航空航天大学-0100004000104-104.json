@@ -1,0 +1,88 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "61",
+        "pjmc": "741-803",
+        "zymc": "工科试验班类(信息类)",
+        "pjf": "664"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "476-531",
+        "zymc": "理科试验班类(华罗庚数学拔尖计划)",
+        "pjf": "669"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "612-674",
+        "zymc": "理科试验班类(物理学拔尖计划)",
+        "pjf": "666"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "476-531",
+        "zymc": "工科试验班类(空天力学拔尖计划)",
+        "pjf": "669"
+      },
+      {
+        "zydm": null,
+        "lqrs": "45",
+        "pjmc": "940-1025",
+        "zymc": "工科试验班类(航空H航天类)",
+        "pjf": "661"
+      },
+      {
+        "zydm": null,
+        "lqrs": "9",
+        "pjmc": "940-1025",
+        "zymc": "理科试验班类",
+        "pjf": "661"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "940-1025",
+        "zymc": "工科试验班类(医工交叉试验班)",
+        "pjf": "661"
+      },
+      {
+        "zydm": null,
+        "lqrs": "8",
+        "pjmc": "864-939",
+        "zymc": "理科试验班类(国际卓越工程师试验班)",
+        "pjf": "662"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "371-399",
+        "zymc": "工科试验班类(未来空天领军计划)",
+        "pjf": "672"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "323-370",
+        "zymc": "工科试验班类(计算机拔尖计划)",
+        "pjf": "673"
+      }
+    ],
+    "total": 10,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180177390
+}

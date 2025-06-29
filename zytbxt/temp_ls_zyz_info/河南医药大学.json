@@ -1,0 +1,71 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "sf985": "0",
+        "ssmc": "河南省",
+        "yxNfZyzVoList": [
+          {
+            "zyzbh": "001",
+            "zyzmc": "第1组",
+            "zyzdm": "0100004562001",
+            "lqrs": "21",
+            "nf": "2022",
+            "zgf": "551",
+            "zdmc": "44543",
+            "zymcStr": "麻醉学、精神医学、临床医学",
+            "zdf": "531",
+            "pjf": "539"
+          },
+          {
+            "zyzbh": "101",
+            "zyzmc": "第101组",
+            "zyzdm": "0100004562101",
+            "lqrs": "21",
+            "nf": "2023",
+            "zgf": "573",
+            "zdmc": "41988",
+            "zymcStr": "麻醉学、精神医学、临床医学",
+            "zdf": "549",
+            "pjf": "558"
+          },
+          {
+            "zyzbh": "101",
+            "zyzmc": "第101组",
+            "zyzdm": "0100004500101",
+            "lqrs": "21",
+            "nf": "2024",
+            "zgf": "561",
+            "zdmc": "49548",
+            "zymcStr": "麻醉学、精神医学、临床医学",
+            "zdf": "539",
+            "pjf": "549"
+          }
+        ],
+        "djsdm": "410700000000",
+        "yxnfList": null,
+        "yxmc": "河南医药大学",
+        "yxdm": "10472",
+        "djsmc": "新乡市",
+        "sfsyl": "",
+        "yxjbzdm": "1",
+        "yxdh": "4117",
+        "sf211": "0",
+        "jhsxdm": "3",
+        "ssdm": "410000000000"
+      }
+    ],
+    "total": 1,
+    "size": 10,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751176553272
+}

@@ -1,0 +1,32 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "24125-24652",
+        "zymc": "数字媒体技术(中外合作办学)",
+        "pjf": "577"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "23585-24124",
+        "zymc": "智能科学与技术(中外合作办学)",
+        "pjf": "578"
+      }
+    ],
+    "total": 2,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751179124820
+}

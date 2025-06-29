@@ -1,0 +1,88 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "19",
+        "pjmc": "53982-54842",
+        "zymc": "生物技术",
+        "pjf": "533"
+      },
+      {
+        "zydm": null,
+        "lqrs": "20",
+        "pjmc": "40583-41285",
+        "zymc": "护理学(创新班)",
+        "pjf": "550"
+      },
+      {
+        "zydm": null,
+        "lqrs": "20",
+        "pjmc": "25682-26214",
+        "zymc": "药学(拔尖创新班)",
+        "pjf": "574"
+      },
+      {
+        "zydm": null,
+        "lqrs": "67",
+        "pjmc": "51365-52227",
+        "zymc": "预防医学",
+        "pjf": "536"
+      },
+      {
+        "zydm": null,
+        "lqrs": "111",
+        "pjmc": "53982-54842",
+        "zymc": "药学",
+        "pjf": "533"
+      },
+      {
+        "zydm": null,
+        "lqrs": "21",
+        "pjmc": "57492-58417",
+        "zymc": "药物制剂",
+        "pjf": "529"
+      },
+      {
+        "zydm": null,
+        "lqrs": "48",
+        "pjmc": "39876-40582",
+        "zymc": "医学检验技术",
+        "pjf": "551"
+      },
+      {
+        "zydm": null,
+        "lqrs": "13",
+        "pjmc": "57492-58417",
+        "zymc": "康复治疗学",
+        "pjf": "529"
+      },
+      {
+        "zydm": null,
+        "lqrs": "36",
+        "pjmc": "63034-63989",
+        "zymc": "卫生检验与检疫",
+        "pjf": "523"
+      },
+      {
+        "zydm": null,
+        "lqrs": "84",
+        "pjmc": "60201-61097",
+        "zymc": "护理学",
+        "pjf": "526"
+      }
+    ],
+    "total": 10,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180789721
+}

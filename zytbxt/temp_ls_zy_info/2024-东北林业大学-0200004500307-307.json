@@ -1,0 +1,88 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "35799-36446",
+        "zymc": "农林智能装备工程",
+        "pjf": "557"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "42750-43486",
+        "zymc": "智能建造与智慧交通",
+        "pjf": "547"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "46586-47367",
+        "zymc": "野生动物与自然保护区管理",
+        "pjf": "542"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "24653-25138",
+        "zymc": "工业设计",
+        "pjf": "576"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "31313-31944",
+        "zymc": "化学工程与工艺",
+        "pjf": "564"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "44999-45813",
+        "zymc": "食品科学与工程",
+        "pjf": "544"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "34534-35155",
+        "zymc": "工程管理",
+        "pjf": "559"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "39144-39875",
+        "zymc": "建筑环境与能源应用工程",
+        "pjf": "552"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "46586-47367",
+        "zymc": "土木工程",
+        "pjf": "542"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "37120-37811",
+        "zymc": "车辆工程",
+        "pjf": "555"
+      }
+    ],
+    "total": 10,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751178828095
+}

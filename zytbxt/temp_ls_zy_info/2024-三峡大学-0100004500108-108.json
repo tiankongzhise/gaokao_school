@@ -1,0 +1,81 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "39876-40582",
+        "zymc": "港口航道与海岸工程",
+        "pjf": "551"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "42009-42749",
+        "zymc": "智慧水利",
+        "pjf": "548"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "46586-47367",
+        "zymc": "环境工程",
+        "pjf": "542"
+      },
+      {
+        "zydm": null,
+        "lqrs": "9",
+        "pjmc": "44250-44998",
+        "zymc": "土木工程(智慧土木方向)",
+        "pjf": "545"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "18280-18705",
+        "zymc": "电气工程及其自动化(输电线路工程方向)",
+        "pjf": "589"
+      },
+      {
+        "zydm": null,
+        "lqrs": "8",
+        "pjmc": "15796-16203",
+        "zymc": "电气工程及其自动化",
+        "pjf": "595"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "24125-24652",
+        "zymc": "智能电网信息工程",
+        "pjf": "577"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "31945-32620",
+        "zymc": "水利水电工程",
+        "pjf": "563"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "46586-47367",
+        "zymc": "水文与水资源工程",
+        "pjf": "542"
+      }
+    ],
+    "total": 9,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751178488217
+}

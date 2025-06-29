@@ -1,0 +1,32 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "9",
+        "pjmc": "114645-115700",
+        "zymc": "化学工程与工艺",
+        "pjf": "465"
+      },
+      {
+        "zydm": null,
+        "lqrs": "9",
+        "pjmc": "121931-122961",
+        "zymc": "环境科学",
+        "pjf": "458"
+      }
+    ],
+    "total": 2,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180514779
+}

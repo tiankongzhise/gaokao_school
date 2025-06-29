@@ -1,0 +1,32 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "14",
+        "pjmc": "97478-98445",
+        "zymc": "通信工程",
+        "pjf": "482"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "113611-114644",
+        "zymc": "土木工程",
+        "pjf": "466"
+      }
+    ],
+    "total": 2,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180516838
+}

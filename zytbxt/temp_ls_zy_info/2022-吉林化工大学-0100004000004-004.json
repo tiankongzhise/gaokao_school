@@ -1,0 +1,60 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "125404-126492",
+        "zymc": "物流工程",
+        "pjf": "448"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "113111-114187",
+        "zymc": "金融工程",
+        "pjf": "459"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "118774-119874",
+        "zymc": "国际经济与贸易",
+        "pjf": "454"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "122111-123226",
+        "zymc": "市场营销",
+        "pjf": "451"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "109769-110902",
+        "zymc": "日语",
+        "pjf": "462"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "124300-125403",
+        "zymc": "英语",
+        "pjf": "449"
+      }
+    ],
+    "total": 6,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751181170209
+}

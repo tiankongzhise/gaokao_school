@@ -1,0 +1,53 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "7691-8009",
+        "zymc": "经济学类",
+        "pjf": "601"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "6345-6608",
+        "zymc": "法学",
+        "pjf": "606"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "8010-8298",
+        "zymc": "英语",
+        "pjf": "600"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "8926-9240",
+        "zymc": "西班牙语",
+        "pjf": "597"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "8603-8925",
+        "zymc": "新闻传播学类",
+        "pjf": "598"
+      }
+    ],
+    "total": 5,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751181200796
+}

@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "138011-139102",
+        "zymc": "机械工程",
+        "pjf": "443"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "154169-155225",
+        "zymc": "应用统计学",
+        "pjf": "428"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "140183-141233",
+        "zymc": "智能制造工程",
+        "pjf": "441"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "145524-146611",
+        "zymc": "通信工程",
+        "pjf": "436"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "149864-150958",
+        "zymc": "信息管理与信息系统",
+        "pjf": "432"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "147692-148808",
+        "zymc": "土木工程",
+        "pjf": "434"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "156297-157449",
+        "zymc": "工程管理",
+        "pjf": "426"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "150959-152039",
+        "zymc": "建筑学",
+        "pjf": "431"
+      }
+    ],
+    "total": 8,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751181036373
+}

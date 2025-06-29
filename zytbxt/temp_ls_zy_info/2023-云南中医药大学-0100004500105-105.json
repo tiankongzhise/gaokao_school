@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "69918-70811",
+        "zymc": "制药工程",
+        "pjf": "512"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "76044-76890",
+        "zymc": "食品质量与安全",
+        "pjf": "505"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "78661-79588",
+        "zymc": "康复治疗学",
+        "pjf": "502"
+      }
+    ],
+    "total": 3,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751179526916
+}

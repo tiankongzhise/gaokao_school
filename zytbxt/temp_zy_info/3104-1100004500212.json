@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "机械类(中外合作办学)",
+        "sfks": false,
+        "jhrs": 6,
+        "yxdm": "10247",
+        "zydm": "0802H",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "1100004500212",
+        "zyxh": null,
+        "bxdd": "上海市市辖区",
+        "bz": "中国教育部与德国联邦科研、技术和宇航部(BMFTR)(原德国联邦教研部BMBF)共同倡议和直接经费支持在同济大学设立的中外合作办学项目。采用3(同济)+1(德国/瑞士)进阶式国际化人才培养模式，成绩合格者获得同济大学毕业证、工学学士学位证以及外方合作院校学士学位证书。 包含专业:机械电子工程(中外合作办学)、建筑电气与智能化(中外合作办学)、车辆工程(中外合作办学)。",
+        "zydh": "031",
+        "yxdh": "3104",
+        "wyyzdm": "不限",
+        "sfbz": "21000",
+        "kskmyq": "首选物理，再选限化学"
+      }
+    ],
+    "total": 1,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751164762879
+}

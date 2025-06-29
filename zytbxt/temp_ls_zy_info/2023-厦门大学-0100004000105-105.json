@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "3239-3415",
+        "zymc": "工科试验班",
+        "pjf": "642"
+      },
+      {
+        "zydm": null,
+        "lqrs": "9",
+        "pjmc": "2731-2917",
+        "zymc": "计算机类",
+        "pjf": "645"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "3071-3238",
+        "zymc": "电子信息类",
+        "pjf": "643"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "3071-3238",
+        "zymc": "数学类",
+        "pjf": "643"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "3239-3415",
+        "zymc": "物理学类",
+        "pjf": "642"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "3596-3743",
+        "zymc": "土木类",
+        "pjf": "640"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "3416-3595",
+        "zymc": "建筑类",
+        "pjf": "641"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "3416-3595",
+        "zymc": "管理科学与工程类",
+        "pjf": "641"
+      }
+    ],
+    "total": 8,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751181012198
+}

@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "光电信息科学与工程(中外合作办学)",
+        "sfks": false,
+        "jhrs": 8,
+        "yxdm": "10186",
+        "zydm": "080705H",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "1100004500207",
+        "zyxh": null,
+        "bxdd": "吉林省长春市",
+        "bz": "与美国特拉华州立大学合作办学，授理学学位。专业采用全英文授课，非英语语种考生不宜报考。学费暂定28000元，实际按批复文件收取。",
+        "zydh": "025",
+        "yxdh": "2215",
+        "wyyzdm": "不限",
+        "sfbz": "见备注",
+        "kskmyq": "首选物理，再选限化学"
+      }
+    ],
+    "total": 1,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751167541842
+}

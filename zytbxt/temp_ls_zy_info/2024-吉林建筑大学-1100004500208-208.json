@@ -1,0 +1,32 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "149241-150579",
+        "zymc": "电气工程及其自动化(中外合作办学)",
+        "pjf": "452"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "157290-158624",
+        "zymc": "土木工程(中外合作办学)",
+        "pjf": "446"
+      }
+    ],
+    "total": 2,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751181294158
+}

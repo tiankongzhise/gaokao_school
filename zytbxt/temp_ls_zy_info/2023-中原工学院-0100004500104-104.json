@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "104440-105453",
+        "zymc": "给排水科学与工程",
+        "pjf": "475"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "122962-124042",
+        "zymc": "纺织工程",
+        "pjf": "457"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "112613-113610",
+        "zymc": "环境工程",
+        "pjf": "467"
+      }
+    ],
+    "total": 3,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751179078479
+}

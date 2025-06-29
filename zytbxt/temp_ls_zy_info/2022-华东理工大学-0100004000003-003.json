@@ -1,0 +1,109 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "7412-7690",
+        "zymc": "数学类",
+        "pjf": "602"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "8299-8602",
+        "zymc": "管理科学与工程类",
+        "pjf": "599"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "7691-8009",
+        "zymc": "工科试验班(智能与机器人)",
+        "pjf": "601"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "8603-8925",
+        "zymc": "物理学类",
+        "pjf": "598"
+      },
+      {
+        "zydm": null,
+        "lqrs": "8",
+        "pjmc": "8299-8602",
+        "zymc": "机械类(机械智能化实验班)",
+        "pjf": "599"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "7691-8009",
+        "zymc": "电子信息类",
+        "pjf": "601"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "8010-8298",
+        "zymc": "化工与制药类(国际卓越工程师班)",
+        "pjf": "600"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "8299-8602",
+        "zymc": "能源与动力工程(双学士学位项目)",
+        "pjf": "599"
+      },
+      {
+        "zydm": null,
+        "lqrs": "7",
+        "pjmc": "8926-9240",
+        "zymc": "工科试验班(智慧化工)",
+        "pjf": "597"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "8603-8925",
+        "zymc": "工科试验班(能源与环境)",
+        "pjf": "598"
+      },
+      {
+        "zydm": null,
+        "lqrs": "9",
+        "pjmc": "8926-9240",
+        "zymc": "材料类",
+        "pjf": "597"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "8926-9240",
+        "zymc": "资源循环科学与工程",
+        "pjf": "597"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "6609-6876",
+        "zymc": "计算机类",
+        "pjf": "605"
+      }
+    ],
+    "total": 13,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180359141
+}

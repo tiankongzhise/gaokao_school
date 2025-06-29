@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "124043-125109",
+        "zymc": "软件工程",
+        "pjf": "456"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "155226-156296",
+        "zymc": "环境工程",
+        "pjf": "427"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "130502-131544",
+        "zymc": "人力资源管理",
+        "pjf": "450"
+      }
+    ],
+    "total": 3,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751181264777
+}

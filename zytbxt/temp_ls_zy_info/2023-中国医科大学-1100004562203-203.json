@@ -1,0 +1,32 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "45638-46314",
+        "zymc": "生物技术(中外合作办学)",
+        "pjf": "543"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "62274-63138",
+        "zymc": "药物制剂(中外合作办学)",
+        "pjf": "521"
+      }
+    ],
+    "total": 2,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751179166888
+}

@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "电子信息科学与技术",
+        "sfks": false,
+        "jhrs": 5,
+        "yxdm": "14829",
+        "zydm": "080714",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0100004500104",
+        "zyxh": null,
+        "bxdd": "海南省儋州市",
+        "bz": "全英文授课，非英语语种考生慎重报考",
+        "zydh": "004",
+        "yxdh": "4636",
+        "wyyzdm": "不限",
+        "sfbz": "100000",
+        "kskmyq": "首选物理，再选限化学"
+      }
+    ],
+    "total": 1,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751166254198
+}

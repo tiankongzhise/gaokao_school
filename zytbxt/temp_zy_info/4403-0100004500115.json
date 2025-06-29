@@ -1,0 +1,56 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "临床医学(深圳班)",
+        "sfks": false,
+        "jhrs": 2,
+        "yxdm": "10559",
+        "zydm": "100201",
+        "bxddbb": true,
+        "xzdm": "五年",
+        "zyzdm": "0100004500115",
+        "zyxh": null,
+        "bxdd": "广东省广州市",
+        "bz": "不招收色盲色弱考生",
+        "zydh": "037",
+        "yxdh": "4403",
+        "wyyzdm": "不限",
+        "sfbz": "7660",
+        "kskmyq": "首选物理，再选限化学"
+      },
+      {
+        "skkmyq": "不限",
+        "zymc": "口腔医学",
+        "sfks": false,
+        "jhrs": 2,
+        "yxdm": "10559",
+        "zydm": "100301",
+        "bxddbb": true,
+        "xzdm": "五年",
+        "zyzdm": "0100004500115",
+        "zyxh": null,
+        "bxdd": "广东省广州市",
+        "bz": "不招收色盲色弱考生",
+        "zydh": "038",
+        "yxdh": "4403",
+        "wyyzdm": "不限",
+        "sfbz": "7660",
+        "kskmyq": "首选物理，再选限化学"
+      }
+    ],
+    "total": 2,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751165670832
+}

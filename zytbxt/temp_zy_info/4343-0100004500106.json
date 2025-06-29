@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "信息安全",
+        "sfks": false,
+        "jhrs": 50,
+        "yxdm": "11534",
+        "zydm": "080904",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0100004500106",
+        "zyxh": null,
+        "bxdd": "湖南省长沙市",
+        "bz": "不限考生应试外语语种，但学校仅以英语作为基础外语安排教学。",
+        "zydh": "005",
+        "yxdh": "4343",
+        "wyyzdm": "不限",
+        "sfbz": "4800",
+        "kskmyq": "首选物理，再选限化学"
+      }
+    ],
+    "total": 1,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751166672959
+}

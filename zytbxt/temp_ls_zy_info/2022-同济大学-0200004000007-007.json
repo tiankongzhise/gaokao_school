@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "10",
+        "pjmc": "3156-3294",
+        "zymc": "工科试验班(智能化制造与先进材料类)",
+        "pjf": "622"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "3475-3647",
+        "zymc": "工科试验班(土木与环境类)",
+        "pjf": "620"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "2837-2991",
+        "zymc": "理科试验班",
+        "pjf": "624"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "3809-3976",
+        "zymc": "地球物理学",
+        "pjf": "618"
+      }
+    ],
+    "total": 4,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751181353107
+}

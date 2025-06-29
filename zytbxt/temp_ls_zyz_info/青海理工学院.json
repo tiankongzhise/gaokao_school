@@ -1,0 +1,59 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "sf985": "0",
+        "ssmc": "青海省",
+        "yxNfZyzVoList": [
+          {
+            "zyzbh": "101",
+            "zyzmc": "第101组",
+            "zyzdm": "0100004000101",
+            "lqrs": "10",
+            "nf": "2024",
+            "zgf": "472",
+            "zdmc": "130911",
+            "zymcStr": "经济学、数字经济、金融科技",
+            "zdf": "466",
+            "pjf": "468"
+          },
+          {
+            "zyzbh": "102",
+            "zyzmc": "第102组",
+            "zyzdm": "0100004500102",
+            "lqrs": "40",
+            "nf": "2024",
+            "zgf": "499",
+            "zdmc": "147822",
+            "zymcStr": "大气科学、环境科学、材料科学与工程、新能源科学与工程、信息工程、自动化、计算机科学与技术、土木、水利与交通工程、遥感科学与技术、环境生态工程",
+            "zdf": "454",
+            "pjf": "460"
+          }
+        ],
+        "djsdm": "630100000000",
+        "yxnfList": null,
+        "yxmc": "青海理工学院",
+        "yxdm": "14881",
+        "djsmc": "西宁市",
+        "sfsyl": "",
+        "yxjbzdm": "1",
+        "yxdh": "6305",
+        "sf211": "0",
+        "jhsxdm": "3",
+        "ssdm": "630000000000"
+      }
+    ],
+    "total": 1,
+    "size": 10,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751175775760
+}

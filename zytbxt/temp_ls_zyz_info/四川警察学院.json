@@ -1,0 +1,71 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "sf985": "0",
+        "ssmc": "四川省",
+        "yxNfZyzVoList": [
+          {
+            "zyzbh": "002",
+            "zyzmc": "第2组",
+            "zyzdm": "0100004700002",
+            "lqrs": "3",
+            "nf": "2022",
+            "zgf": "486",
+            "zdmc": "107000",
+            "zymcStr": "法学",
+            "zdf": "465",
+            "pjf": "472"
+          },
+          {
+            "zyzbh": "102",
+            "zyzmc": "第102组",
+            "zyzdm": "0100004000102",
+            "lqrs": "3",
+            "nf": "2023",
+            "zgf": "499",
+            "zdmc": "97263",
+            "zymcStr": "法学",
+            "zdf": "483",
+            "pjf": "490"
+          },
+          {
+            "zyzbh": "102",
+            "zyzmc": "第102组",
+            "zyzdm": "0100004000102",
+            "lqrs": "3",
+            "nf": "2024",
+            "zgf": "495",
+            "zdmc": "101050",
+            "zymcStr": "法学",
+            "zdf": "489",
+            "pjf": "491"
+          }
+        ],
+        "djsdm": "510500000000",
+        "yxnfList": null,
+        "yxmc": "四川警察学院",
+        "yxdm": "11937",
+        "djsmc": "泸州市",
+        "sfsyl": "",
+        "yxjbzdm": "1",
+        "yxdh": "5131",
+        "sf211": "0",
+        "jhsxdm": "3",
+        "ssdm": "510000000000"
+      }
+    ],
+    "total": 1,
+    "size": 10,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751175617909
+}

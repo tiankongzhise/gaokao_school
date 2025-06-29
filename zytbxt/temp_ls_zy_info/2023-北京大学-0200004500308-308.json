@@ -1,0 +1,32 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "210-240",
+        "zymc": "环境科学(环境、生态、地理与资源环境)",
+        "pjf": "677"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "323-370",
+        "zymc": "环境科学与工程类",
+        "pjf": "673"
+      }
+    ],
+    "total": 2,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180022961
+}

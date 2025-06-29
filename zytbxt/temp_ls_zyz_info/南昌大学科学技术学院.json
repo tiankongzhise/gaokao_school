@@ -1,0 +1,71 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "sf985": "0",
+        "ssmc": "江西省",
+        "yxNfZyzVoList": [
+          {
+            "zyzbh": "002",
+            "zyzmc": "第2组",
+            "zyzdm": "0100004000002",
+            "lqrs": "2",
+            "nf": "2022",
+            "zgf": "447",
+            "zdmc": "128156",
+            "zymcStr": "金融学",
+            "zdf": "446",
+            "pjf": "446"
+          },
+          {
+            "zyzbh": "102",
+            "zyzmc": "第102组",
+            "zyzdm": "0100004000102",
+            "lqrs": "2",
+            "nf": "2023",
+            "zgf": "435",
+            "zdmc": "153658",
+            "zymcStr": "金融学",
+            "zdf": "429",
+            "pjf": "432"
+          },
+          {
+            "zyzbh": "102",
+            "zyzmc": "第102组",
+            "zyzdm": "0100004000102",
+            "lqrs": "3",
+            "nf": "2024",
+            "zgf": "466",
+            "zdmc": "137518",
+            "zymcStr": "金融学",
+            "zdf": "461",
+            "pjf": "463"
+          }
+        ],
+        "djsdm": "360400000000",
+        "yxnfList": null,
+        "yxmc": "南昌大学科学技术学院",
+        "yxdm": "13429",
+        "djsmc": "九江市",
+        "sfsyl": "",
+        "yxjbzdm": "5",
+        "yxdh": "3632",
+        "sf211": "0",
+        "jhsxdm": "3",
+        "ssdm": "360000000000"
+      }
+    ],
+    "total": 1,
+    "size": 10,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751176475467
+}

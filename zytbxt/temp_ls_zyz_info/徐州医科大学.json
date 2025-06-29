@@ -1,0 +1,71 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "sf985": "0",
+        "ssmc": "江苏省",
+        "yxNfZyzVoList": [
+          {
+            "zyzbh": "001",
+            "zyzmc": "第1组",
+            "zyzdm": "0100004562001",
+            "lqrs": "20",
+            "nf": "2022",
+            "zgf": "589",
+            "zdmc": "22878",
+            "zymcStr": "临床医学、麻醉学、医学影像学、预防医学、药学类",
+            "zdf": "564",
+            "pjf": "570"
+          },
+          {
+            "zyzbh": "101",
+            "zyzmc": "第101组",
+            "zyzdm": "0100004562101",
+            "lqrs": "20",
+            "nf": "2023",
+            "zgf": "596",
+            "zdmc": "25321",
+            "zymcStr": "临床医学、麻醉学、医学影像学、预防医学、药学类",
+            "zdf": "577",
+            "pjf": "583"
+          },
+          {
+            "zyzbh": "101",
+            "zyzmc": "第101组",
+            "zyzdm": "0100004500101",
+            "lqrs": "20",
+            "nf": "2024",
+            "zgf": "590",
+            "zdmc": "33103",
+            "zymcStr": "预防医学、药学、临床医学、麻醉学、医学影像学",
+            "zdf": "562",
+            "pjf": "573"
+          }
+        ],
+        "djsdm": "320300000000",
+        "yxnfList": null,
+        "yxmc": "徐州医科大学",
+        "yxdm": "10313",
+        "djsmc": "徐州市",
+        "sfsyl": "",
+        "yxjbzdm": "1",
+        "yxdh": "3237",
+        "sf211": "0",
+        "jhsxdm": "3",
+        "ssdm": "320000000000"
+      }
+    ],
+    "total": 1,
+    "size": 10,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751176065823
+}

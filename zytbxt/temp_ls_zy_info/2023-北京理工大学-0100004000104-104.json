@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "33",
+        "pjmc": "1295-1387",
+        "zymc": "工科试验班(信息科学技术)",
+        "pjf": "657"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "1388-1485",
+        "zymc": "经济管理试验班(含数字化管理方向)",
+        "pjf": "656"
+      },
+      {
+        "zydm": null,
+        "lqrs": "9",
+        "pjmc": "1703-1809",
+        "zymc": "工科试验班(宇航与机电类)",
+        "pjf": "653"
+      },
+      {
+        "zydm": null,
+        "lqrs": "12",
+        "pjmc": "940-1025",
+        "zymc": "工科试验班(徐特立英才班)",
+        "pjf": "661"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "1587-1702",
+        "zymc": "工科试验班(智能制造与智能车辆菁英班)",
+        "pjf": "654"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "675-740",
+        "zymc": "工科试验班(未来精工技术)",
+        "pjf": "665"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "1810-1931",
+        "zymc": "理科试验班(理学与材料菁英班)",
+        "pjf": "652"
+      },
+      {
+        "zydm": null,
+        "lqrs": "41",
+        "pjmc": "1703-1809",
+        "zymc": "工科试验班(电子信息实验班)",
+        "pjf": "653"
+      }
+    ],
+    "total": 8,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180120955
+}

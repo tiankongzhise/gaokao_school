@@ -1,0 +1,95 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "173226-174570",
+        "zymc": "计算机科学与技术",
+        "pjf": "434"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "183617-184956",
+        "zymc": "软件工程",
+        "pjf": "426"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "181104-182332",
+        "zymc": "医学检验技术",
+        "pjf": "428"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "181104-182332",
+        "zymc": "康复治疗学",
+        "pjf": "428"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "177191-178495",
+        "zymc": "数据计算及应用",
+        "pjf": "431"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "186224-187459",
+        "zymc": "新能源汽车工程",
+        "pjf": "424"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "187460-188716",
+        "zymc": "新能源科学与工程",
+        "pjf": "423"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "184957-186223",
+        "zymc": "通信工程",
+        "pjf": "425"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "182333-183616",
+        "zymc": "智能科学与技术",
+        "pjf": "427"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "174571-175864",
+        "zymc": "数据科学与大数据技术",
+        "pjf": "433"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "175865-177190",
+        "zymc": "区块链工程",
+        "pjf": "432"
+      }
+    ],
+    "total": 11,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751178471539
+}

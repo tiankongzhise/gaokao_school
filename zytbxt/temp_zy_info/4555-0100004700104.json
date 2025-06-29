@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "金融科技",
+        "sfks": false,
+        "jhrs": 5,
+        "yxdm": "13639",
+        "zydm": "020310",
+        "bxddbb": false,
+        "xzdm": "四年",
+        "zyzdm": "0100004700104",
+        "zyxh": null,
+        "bxdd": "北校区",
+        "bz": null,
+        "zydh": "023",
+        "yxdh": "4555",
+        "wyyzdm": "不限",
+        "sfbz": "22500",
+        "kskmyq": "首选物理，再选限思想政治"
+      }
+    ],
+    "total": 1,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751165702811
+}

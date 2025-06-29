@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "26215-26731",
+        "zymc": "计算机科学与技术",
+        "pjf": "573"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "23062-23584",
+        "zymc": "生物科学",
+        "pjf": "579"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "27281-27855",
+        "zymc": "化学",
+        "pjf": "571"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "30157-30738",
+        "zymc": "生物科学",
+        "pjf": "566"
+      }
+    ],
+    "total": 4,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751179819249
+}

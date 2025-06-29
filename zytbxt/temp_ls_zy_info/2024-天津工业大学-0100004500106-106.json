@@ -1,0 +1,81 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "25682-26214",
+        "zymc": "应用化学",
+        "pjf": "574"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "31945-32620",
+        "zymc": "化学生物学",
+        "pjf": "563"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "29005-29583",
+        "zymc": "材料科学与工程",
+        "pjf": "568"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "31945-32620",
+        "zymc": "无机非金属材料工程",
+        "pjf": "563"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "29005-29583",
+        "zymc": "高分子材料与工程",
+        "pjf": "568"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "29584-30156",
+        "zymc": "化学工程与工艺",
+        "pjf": "567"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "26732-27280",
+        "zymc": "纺织工程",
+        "pjf": "572"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "30739-31312",
+        "zymc": "非织造材料与工程",
+        "pjf": "565"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "31945-32620",
+        "zymc": "环境工程",
+        "pjf": "563"
+      }
+    ],
+    "total": 9,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751182128835
+}

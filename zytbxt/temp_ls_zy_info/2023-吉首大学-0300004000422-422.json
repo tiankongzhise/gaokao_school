@@ -1,0 +1,179 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "9",
+        "pjmc": "61445-62273",
+        "zymc": "数学与应用数学(师范)",
+        "pjf": "522"
+      },
+      {
+        "zydm": null,
+        "lqrs": "8",
+        "pjmc": "67418-68256",
+        "zymc": "物理学(师范)",
+        "pjf": "515"
+      },
+      {
+        "zydm": null,
+        "lqrs": "7",
+        "pjmc": "74312-75161",
+        "zymc": "商务英语",
+        "pjf": "507"
+      },
+      {
+        "zydm": null,
+        "lqrs": "7",
+        "pjmc": "74312-75161",
+        "zymc": "电子商务",
+        "pjf": "507"
+      },
+      {
+        "zydm": null,
+        "lqrs": "7",
+        "pjmc": "76044-76890",
+        "zymc": "金融工程",
+        "pjf": "505"
+      },
+      {
+        "zydm": null,
+        "lqrs": "7",
+        "pjmc": "66536-67417",
+        "zymc": "法学",
+        "pjf": "516"
+      },
+      {
+        "zydm": null,
+        "lqrs": "8",
+        "pjmc": "73399-74311",
+        "zymc": "工商管理",
+        "pjf": "508"
+      },
+      {
+        "zydm": null,
+        "lqrs": "7",
+        "pjmc": "66536-67417",
+        "zymc": "会计学",
+        "pjf": "516"
+      },
+      {
+        "zydm": null,
+        "lqrs": "8",
+        "pjmc": "74312-75161",
+        "zymc": "土木工程",
+        "pjf": "507"
+      },
+      {
+        "zydm": null,
+        "lqrs": "7",
+        "pjmc": "77778-78660",
+        "zymc": "城乡规划",
+        "pjf": "503"
+      },
+      {
+        "zydm": null,
+        "lqrs": "7",
+        "pjmc": "78661-79588",
+        "zymc": "风景园林",
+        "pjf": "502"
+      },
+      {
+        "zydm": null,
+        "lqrs": "7",
+        "pjmc": "64003-64860",
+        "zymc": "机械设计制造及其自动化",
+        "pjf": "519"
+      },
+      {
+        "zydm": null,
+        "lqrs": "7",
+        "pjmc": "70812-71675",
+        "zymc": "机械电子工程",
+        "pjf": "511"
+      },
+      {
+        "zydm": null,
+        "lqrs": "8",
+        "pjmc": "74312-75161",
+        "zymc": "材料科学与工程",
+        "pjf": "507"
+      },
+      {
+        "zydm": null,
+        "lqrs": "7",
+        "pjmc": "59071-59849",
+        "zymc": "电气工程及其自动化",
+        "pjf": "525"
+      },
+      {
+        "zydm": null,
+        "lqrs": "8",
+        "pjmc": "64003-64860",
+        "zymc": "电子信息工程",
+        "pjf": "519"
+      },
+      {
+        "zydm": null,
+        "lqrs": "7",
+        "pjmc": "67418-68256",
+        "zymc": "通信工程",
+        "pjf": "515"
+      },
+      {
+        "zydm": null,
+        "lqrs": "8",
+        "pjmc": "59071-59849",
+        "zymc": "计算机科学与技术",
+        "pjf": "525"
+      },
+      {
+        "zydm": null,
+        "lqrs": "8",
+        "pjmc": "69918-70811",
+        "zymc": "数据科学与大数据技术",
+        "pjf": "512"
+      },
+      {
+        "zydm": null,
+        "lqrs": "8",
+        "pjmc": "74312-75161",
+        "zymc": "制药工程",
+        "pjf": "507"
+      },
+      {
+        "zydm": null,
+        "lqrs": "8",
+        "pjmc": "75162-76043",
+        "zymc": "针灸推拿学",
+        "pjf": "506"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "75162-76043",
+        "zymc": "护理学",
+        "pjf": "506"
+      },
+      {
+        "zydm": null,
+        "lqrs": "8",
+        "pjmc": "68257-69068",
+        "zymc": "软件工程",
+        "pjf": "514"
+      }
+    ],
+    "total": 23,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751181332118
+}

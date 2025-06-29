@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "5625-5846",
+        "zymc": "工科试验班(智慧人居)",
+        "pjf": "609"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "3977-4182",
+        "zymc": "工科试验班(智能土木与智能交通)",
+        "pjf": "617"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "3977-4182",
+        "zymc": "工科试验班(智能装备)",
+        "pjf": "617"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "4374-4583",
+        "zymc": "工科试验班(资源环境与新材料化工)",
+        "pjf": "615"
+      }
+    ],
+    "total": 4,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751181472993
+}

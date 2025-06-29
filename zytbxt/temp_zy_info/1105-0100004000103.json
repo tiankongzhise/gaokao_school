@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "大数据管理与应用(大数据与金融试验班)",
+        "sfks": false,
+        "jhrs": 7,
+        "yxdm": "10008",
+        "zydm": "120108",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0100004000103",
+        "zyxh": null,
+        "bxdd": "北京市市辖区",
+        "bz": "大一学年结束可分流至大数据管理与应用、信息管理与信息系统、金融工程、数字经济专业。",
+        "zydh": "009",
+        "yxdh": "1105",
+        "wyyzdm": "不限",
+        "sfbz": "5000",
+        "kskmyq": "首选物理，再选不限"
+      }
+    ],
+    "total": 1,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751164315000
+}

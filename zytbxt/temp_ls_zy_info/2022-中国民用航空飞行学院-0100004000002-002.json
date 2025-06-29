@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "83401-84415",
+        "zymc": "信息与计算科学",
+        "pjf": "487"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "66835-67778",
+        "zymc": "计算机科学与技术",
+        "pjf": "504"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "84416-85383",
+        "zymc": "物联网工程",
+        "pjf": "486"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "79376-80365",
+        "zymc": "数据科学与大数据技术",
+        "pjf": "491"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "87462-88451",
+        "zymc": "网络空间安全",
+        "pjf": "483"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "65894-66834",
+        "zymc": "交通管理(机场运行管理)",
+        "pjf": "505"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "85384-86359",
+        "zymc": "物流工程(航空物流)",
+        "pjf": "485"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "77370-78396",
+        "zymc": "大气科学",
+        "pjf": "493"
+      }
+    ],
+    "total": 8,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751179222608
+}

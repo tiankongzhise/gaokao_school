@@ -1,0 +1,53 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "21578-22037",
+        "zymc": "机械工程(智能制造)",
+        "pjf": "584"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "22983-23487",
+        "zymc": "计算机科学与技术",
+        "pjf": "581"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "27124-27663",
+        "zymc": "水利水电工程",
+        "pjf": "573"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "26086-26620",
+        "zymc": "食品科学与工程",
+        "pjf": "575"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "26621-27123",
+        "zymc": "林学",
+        "pjf": "574"
+      }
+    ],
+    "total": 5,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751182271737
+}

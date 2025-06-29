@@ -1,0 +1,88 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "6315-6556",
+        "zymc": "理科试验班(纳米科学与工程试验班)",
+        "pjf": "625"
+      },
+      {
+        "zydm": null,
+        "lqrs": "11",
+        "pjmc": "8042-8300",
+        "zymc": "能源动力类(能源、环境专业)",
+        "pjf": "618"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "5638-5852",
+        "zymc": "材料科学与工程(高精尖班)",
+        "pjf": "628"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "8042-8300",
+        "zymc": "储能科学与工程",
+        "pjf": "618"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "7276-7513",
+        "zymc": "通信工程",
+        "pjf": "621"
+      },
+      {
+        "zydm": null,
+        "lqrs": "13",
+        "pjmc": "8301-8576",
+        "zymc": "机械类",
+        "pjf": "617"
+      },
+      {
+        "zydm": null,
+        "lqrs": "10",
+        "pjmc": "7514-7783",
+        "zymc": "自动化类",
+        "pjf": "620"
+      },
+      {
+        "zydm": null,
+        "lqrs": "8",
+        "pjmc": "6315-6556",
+        "zymc": "计算机类",
+        "pjf": "625"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "8577-8890",
+        "zymc": "土木类",
+        "pjf": "616"
+      },
+      {
+        "zydm": null,
+        "lqrs": "11",
+        "pjmc": "8301-8576",
+        "zymc": "材料科学与工程",
+        "pjf": "617"
+      }
+    ],
+    "total": 10,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180153366
+}

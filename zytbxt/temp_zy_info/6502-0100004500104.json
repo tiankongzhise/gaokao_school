@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "软件工程(NIIT班)",
+        "sfks": false,
+        "jhrs": 6,
+        "yxdm": "10759",
+        "zydm": "080902",
+        "bxddbb": false,
+        "xzdm": "四年",
+        "zyzdm": "0100004500104",
+        "zyxh": null,
+        "bxdd": null,
+        "bz": "只招收有专业志愿考生，详见招生章程；学费暂定12000元/学年，如遇政策调整，按调整后的收费标准执行",
+        "zydh": "058",
+        "yxdh": "6502",
+        "wyyzdm": "不限",
+        "sfbz": "12000",
+        "kskmyq": "首选物理，再选限化学"
+      }
+    ],
+    "total": 1,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751166823999
+}

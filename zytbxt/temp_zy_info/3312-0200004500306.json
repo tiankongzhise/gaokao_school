@@ -1,0 +1,56 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "动物科学",
+        "sfks": false,
+        "jhrs": 3,
+        "yxdm": "10341",
+        "zydm": "090301",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0200004500306",
+        "zyxh": null,
+        "bxdd": "浙江省杭州市",
+        "bz": null,
+        "zydh": "040",
+        "yxdh": "3312",
+        "wyyzdm": "不限",
+        "sfbz": "5500",
+        "kskmyq": "首选物理，再选限化学"
+      },
+      {
+        "skkmyq": "不限",
+        "zymc": "家具设计与工程",
+        "sfks": false,
+        "jhrs": 2,
+        "yxdm": "10341",
+        "zydm": "082404",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0200004500306",
+        "zyxh": null,
+        "bxdd": "浙江省杭州市",
+        "bz": null,
+        "zydh": "041",
+        "yxdh": "3312",
+        "wyyzdm": "不限",
+        "sfbz": "6000",
+        "kskmyq": "首选物理，再选限化学"
+      }
+    ],
+    "total": 2,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751166153755
+}

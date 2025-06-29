@@ -1,0 +1,137 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "11575-11950",
+        "zymc": "邮政管理",
+        "pjf": "589"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "11951-12308",
+        "zymc": "信息管理与信息系统",
+        "pjf": "588"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "11206-11574",
+        "zymc": "广播电视工程",
+        "pjf": "590"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "11206-11574",
+        "zymc": "集成电路设计与集成系统",
+        "pjf": "590"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "11575-11950",
+        "zymc": "电磁场与无线技术",
+        "pjf": "589"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "9541-9829",
+        "zymc": "自动化",
+        "pjf": "595"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "10862-11205",
+        "zymc": "数字媒体技术",
+        "pjf": "591"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "10862-11205",
+        "zymc": "智能科学与技术",
+        "pjf": "591"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "9241-9540",
+        "zymc": "电子信息工程",
+        "pjf": "596"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "10141-10493",
+        "zymc": "电子科学与技术",
+        "pjf": "593"
+      },
+      {
+        "zydm": null,
+        "lqrs": "9",
+        "pjmc": "8926-9240",
+        "zymc": "通信工程",
+        "pjf": "597"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "10862-11205",
+        "zymc": "微电子科学与工程",
+        "pjf": "591"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "11575-11950",
+        "zymc": "光电信息科学与工程",
+        "pjf": "589"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "9541-9829",
+        "zymc": "计算机科学与技术",
+        "pjf": "595"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "9830-10140",
+        "zymc": "软件工程",
+        "pjf": "594"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "11575-11950",
+        "zymc": "网络工程",
+        "pjf": "589"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "10494-10861",
+        "zymc": "信息安全",
+        "pjf": "592"
+      }
+    ],
+    "total": 17,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180748919
+}

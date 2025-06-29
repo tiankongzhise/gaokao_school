@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "园林",
+        "sfks": false,
+        "jhrs": 95,
+        "yxdm": "12662",
+        "zydm": "090502",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0100004600120",
+        "zyxh": null,
+        "bxdd": "湖南省张家界市",
+        "bz": null,
+        "zydh": "058",
+        "yxdh": "4732",
+        "wyyzdm": "不限",
+        "sfbz": "22700",
+        "kskmyq": "首选物理，再选限生物"
+      }
+    ],
+    "total": 1,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751165456377
+}

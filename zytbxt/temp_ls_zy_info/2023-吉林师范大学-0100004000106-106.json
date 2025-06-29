@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "67418-68256",
+        "zymc": "数据科学与大数据技术",
+        "pjf": "515"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "64861-65709",
+        "zymc": "网络空间安全",
+        "pjf": "518"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "64861-65709",
+        "zymc": "物理学(师范)",
+        "pjf": "518"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "69069-69917",
+        "zymc": "统计学",
+        "pjf": "513"
+      }
+    ],
+    "total": 4,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751181259532
+}

@@ -1,0 +1,151 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "13119-13478",
+        "zymc": "金融学",
+        "pjf": "585"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "12710-13118",
+        "zymc": "大数据管理与应用",
+        "pjf": "586"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "13887-14295",
+        "zymc": "应急管理",
+        "pjf": "583"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "13887-14295",
+        "zymc": "工商管理类",
+        "pjf": "583"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "14296-14722",
+        "zymc": "数学类",
+        "pjf": "582"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "14296-14722",
+        "zymc": "物理学类",
+        "pjf": "582"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "12710-13118",
+        "zymc": "遥感科学与技术",
+        "pjf": "586"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "13479-13886",
+        "zymc": "地球信息科学与技术",
+        "pjf": "584"
+      },
+      {
+        "zydm": null,
+        "lqrs": "8",
+        "pjmc": "13119-13478",
+        "zymc": "机械类",
+        "pjf": "585"
+      },
+      {
+        "zydm": null,
+        "lqrs": "10",
+        "pjmc": "14296-14722",
+        "zymc": "能源动力类",
+        "pjf": "582"
+      },
+      {
+        "zydm": null,
+        "lqrs": "8",
+        "pjmc": "10862-11205",
+        "zymc": "电气类",
+        "pjf": "591"
+      },
+      {
+        "zydm": null,
+        "lqrs": "10",
+        "pjmc": "12309-12709",
+        "zymc": "电子信息类",
+        "pjf": "587"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "12309-12709",
+        "zymc": "人工智能",
+        "pjf": "587"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "12710-13118",
+        "zymc": "机器人工程",
+        "pjf": "586"
+      },
+      {
+        "zydm": null,
+        "lqrs": "15",
+        "pjmc": "11206-11574",
+        "zymc": "计算机类",
+        "pjf": "590"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "14296-14722",
+        "zymc": "土木类",
+        "pjf": "582"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "14723-15143",
+        "zymc": "地质类",
+        "pjf": "581"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "13887-14295",
+        "zymc": "建筑类",
+        "pjf": "583"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "13479-13886",
+        "zymc": "安全科学与工程类",
+        "pjf": "584"
+      }
+    ],
+    "total": 19,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751179336962
+}

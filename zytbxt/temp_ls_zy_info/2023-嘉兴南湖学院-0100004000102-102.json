@@ -1,0 +1,165 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "76044-76890",
+        "zymc": "法学",
+        "pjf": "505"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "92619-93544",
+        "zymc": "工程管理",
+        "pjf": "487"
+      },
+      {
+        "zydm": null,
+        "lqrs": "7",
+        "pjmc": "95512-96507",
+        "zymc": "工程造价",
+        "pjf": "484"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "87820-88742",
+        "zymc": "大数据管理与应用",
+        "pjf": "492"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "91612-92618",
+        "zymc": "跨境电子商务",
+        "pjf": "488"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "93545-94518",
+        "zymc": "金融学",
+        "pjf": "486"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "85030-86010",
+        "zymc": "汉语言文学",
+        "pjf": "495"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "90617-91611",
+        "zymc": "机械设计制造及其自动化",
+        "pjf": "489"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "96508-97477",
+        "zymc": "工业设计",
+        "pjf": "483"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "91612-92618",
+        "zymc": "智能制造工程",
+        "pjf": "488"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "97478-98445",
+        "zymc": "高分子材料与工程",
+        "pjf": "482"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "86011-86918",
+        "zymc": "电气工程及其自动化",
+        "pjf": "494"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "87820-88742",
+        "zymc": "电子信息工程",
+        "pjf": "492"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "91612-92618",
+        "zymc": "自动化",
+        "pjf": "488"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "86011-86918",
+        "zymc": "计算机科学与技术",
+        "pjf": "494"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "87820-88742",
+        "zymc": "网络工程",
+        "pjf": "492"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "97478-98445",
+        "zymc": "土木工程",
+        "pjf": "482"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "97478-98445",
+        "zymc": "化学工程与工艺",
+        "pjf": "482"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "96508-97477",
+        "zymc": "环境工程",
+        "pjf": "483"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "92619-93544",
+        "zymc": "生物工程",
+        "pjf": "487"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "94519-95511",
+        "zymc": "财务管理",
+        "pjf": "485"
+      }
+    ],
+    "total": 21,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751181583886
+}

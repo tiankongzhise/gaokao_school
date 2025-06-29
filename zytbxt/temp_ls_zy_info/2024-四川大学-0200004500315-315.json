@@ -1,0 +1,53 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "10070-10382",
+        "zymc": "工科试验班(先进低碳材料与食品健康)",
+        "pjf": "611"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "10070-10382",
+        "zymc": "工科试验班(先进化工与高端装备类)",
+        "pjf": "611"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "7784-8041",
+        "zymc": "工科试验班(智能制造)",
+        "pjf": "619"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "11038-11375",
+        "zymc": "工科试验班(绿色城市与智慧建造)",
+        "pjf": "608"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "10070-10382",
+        "zymc": "工科试验班(绿色能源与智慧建造)",
+        "pjf": "611"
+      }
+    ],
+    "total": 5,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751181654146
+}

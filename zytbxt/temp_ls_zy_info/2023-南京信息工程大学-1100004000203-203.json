@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "24470-24989",
+        "zymc": "数学与应用数学(中外合作办学)",
+        "pjf": "578"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "18879-19299",
+        "zymc": "大气科学(中外合作办学)",
+        "pjf": "590"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "25517-26085",
+        "zymc": "数据科学与大数据技术(中外合作办学)",
+        "pjf": "576"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "26086-26620",
+        "zymc": "环境工程(中外合作办学)",
+        "pjf": "575"
+      }
+    ],
+    "total": 4,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180581612
+}

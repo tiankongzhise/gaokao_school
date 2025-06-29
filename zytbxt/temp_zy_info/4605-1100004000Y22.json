@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "广播电视编导(中外合作办学)",
+        "sfks": false,
+        "jhrs": 2,
+        "yxdm": "11658",
+        "zydm": "130305H",
+        "bxddbb": false,
+        "xzdm": "四年",
+        "zyzdm": "1100004000Y22",
+        "zyxh": null,
+        "bxdd": "桂林洋校区",
+        "bz": "报考考生须有普通高中毕业证和高中学业水平测试成绩单。高收费专业。艺术类专业，授予艺术学学士学位。",
+        "zydh": "083",
+        "yxdh": "4605",
+        "wyyzdm": "不限",
+        "sfbz": "60000",
+        "kskmyq": "首选物理，再选不限"
+      }
+    ],
+    "total": 1,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751166250063
+}

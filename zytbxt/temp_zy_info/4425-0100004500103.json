@@ -1,0 +1,56 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "通信工程",
+        "sfks": false,
+        "jhrs": 3,
+        "yxdm": "11349",
+        "zydm": "080703",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0100004500103",
+        "zyxh": null,
+        "bxdd": "广东省江门市",
+        "bz": "请单色识别不全考生慎重报考；含通信工程、物联网工程、计算机通信网络、智慧物流、应急通信与应急指挥、应急技术与管理等培养模块，入学后分流",
+        "zydh": "005",
+        "yxdh": "4425",
+        "wyyzdm": "不限",
+        "sfbz": "5710",
+        "kskmyq": "首选物理，再选限化学"
+      },
+      {
+        "skkmyq": "不限",
+        "zymc": "电子信息工程",
+        "sfks": false,
+        "jhrs": 4,
+        "yxdm": "11349",
+        "zydm": "080701",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0100004500103",
+        "zyxh": null,
+        "bxdd": "广东省江门市",
+        "bz": "请单色识别不全考生慎重报考；含电子信息工程、信息安全、集成电路、人工智能、半导体绿色光源、光电工程、新能源材料与器件、微电子、应急装备与技术工程等培养模块，入学后分流",
+        "zydh": "006",
+        "yxdh": "4425",
+        "wyyzdm": "不限",
+        "sfbz": "5710",
+        "kskmyq": "首选物理，再选限化学"
+      }
+    ],
+    "total": 2,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751164112381
+}

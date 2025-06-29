@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "公共事业管理(中外合作办学)(以培养医疗健康产业管理人才为主)",
+        "sfks": false,
+        "jhrs": 2,
+        "yxdm": "11498",
+        "zydm": "120401H",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "1100004000204",
+        "zyxh": null,
+        "bxdd": "福建省莆田市",
+        "bz": "前2.5年莆田学院，如达到条件，后1.5年视情况可前往美国新奥尔良大学学习。",
+        "zydh": "020",
+        "yxdh": "3514",
+        "wyyzdm": "不限",
+        "sfbz": "18000",
+        "kskmyq": "首选物理，再选不限"
+      }
+    ],
+    "total": 1,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751166917460
+}

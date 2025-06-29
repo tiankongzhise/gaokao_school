@@ -1,0 +1,83 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "sf985": "0",
+        "ssmc": "江苏省",
+        "yxNfZyzVoList": [
+          {
+            "zyzbh": "001",
+            "zyzmc": "第1组",
+            "zyzdm": "0100004000001",
+            "lqrs": "5",
+            "nf": "2022",
+            "zgf": "512",
+            "zdmc": "75586",
+            "zymcStr": "电气工程及其自动化",
+            "zdf": "495",
+            "pjf": "501"
+          },
+          {
+            "zyzbh": "002",
+            "zyzmc": "第2组",
+            "zyzdm": "0100004500002",
+            "lqrs": "5",
+            "nf": "2022",
+            "zgf": "492",
+            "zdmc": "96758",
+            "zymcStr": "化学工程与工艺",
+            "zdf": "475",
+            "pjf": "480"
+          },
+          {
+            "zyzbh": "101",
+            "zyzmc": "第101组",
+            "zyzdm": "0100004000101",
+            "lqrs": "2",
+            "nf": "2023",
+            "zgf": "518",
+            "zdmc": "71471",
+            "zymcStr": "智能制造工程",
+            "zdf": "511",
+            "pjf": "514"
+          },
+          {
+            "zyzbh": "102",
+            "zyzmc": "第102组",
+            "zyzdm": "0100004500102",
+            "lqrs": "5",
+            "nf": "2024",
+            "zgf": "517",
+            "zdmc": "73205",
+            "zymcStr": "智能制造工程、光电信息科学与工程",
+            "zdf": "513",
+            "pjf": "515"
+          }
+        ],
+        "djsdm": "320400000000",
+        "yxnfList": null,
+        "yxmc": "常州工学院",
+        "yxdm": "11055",
+        "djsmc": "常州市",
+        "sfsyl": "",
+        "yxjbzdm": "1",
+        "yxdh": "3241",
+        "sf211": "0",
+        "jhsxdm": "3",
+        "ssdm": "320000000000"
+      }
+    ],
+    "total": 1,
+    "size": 10,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751176069929
+}

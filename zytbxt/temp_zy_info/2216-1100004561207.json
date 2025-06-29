@@ -1,0 +1,56 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "生物技术(中外合作办学)",
+        "sfks": false,
+        "jhrs": 7,
+        "yxdm": "10193",
+        "zydm": "071002H",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "1100004561207",
+        "zyxh": null,
+        "bxdd": "吉林省长春市",
+        "bz": "与意大利卡麦利诺大学合作办学",
+        "zydh": "034",
+        "yxdh": "2216",
+        "wyyzdm": "不限",
+        "sfbz": "25000",
+        "kskmyq": "首选物理，再选限化学和生物"
+      },
+      {
+        "skkmyq": "不限",
+        "zymc": "动物科学(中外合作办学)",
+        "sfks": false,
+        "jhrs": 4,
+        "yxdm": "10193",
+        "zydm": "090301H",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "1100004561207",
+        "zyxh": null,
+        "bxdd": "吉林省长春市",
+        "bz": "与美国西肯塔基大学合作办学",
+        "zydh": "035",
+        "yxdh": "2216",
+        "wyyzdm": "不限",
+        "sfbz": "26000",
+        "kskmyq": "首选物理，再选限化学和生物"
+      }
+    ],
+    "total": 2,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751164665176
+}

@@ -1,0 +1,123 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "11708-12053",
+        "zymc": "地球物理学",
+        "pjf": "606"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "11376-11707",
+        "zymc": "地质工程",
+        "pjf": "607"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "11038-11375",
+        "zymc": "资源勘查工程",
+        "pjf": "608"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "12427-12788",
+        "zymc": "采矿工程",
+        "pjf": "604"
+      },
+      {
+        "zydm": null,
+        "lqrs": "9",
+        "pjmc": "11708-12053",
+        "zymc": "矿物加工工程",
+        "pjf": "606"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "7276-7513",
+        "zymc": "应用物理学",
+        "pjf": "621"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "6799-7038",
+        "zymc": "冶金工程",
+        "pjf": "623"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "13130-13449",
+        "zymc": "土木工程",
+        "pjf": "602"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "8891-9173",
+        "zymc": "城市地下空间工程",
+        "pjf": "615"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "11038-11375",
+        "zymc": "环境工程",
+        "pjf": "608"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "7784-8041",
+        "zymc": "生物医学工程",
+        "pjf": "619"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "11708-12053",
+        "zymc": "安全工程",
+        "pjf": "606"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "10703-11037",
+        "zymc": "消防工程",
+        "pjf": "609"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "10070-10382",
+        "zymc": "药学",
+        "pjf": "611"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "9479-9800",
+        "zymc": "医学检验技术",
+        "pjf": "613"
+      }
+    ],
+    "total": 15,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751178966737
+}

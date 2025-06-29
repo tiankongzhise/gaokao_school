@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "医学试验班(临床类)",
+        "sfks": false,
+        "jhrs": 10,
+        "yxdm": "10698",
+        "zydm": "00800",
+        "bxddbb": true,
+        "xzdm": "五年",
+        "zyzdm": "0100004500107",
+        "zyxh": null,
+        "bxdd": "陕西省西安市",
+        "bz": " 包含专业:临床医学、口腔医学。",
+        "zydh": "048",
+        "yxdh": "6101",
+        "wyyzdm": "不限",
+        "sfbz": "7150",
+        "kskmyq": "首选物理，再选限化学"
+      }
+    ],
+    "total": 1,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751167061044
+}

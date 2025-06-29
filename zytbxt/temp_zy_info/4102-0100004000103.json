@@ -1,0 +1,56 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "建筑学",
+        "sfks": false,
+        "jhrs": 5,
+        "yxdm": "11765",
+        "zydm": "082801",
+        "bxddbb": true,
+        "xzdm": "五年",
+        "zyzdm": "0100004000103",
+        "zyxh": null,
+        "bxdd": "河南省平顶山市",
+        "bz": null,
+        "zydh": "004",
+        "yxdh": "4102",
+        "wyyzdm": "不限",
+        "sfbz": "5000",
+        "kskmyq": "首选物理，再选不限"
+      },
+      {
+        "skkmyq": "不限",
+        "zymc": "工程管理",
+        "sfks": false,
+        "jhrs": 5,
+        "yxdm": "11765",
+        "zydm": "120103",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0100004000103",
+        "zyxh": null,
+        "bxdd": "河南省平顶山市",
+        "bz": null,
+        "zydh": "005",
+        "yxdh": "4102",
+        "wyyzdm": "不限",
+        "sfbz": "5000",
+        "kskmyq": "首选物理，再选不限"
+      }
+    ],
+    "total": 2,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751166059753
+}

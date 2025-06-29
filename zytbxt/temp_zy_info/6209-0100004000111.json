@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "心理学类(师范)",
+        "sfks": false,
+        "jhrs": 3,
+        "yxdm": "10736",
+        "zydm": "0711",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0100004000111",
+        "zyxh": null,
+        "bxdd": "甘肃省兰州市",
+        "bz": "不招色盲色弱且不招单色识别不全者 包含专业:心理学、应用心理学。",
+        "zydh": "024",
+        "yxdh": "6209",
+        "wyyzdm": "不限",
+        "sfbz": "4300",
+        "kskmyq": "首选物理，再选不限"
+      }
+    ],
+    "total": 1,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751166976235
+}

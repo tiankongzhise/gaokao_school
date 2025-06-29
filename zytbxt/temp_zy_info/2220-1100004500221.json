@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "车辆工程(中外合作办学)",
+        "sfks": false,
+        "jhrs": 7,
+        "yxdm": "11726",
+        "zydm": "080207H",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "1100004500221",
+        "zyxh": null,
+        "bxdd": "吉林省长春市",
+        "bz": "与韩国启明大学合作办学",
+        "zydh": "038",
+        "yxdh": "2220",
+        "wyyzdm": "不限",
+        "sfbz": "40000",
+        "kskmyq": "首选物理，再选限化学"
+      }
+    ],
+    "total": 1,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751167511935
+}

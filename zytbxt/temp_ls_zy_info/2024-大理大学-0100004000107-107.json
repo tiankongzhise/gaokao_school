@@ -1,0 +1,32 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "89485-90648",
+        "zymc": "小学教育(师范)",
+        "pjf": "498"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "87225-88344",
+        "zymc": "公共管理类",
+        "pjf": "500"
+      }
+    ],
+    "total": 2,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751181771924
+}

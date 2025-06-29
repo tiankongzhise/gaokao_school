@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "46586-47367",
+        "zymc": "工程管理",
+        "pjf": "542"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "39144-39875",
+        "zymc": "工业工程",
+        "pjf": "552"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "45814-46585",
+        "zymc": "智慧建筑与建造",
+        "pjf": "543"
+      }
+    ],
+    "total": 3,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180928071
+}

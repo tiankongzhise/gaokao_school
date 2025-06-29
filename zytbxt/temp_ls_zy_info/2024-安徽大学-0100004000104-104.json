@@ -1,0 +1,53 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "21516-22012",
+        "zymc": "新闻传播学类",
+        "pjf": "582"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "21516-22012",
+        "zymc": "数字经济",
+        "pjf": "582"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "21010-21515",
+        "zymc": "大数据管理与应用",
+        "pjf": "583"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "21516-22012",
+        "zymc": "工商管理类",
+        "pjf": "582"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "19612-20060",
+        "zymc": "英语",
+        "pjf": "586"
+      }
+    ],
+    "total": 5,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751182399610
+}

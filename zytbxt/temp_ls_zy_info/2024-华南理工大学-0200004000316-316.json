@@ -1,0 +1,60 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "7784-8041",
+        "zymc": "经济学类",
+        "pjf": "619"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "11376-11707",
+        "zymc": "法学类",
+        "pjf": "607"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "8301-8576",
+        "zymc": "行政管理",
+        "pjf": "617"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "16979-17398",
+        "zymc": "旅游管理类",
+        "pjf": "592"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "19612-20060",
+        "zymc": "日语",
+        "pjf": "586"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "12789-13129",
+        "zymc": "商务英语",
+        "pjf": "603"
+      }
+    ],
+    "total": 6,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180563734
+}

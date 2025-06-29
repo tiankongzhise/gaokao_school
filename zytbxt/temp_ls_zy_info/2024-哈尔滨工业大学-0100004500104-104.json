@@ -1,0 +1,32 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "709-767",
+        "zymc": "工科试验班(AI先进技术领军班)",
+        "pjf": "668"
+      },
+      {
+        "zydm": null,
+        "lqrs": "34",
+        "pjmc": "709-767",
+        "zymc": "工科试验班(院士特色班、未来技术拔尖班)",
+        "pjf": "668"
+      }
+    ],
+    "total": 2,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751181481337
+}

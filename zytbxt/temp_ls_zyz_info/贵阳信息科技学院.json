@@ -1,0 +1,83 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "sf985": "0",
+        "ssmc": "贵州省",
+        "yxNfZyzVoList": [
+          {
+            "zyzbh": "001",
+            "zyzmc": "第1组",
+            "zyzdm": "0100004000001",
+            "lqrs": "3",
+            "nf": "2022",
+            "zgf": "456",
+            "zdmc": "130053",
+            "zymcStr": "网络工程",
+            "zdf": "444",
+            "pjf": "450"
+          },
+          {
+            "zyzbh": "002",
+            "zyzmc": "第2组",
+            "zyzdm": "0100004000002",
+            "lqrs": "4",
+            "nf": "2022",
+            "zgf": "447",
+            "zdmc": "133055",
+            "zymcStr": "电子信息工程",
+            "zdf": "441",
+            "pjf": "444"
+          },
+          {
+            "zyzbh": "101",
+            "zyzmc": "第101组",
+            "zyzdm": "0100004000101",
+            "lqrs": "2",
+            "nf": "2023",
+            "zgf": "449",
+            "zdmc": "140728",
+            "zymcStr": "网络工程",
+            "zdf": "441",
+            "pjf": "445"
+          },
+          {
+            "zyzbh": "102",
+            "zyzmc": "第102组",
+            "zyzdm": "0100004500102",
+            "lqrs": "3",
+            "nf": "2024",
+            "zgf": "443",
+            "zdmc": "163590",
+            "zymcStr": "网络工程",
+            "zdf": "442",
+            "pjf": "442"
+          }
+        ],
+        "djsdm": "520100000000",
+        "yxnfList": null,
+        "yxmc": "贵阳信息科技学院",
+        "yxdm": "13650",
+        "djsmc": "贵阳市",
+        "sfsyl": "",
+        "yxjbzdm": "2",
+        "yxdh": "5234",
+        "sf211": "0",
+        "jhsxdm": "3",
+        "ssdm": "520000000000"
+      }
+    ],
+    "total": 1,
+    "size": 10,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751175652983
+}

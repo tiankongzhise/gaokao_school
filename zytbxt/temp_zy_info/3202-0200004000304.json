@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "经济学类(数智经济与智能管理)",
+        "sfks": false,
+        "jhrs": 2,
+        "yxdm": "10286",
+        "zydm": "0201",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0200004000304",
+        "zyxh": null,
+        "bxdd": "江苏省南京市",
+        "bz": " 包含专业:会计学、金融学、经济学、工商管理、国际经济与贸易、物流管理。",
+        "zydh": "019",
+        "yxdh": "3202",
+        "wyyzdm": "不限",
+        "sfbz": "5720",
+        "kskmyq": "首选物理，再选不限"
+      }
+    ],
+    "total": 1,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751163882640
+}

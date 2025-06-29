@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "29154-29776",
+        "zymc": "工科试验班(智能与计算机)",
+        "pjf": "553"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "34870-35521",
+        "zymc": "工科试验班(电子信息与电气自动化)",
+        "pjf": "544"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "33553-34203",
+        "zymc": "工科试验班(航空航天)",
+        "pjf": "546"
+      }
+    ],
+    "total": 3,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751179242469
+}

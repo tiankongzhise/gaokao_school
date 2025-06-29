@@ -1,0 +1,95 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "sf985": "0",
+        "ssmc": "云南省",
+        "yxNfZyzVoList": [
+          {
+            "zyzbh": "003",
+            "zyzmc": "第3组",
+            "zyzdm": "0100004000003",
+            "lqrs": "1",
+            "nf": "2022",
+            "zgf": "466",
+            "zdmc": "105506",
+            "zymcStr": "跨境电子商务",
+            "zdf": "466",
+            "pjf": "466"
+          },
+          {
+            "zyzbh": "004",
+            "zyzmc": "第4组",
+            "zyzdm": "0100004000004",
+            "lqrs": "1",
+            "nf": "2022",
+            "zgf": "457",
+            "zdmc": "115967",
+            "zymcStr": "健康服务与管理",
+            "zdf": "457",
+            "pjf": "457"
+          },
+          {
+            "zyzbh": "103",
+            "zyzmc": "第103组",
+            "zyzdm": "0100004000103",
+            "lqrs": "1",
+            "nf": "2023",
+            "zgf": "471",
+            "zdmc": "109061",
+            "zymcStr": "跨境电子商务",
+            "zdf": "471",
+            "pjf": "471"
+          },
+          {
+            "zyzbh": "104",
+            "zyzmc": "第104组",
+            "zyzdm": "0100004000104",
+            "lqrs": "1",
+            "nf": "2023",
+            "zgf": "454",
+            "zdmc": "127100",
+            "zymcStr": "健康服务与管理",
+            "zdf": "454",
+            "pjf": "454"
+          },
+          {
+            "zyzbh": "102",
+            "zyzmc": "第102组",
+            "zyzdm": "0100004000102",
+            "lqrs": "2",
+            "nf": "2024",
+            "zgf": "471",
+            "zdmc": "125153",
+            "zymcStr": "健康服务与管理、跨境电子商务",
+            "zdf": "470",
+            "pjf": "470"
+          }
+        ],
+        "djsdm": "532900000000",
+        "yxnfList": null,
+        "yxmc": "滇西应用技术大学",
+        "yxdm": "14623",
+        "djsmc": "大理白族自治州",
+        "sfsyl": "",
+        "yxjbzdm": "1",
+        "yxdh": "5324",
+        "sf211": "0",
+        "jhsxdm": "3",
+        "ssdm": "530000000000"
+      }
+    ],
+    "total": 1,
+    "size": 10,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751175683976
+}

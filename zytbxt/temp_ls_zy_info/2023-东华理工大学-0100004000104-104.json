@@ -1,0 +1,158 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "59071-59849",
+        "zymc": "工程管理",
+        "pjf": "525"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "53633-54427",
+        "zymc": "地球物理学(拔尖学生培养基地)",
+        "pjf": "532"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "55964-56728",
+        "zymc": "地球化学(拔尖学生培养基地)",
+        "pjf": "529"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "59071-59849",
+        "zymc": "防灾减灾科学与工程",
+        "pjf": "525"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "48437-49239",
+        "zymc": "地球信息科学与技术",
+        "pjf": "539"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "55964-56728",
+        "zymc": "统计学",
+        "pjf": "529"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "54428-55160",
+        "zymc": "测控技术与仪器",
+        "pjf": "531"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "57511-58303",
+        "zymc": "材料科学与工程",
+        "pjf": "527"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "58304-59070",
+        "zymc": "水文与水资源工程",
+        "pjf": "526"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "58304-59070",
+        "zymc": "化学工程与工艺",
+        "pjf": "526"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "55161-55963",
+        "zymc": "地质类",
+        "pjf": "530"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "59071-59849",
+        "zymc": "勘查技术与工程",
+        "pjf": "525"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "58304-59070",
+        "zymc": "地下水科学与工程",
+        "pjf": "526"
+      },
+      {
+        "zydm": null,
+        "lqrs": "7",
+        "pjmc": "51443-52153",
+        "zymc": "核工程类",
+        "pjf": "535"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "47706-48436",
+        "zymc": "电子信息类",
+        "pjf": "540"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "51443-52153",
+        "zymc": "自动化",
+        "pjf": "535"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "52154-52879",
+        "zymc": "数据科学与大数据技术",
+        "pjf": "534"
+      },
+      {
+        "zydm": null,
+        "lqrs": "8",
+        "pjmc": "57511-58303",
+        "zymc": "土木类",
+        "pjf": "527"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "58304-59070",
+        "zymc": "测绘类",
+        "pjf": "526"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "51443-52153",
+        "zymc": "城乡规划",
+        "pjf": "535"
+      }
+    ],
+    "total": 20,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751178882802
+}

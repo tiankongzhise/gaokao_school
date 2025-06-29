@@ -1,0 +1,53 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "63200-64111",
+        "zymc": "药学",
+        "pjf": "508"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "70545-71490",
+        "zymc": "药物制剂",
+        "pjf": "500"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "66835-67778",
+        "zymc": "中药学",
+        "pjf": "504"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "61460-62327",
+        "zymc": "中药资源与开发",
+        "pjf": "510"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "76392-77369",
+        "zymc": "中草药栽培与鉴定",
+        "pjf": "494"
+      }
+    ],
+    "total": 5,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751179522712
+}

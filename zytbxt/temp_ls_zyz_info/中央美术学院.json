@@ -1,0 +1,83 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "sf985": "0",
+        "ssmc": "北京市",
+        "yxNfZyzVoList": [
+          {
+            "zyzbh": "102",
+            "zyzmc": "第102组",
+            "zyzdm": "0100004000102",
+            "lqrs": "1",
+            "nf": "2023",
+            "zgf": "605",
+            "zdmc": "13081",
+            "zymcStr": "艺术史论",
+            "zdf": "605",
+            "pjf": "605"
+          },
+          {
+            "zyzbh": "106",
+            "zyzmc": "第106组",
+            "zyzdm": "0100004500106",
+            "lqrs": "2",
+            "nf": "2024",
+            "zgf": "603",
+            "zdmc": "16271",
+            "zymcStr": "工业设计",
+            "zdf": "594",
+            "pjf": "598"
+          },
+          {
+            "zyzbh": "Y04",
+            "zyzmc": "第Y04组(艺术专业(不组织专业考试))",
+            "zyzdm": "0100004000Y04",
+            "lqrs": "1",
+            "nf": "2024",
+            "zgf": "619",
+            "zdmc": "7836",
+            "zymcStr": "艺术史论",
+            "zdf": "619",
+            "pjf": "619"
+          },
+          {
+            "zyzbh": "Y05",
+            "zyzmc": "第Y05组(中外合作办学或国际项目)(艺术专业(不组织专业考试))",
+            "zyzdm": "1100004000Y05",
+            "lqrs": "4",
+            "nf": "2024",
+            "zgf": "567",
+            "zdmc": "136037",
+            "zymcStr": "艺术史论(中外合作办学)、艺术管理(中外合作办学)",
+            "zdf": "462",
+            "pjf": "506"
+          }
+        ],
+        "djsdm": "110100000000",
+        "yxnfList": null,
+        "yxmc": "中央美术学院",
+        "yxdm": "10047",
+        "djsmc": "市辖区",
+        "sfsyl": "3",
+        "yxjbzdm": "1",
+        "yxdh": "1147",
+        "sf211": "0",
+        "jhsxdm": "1",
+        "ssdm": "110000000000"
+      }
+    ],
+    "total": 1,
+    "size": 10,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751175545099
+}

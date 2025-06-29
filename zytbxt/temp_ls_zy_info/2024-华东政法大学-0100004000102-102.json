@@ -1,0 +1,81 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "7514-7783",
+        "zymc": "法学(刑事法律)",
+        "pjf": "620"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "9174-9478",
+        "zymc": "法学(国际经济法)",
+        "pjf": "614"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "6075-6314",
+        "zymc": "法学(民商法律)",
+        "pjf": "626"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "9479-9800",
+        "zymc": "法学(经济法)",
+        "pjf": "613"
+      },
+      {
+        "zydm": null,
+        "lqrs": "7",
+        "pjmc": "14197-14586",
+        "zymc": "经济学类",
+        "pjf": "599"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "10383-10702",
+        "zymc": "司法鉴定学",
+        "pjf": "610"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "16204-16588",
+        "zymc": "社会学类",
+        "pjf": "594"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "13450-13821",
+        "zymc": "网络与新媒体",
+        "pjf": "601"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "13822-14196",
+        "zymc": "公共管理类",
+        "pjf": "600"
+      }
+    ],
+    "total": 9,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180357059
+}

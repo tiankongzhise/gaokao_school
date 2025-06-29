@@ -1,0 +1,71 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "sf985": "0",
+        "ssmc": "贵州省",
+        "yxNfZyzVoList": [
+          {
+            "zyzbh": "002",
+            "zyzmc": "第2组",
+            "zyzdm": "0100004000002",
+            "lqrs": "2",
+            "nf": "2022",
+            "zgf": "449",
+            "zdmc": "132178",
+            "zymcStr": "财务管理",
+            "zdf": "442",
+            "pjf": "445"
+          },
+          {
+            "zyzbh": "101",
+            "zyzmc": "第101组",
+            "zyzdm": "0100004000101",
+            "lqrs": "4",
+            "nf": "2023",
+            "zgf": "447",
+            "zdmc": "146863",
+            "zymcStr": "财务管理",
+            "zdf": "435",
+            "pjf": "440"
+          },
+          {
+            "zyzbh": "104",
+            "zyzmc": "第104组",
+            "zyzdm": "0100004500104",
+            "lqrs": "5",
+            "nf": "2024",
+            "zgf": "457",
+            "zdmc": "167285",
+            "zymcStr": "计算机科学与技术",
+            "zdf": "439",
+            "pjf": "443"
+          }
+        ],
+        "djsdm": "522700000000",
+        "yxnfList": null,
+        "yxmc": "贵州黔南科技学院",
+        "yxdm": "13649",
+        "djsmc": "黔南布依族苗族自治州",
+        "sfsyl": "",
+        "yxjbzdm": "2",
+        "yxdh": "5235",
+        "sf211": "0",
+        "jhsxdm": "3",
+        "ssdm": "520000000000"
+      }
+    ],
+    "total": 1,
+    "size": 10,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751175654013
+}

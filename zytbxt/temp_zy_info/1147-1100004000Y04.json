@@ -1,0 +1,56 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "艺术史论(中外合作办学)",
+        "sfks": false,
+        "jhrs": 1,
+        "yxdm": "10047",
+        "zydm": "130101H",
+        "bxddbb": false,
+        "xzdm": "四年",
+        "zyzdm": "1100004000Y04",
+        "zyxh": null,
+        "bxdd": "上海校区",
+        "bz": null,
+        "zydh": "018",
+        "yxdh": "1147",
+        "wyyzdm": "不限",
+        "sfbz": "45000",
+        "kskmyq": "首选物理，再选不限"
+      },
+      {
+        "skkmyq": "不限",
+        "zymc": "艺术管理(中外合作办学)",
+        "sfks": false,
+        "jhrs": 1,
+        "yxdm": "10047",
+        "zydm": "130102H",
+        "bxddbb": false,
+        "xzdm": "四年",
+        "zyzdm": "1100004000Y04",
+        "zyxh": null,
+        "bxdd": "上海校区",
+        "bz": null,
+        "zydh": "019",
+        "yxdh": "1147",
+        "wyyzdm": "不限",
+        "sfbz": "45000",
+        "kskmyq": "首选物理，再选不限"
+      }
+    ],
+    "total": 2,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751164053852
+}

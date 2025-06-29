@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "33985-34562",
+        "zymc": "经济学类",
+        "pjf": "561"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "27664-28195",
+        "zymc": "教育技术学",
+        "pjf": "572"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "35167-35785",
+        "zymc": "物流管理",
+        "pjf": "559"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "30455-31029",
+        "zymc": "测绘工程",
+        "pjf": "567"
+      }
+    ],
+    "total": 4,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180752071
+}

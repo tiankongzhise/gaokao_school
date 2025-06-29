@@ -1,0 +1,144 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "67779-68704",
+        "zymc": "管理科学与工程类",
+        "pjf": "503"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "65012-65893",
+        "zymc": "公共管理类",
+        "pjf": "506"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "43343-44145",
+        "zymc": "数学与应用数学",
+        "pjf": "532"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "66835-67778",
+        "zymc": "应用物理学",
+        "pjf": "504"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "68705-89062",
+        "zymc": "机械类",
+        "pjf": "502"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "59622-60558",
+        "zymc": "能源与动力工程",
+        "pjf": "512"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "50426-51240",
+        "zymc": "电子信息类",
+        "pjf": "523"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "60559-61459",
+        "zymc": "人工智能",
+        "pjf": "511"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "64112-65011",
+        "zymc": "计算机类",
+        "pjf": "507"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "66835-67778",
+        "zymc": "土木类",
+        "pjf": "504"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "55268-56113",
+        "zymc": "建筑环境与能源应用工程",
+        "pjf": "517"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "71491-72474",
+        "zymc": "给排水科学与工程",
+        "pjf": "499"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "70545-71490",
+        "zymc": "港口航道与海岸工程",
+        "pjf": "500"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "65012-65893",
+        "zymc": "测绘工程",
+        "pjf": "506"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "65012-65893",
+        "zymc": "地质工程",
+        "pjf": "506"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "72475-73422",
+        "zymc": "环境工程",
+        "pjf": "498"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "59622-60558",
+        "zymc": "建筑类",
+        "pjf": "512"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "67779-68704",
+        "zymc": "安全工程",
+        "pjf": "503"
+      }
+    ],
+    "total": 18,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751182080378
+}

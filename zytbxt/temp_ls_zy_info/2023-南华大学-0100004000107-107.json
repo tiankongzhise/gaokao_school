@@ -1,0 +1,102 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "26",
+        "pjmc": "55161-55963",
+        "zymc": "外国语言文学类",
+        "pjf": "530"
+      },
+      {
+        "zydm": null,
+        "lqrs": "13",
+        "pjmc": "47706-48436",
+        "zymc": "经济学",
+        "pjf": "540"
+      },
+      {
+        "zydm": null,
+        "lqrs": "14",
+        "pjmc": "54428-55160",
+        "zymc": "国际经济与贸易",
+        "pjf": "531"
+      },
+      {
+        "zydm": null,
+        "lqrs": "20",
+        "pjmc": "42847-43501",
+        "zymc": "法学",
+        "pjf": "547"
+      },
+      {
+        "zydm": null,
+        "lqrs": "22",
+        "pjmc": "55161-55963",
+        "zymc": "工商管理",
+        "pjf": "530"
+      },
+      {
+        "zydm": null,
+        "lqrs": "22",
+        "pjmc": "45638-46314",
+        "zymc": "会计学",
+        "pjf": "543"
+      },
+      {
+        "zydm": null,
+        "lqrs": "47",
+        "pjmc": "56729-57510",
+        "zymc": "物流工程",
+        "pjf": "528"
+      },
+      {
+        "zydm": null,
+        "lqrs": "18",
+        "pjmc": "56729-57510",
+        "zymc": "电子商务",
+        "pjf": "528"
+      },
+      {
+        "zydm": null,
+        "lqrs": "47",
+        "pjmc": "59071-59849",
+        "zymc": "建筑类",
+        "pjf": "525"
+      },
+      {
+        "zydm": null,
+        "lqrs": "14",
+        "pjmc": "59071-59849",
+        "zymc": "风景园林",
+        "pjf": "525"
+      },
+      {
+        "zydm": null,
+        "lqrs": "10",
+        "pjmc": "44189-44902",
+        "zymc": "护理学(创新班)",
+        "pjf": "545"
+      },
+      {
+        "zydm": null,
+        "lqrs": "45",
+        "pjmc": "55964-56728",
+        "zymc": "护理学",
+        "pjf": "529"
+      }
+    ],
+    "total": 12,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180770959
+}

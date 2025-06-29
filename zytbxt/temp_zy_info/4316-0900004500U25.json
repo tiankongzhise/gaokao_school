@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "电子信息科学与技术(楚怡工匠计划)",
+        "sfks": false,
+        "jhrs": 50,
+        "yxdm": "10546",
+        "zydm": "080714",
+        "bxddbb": false,
+        "xzdm": "四年",
+        "zyzdm": "0900004500U25",
+        "zyxh": null,
+        "bxdd": null,
+        "bz": "本科四年均在湖南高速铁路职业技术学院就读",
+        "zydh": "281",
+        "yxdh": "4316",
+        "wyyzdm": "不限",
+        "sfbz": "5900",
+        "kskmyq": "首选物理，再选限化学"
+      }
+    ],
+    "total": 1,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751166934969
+}

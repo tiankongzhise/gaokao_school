@@ -1,0 +1,53 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "151",
+        "pjmc": "11708-12053",
+        "zymc": "临床医学(卓越医生班)",
+        "pjf": "606"
+      },
+      {
+        "zydm": null,
+        "lqrs": "212",
+        "pjmc": "17399-17826",
+        "zymc": "临床医学",
+        "pjf": "591"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "16979-17398",
+        "zymc": "麻醉学",
+        "pjf": "592"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "19165-19611",
+        "zymc": "医学影像学",
+        "pjf": "587"
+      },
+      {
+        "zydm": null,
+        "lqrs": "33",
+        "pjmc": "16204-16588",
+        "zymc": "口腔医学",
+        "pjf": "594"
+      }
+    ],
+    "total": 5,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180788694
+}

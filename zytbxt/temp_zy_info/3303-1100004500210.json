@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "数学与应用数学(中外合作办学)(中美合作精算科学与风险管理)",
+        "sfks": false,
+        "jhrs": 2,
+        "yxdm": "11646",
+        "zydm": "070101H",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "1100004500210",
+        "zyxh": null,
+        "bxdd": "浙江省宁波市",
+        "bz": "可选赴美国中田纳西州立大学交换留学1年，获美国精算科学学士学位",
+        "zydh": "029",
+        "yxdh": "3303",
+        "wyyzdm": "不限",
+        "sfbz": "28800",
+        "kskmyq": "首选物理，再选限化学"
+      }
+    ],
+    "total": 1,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751165108402
+}

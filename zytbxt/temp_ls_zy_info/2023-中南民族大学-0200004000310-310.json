@@ -1,0 +1,53 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "52154-52879",
+        "zymc": "教育学类",
+        "pjf": "534"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "49240-49964",
+        "zymc": "数学类",
+        "pjf": "538"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "56729-57510",
+        "zymc": "环境科学与工程类",
+        "pjf": "528"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "57511-58303",
+        "zymc": "管理科学与工程类",
+        "pjf": "527"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "49965-50694",
+        "zymc": "自动化类",
+        "pjf": "537"
+      }
+    ],
+    "total": 5,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751179047122
+}

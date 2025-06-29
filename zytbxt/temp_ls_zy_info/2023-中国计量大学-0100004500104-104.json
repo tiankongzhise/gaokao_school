@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "35167-35785",
+        "zymc": "卫生检验与检疫",
+        "pjf": "559"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "37667-38276",
+        "zymc": "应用化学",
+        "pjf": "555"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "34563-35166",
+        "zymc": "材料科学与工程",
+        "pjf": "560"
+      }
+    ],
+    "total": 3,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751179417769
+}

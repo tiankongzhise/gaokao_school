@@ -1,0 +1,56 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "工科试验班类(溥渊未来技术学院，健康方向)",
+        "sfks": false,
+        "jhrs": 1,
+        "yxdm": "10248",
+        "zydm": "0060",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0200004500307",
+        "zyxh": null,
+        "bxdd": "上海市市辖区",
+        "bz": " 包含专业:健康科学与技术。",
+        "zydh": "036",
+        "yxdh": "3102",
+        "wyyzdm": "不限",
+        "sfbz": "7000",
+        "kskmyq": "首选物理，再选限化学"
+      },
+      {
+        "skkmyq": "不限",
+        "zymc": "工科试验班类",
+        "sfks": false,
+        "jhrs": 10,
+        "yxdm": "10248",
+        "zydm": "0060",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0200004500307",
+        "zyxh": null,
+        "bxdd": "上海市市辖区",
+        "bz": "含机械动力类-数学与应用数学双学士学位项目、能源与动力工程-化学双学士学位项目、船舶与海洋工程-数学与应用数学双学士学位项目、材料科学与工程-应用物理学双学士学位项目。 包含专业:机械类、海洋工程类、材料科学与工程、航空航天工程、智慧能源工程、可持续能源、健康科学与技术。",
+        "zydh": "037",
+        "yxdh": "3102",
+        "wyyzdm": "不限",
+        "sfbz": "7000",
+        "kskmyq": "首选物理，再选限化学"
+      }
+    ],
+    "total": 2,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751163755731
+}

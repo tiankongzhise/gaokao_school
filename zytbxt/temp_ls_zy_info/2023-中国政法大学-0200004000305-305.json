@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "4531-4715",
+        "zymc": "法学",
+        "pjf": "635"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "7431-7721",
+        "zymc": "工商管理",
+        "pjf": "622"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "4716-4912",
+        "zymc": "国际商务",
+        "pjf": "634"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "4716-4912",
+        "zymc": "行政管理",
+        "pjf": "634"
+      }
+    ],
+    "total": 4,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751179219506
+}

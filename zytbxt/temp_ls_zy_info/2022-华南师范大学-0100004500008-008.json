@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "10862-11205",
+        "zymc": "生物工程",
+        "pjf": "591"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "8926-9240",
+        "zymc": "化学(师范)",
+        "pjf": "597"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "11575-11950",
+        "zymc": "材料化学",
+        "pjf": "589"
+      }
+    ],
+    "total": 3,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180543832
+}

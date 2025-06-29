@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "临床医学",
+        "sfks": false,
+        "jhrs": 15,
+        "yxdm": "10120",
+        "zydm": "100201",
+        "bxddbb": true,
+        "xzdm": "五年",
+        "zyzdm": "0100004561105",
+        "zyxh": null,
+        "bxdd": "山西省大同市",
+        "bz": "体检为色弱或色盲或不能准确识别红、黄、绿、蓝、紫各种颜色中任意一种颜色不予录取",
+        "zydh": "006",
+        "yxdh": "1414",
+        "wyyzdm": "不限",
+        "sfbz": "5480",
+        "kskmyq": "首选物理，再选限化学和生物"
+      }
+    ],
+    "total": 1,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751165253191
+}

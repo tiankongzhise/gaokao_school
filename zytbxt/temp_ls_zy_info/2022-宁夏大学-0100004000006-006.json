@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "25592-26158",
+        "zymc": "物理学(基础拔尖人才培养班)",
+        "pjf": "559"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "25001-25591",
+        "zymc": "机械类",
+        "pjf": "560"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "20679-21246",
+        "zymc": "电子信息类",
+        "pjf": "568"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "25001-25591",
+        "zymc": "食品科学与工程",
+        "pjf": "560"
+      }
+    ],
+    "total": 4,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751182266486
+}

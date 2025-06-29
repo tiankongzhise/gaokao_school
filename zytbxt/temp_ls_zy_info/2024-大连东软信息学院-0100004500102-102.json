@@ -1,0 +1,32 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "7",
+        "pjmc": "170660-171934",
+        "zymc": "软件工程",
+        "pjf": "436"
+      },
+      {
+        "zydm": null,
+        "lqrs": "7",
+        "pjmc": "169352-170659",
+        "zymc": "智能科学与技术",
+        "pjf": "437"
+      }
+    ],
+    "total": 2,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751181783459
+}

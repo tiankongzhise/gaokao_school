@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "木材科学与工程(中外合作办学)",
+        "sfks": false,
+        "jhrs": 2,
+        "yxdm": "10022",
+        "zydm": "082402H",
+        "bxddbb": false,
+        "xzdm": "五年",
+        "zyzdm": "1100004500213",
+        "zyxh": null,
+        "bxdd": null,
+        "bz": "和加拿大不列颠哥伦比亚大学（UBC）合办。外语成绩要求100分及以上。学费：第一二三学年每年40000元，第四五学年我校收取每生每年5500元，UBC按学分收取学费，此部分学费标准每年略有调整，以入学UBC当年的标准执行，目前每生每学分的标准为1701.35加元，约70学分。",
+        "zydh": "061",
+        "yxdh": "1113",
+        "wyyzdm": "不限",
+        "sfbz": "见备注",
+        "kskmyq": "首选物理，再选限化学"
+      }
+    ],
+    "total": 1,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751164297425
+}

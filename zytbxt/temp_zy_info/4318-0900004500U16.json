@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "计算机科学与技术(楚怡工匠计划)",
+        "sfks": false,
+        "jhrs": 100,
+        "yxdm": "10549",
+        "zydm": "080901",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0900004500U16",
+        "zyxh": null,
+        "bxdd": "湖南省常德市",
+        "bz": "本科四年均在湖南科技职业学院就读",
+        "zydh": "120",
+        "yxdh": "4318",
+        "wyyzdm": "不限",
+        "sfbz": "5900",
+        "kskmyq": "首选物理，再选限化学"
+      }
+    ],
+    "total": 1,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751166588569
+}

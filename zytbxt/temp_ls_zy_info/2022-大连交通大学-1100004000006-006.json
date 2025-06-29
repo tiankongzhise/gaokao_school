@@ -1,0 +1,60 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "50426-51240",
+        "zymc": "会计学(中外合作办学)",
+        "pjf": "523"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "56114-56974",
+        "zymc": "机械工程(中外合作办学)",
+        "pjf": "516"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "52817-53651",
+        "zymc": "土木工程(中外合作办学)",
+        "pjf": "520"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "56975-57830",
+        "zymc": "机械工程(中外合作办学)",
+        "pjf": "515"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "48834-49625",
+        "zymc": "车辆工程(中外合作办学)",
+        "pjf": "525"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "51241-52061",
+        "zymc": "土木工程(中外合作办学)",
+        "pjf": "522"
+      }
+    ],
+    "total": 6,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751181786582
+}

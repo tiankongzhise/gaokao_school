@@ -1,0 +1,95 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "sf985": "0",
+        "ssmc": "辽宁省",
+        "yxNfZyzVoList": [
+          {
+            "zyzbh": "003",
+            "zyzmc": "第3组",
+            "zyzdm": "0100004000003",
+            "lqrs": "3",
+            "nf": "2022",
+            "zgf": "252",
+            "zdmc": null,
+            "zymcStr": "软件技术",
+            "zdf": "232",
+            "pjf": "244"
+          },
+          {
+            "zyzbh": "102",
+            "zyzmc": "第102组",
+            "zyzdm": "0100004000102",
+            "lqrs": "6",
+            "nf": "2023",
+            "zgf": "332",
+            "zdmc": null,
+            "zymcStr": "机械制造及自动化、大数据与会计",
+            "zdf": "246",
+            "pjf": "275"
+          },
+          {
+            "zyzbh": "101",
+            "zyzmc": "第101组",
+            "zyzdm": "0100004000101",
+            "lqrs": "7",
+            "nf": "2024",
+            "zgf": "447",
+            "zdmc": "175726",
+            "zymcStr": "自动化技术与应用",
+            "zdf": "433",
+            "pjf": "437"
+          },
+          {
+            "zyzbh": "102",
+            "zyzmc": "第102组",
+            "zyzdm": "0100004500102",
+            "lqrs": "3",
+            "nf": "2024",
+            "zgf": "423",
+            "zdmc": "187820",
+            "zymcStr": "汽车服务工程技术、软件工程技术、大数据工程技术",
+            "zdf": "423",
+            "pjf": "423"
+          },
+          {
+            "zyzbh": "104",
+            "zyzmc": "第104组",
+            "zyzdm": "0100004000104",
+            "lqrs": "8",
+            "nf": "2024",
+            "zgf": "345",
+            "zdmc": null,
+            "zymcStr": "大数据与会计、电气自动化技术",
+            "zdf": "296",
+            "pjf": "314"
+          }
+        ],
+        "djsdm": "210700000000",
+        "yxnfList": null,
+        "yxmc": "辽宁理工职业大学",
+        "yxdm": "12595",
+        "djsmc": "锦州市",
+        "sfsyl": "",
+        "yxjbzdm": "2",
+        "yxdh": "2193",
+        "sf211": "0",
+        "jhsxdm": "3",
+        "ssdm": "210000000000"
+      }
+    ],
+    "total": 1,
+    "size": 10,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751175922220
+}

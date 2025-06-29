@@ -1,0 +1,56 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "针灸推拿学",
+        "sfks": false,
+        "jhrs": 2,
+        "yxdm": "10716",
+        "zydm": "100502",
+        "bxddbb": true,
+        "xzdm": "五年",
+        "zyzdm": "0100004000101",
+        "zyxh": null,
+        "bxdd": "陕西省西安市",
+        "bz": null,
+        "zydh": "001",
+        "yxdh": "6131",
+        "wyyzdm": "不限",
+        "sfbz": "6500",
+        "kskmyq": "首选物理，再选不限"
+      },
+      {
+        "skkmyq": "不限",
+        "zymc": "中医学",
+        "sfks": false,
+        "jhrs": 3,
+        "yxdm": "10716",
+        "zydm": "100501",
+        "bxddbb": true,
+        "xzdm": "五年",
+        "zyzdm": "0100004000101",
+        "zyxh": null,
+        "bxdd": "陕西省西安市",
+        "bz": null,
+        "zydh": "002",
+        "yxdh": "6131",
+        "wyyzdm": "不限",
+        "sfbz": "6955",
+        "kskmyq": "首选物理，再选不限"
+      }
+    ],
+    "total": 2,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751167636019
+}

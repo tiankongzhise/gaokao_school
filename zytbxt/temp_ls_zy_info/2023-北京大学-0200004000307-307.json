@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "323-370",
+        "zymc": "工科试验班类",
+        "pjf": "673"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "296-322",
+        "zymc": "地球物理学类",
+        "pjf": "674"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "323-370",
+        "zymc": "心理学类",
+        "pjf": "673"
+      }
+    ],
+    "total": 3,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180021910
+}

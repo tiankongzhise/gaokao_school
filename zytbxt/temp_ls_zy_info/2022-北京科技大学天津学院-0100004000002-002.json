@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "122111-123226",
+        "zymc": "材料科学与工程(纳米材料应用)",
+        "pjf": "451"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "128670-129713",
+        "zymc": "通信工程",
+        "pjf": "445"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "129714-130799",
+        "zymc": "自动化",
+        "pjf": "444"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "127579-128669",
+        "zymc": "工程造价",
+        "pjf": "446"
+      }
+    ],
+    "total": 4,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180155430
+}

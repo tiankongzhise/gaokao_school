@@ -1,0 +1,81 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "10",
+        "pjmc": "10425-10771",
+        "zymc": "地球物理学",
+        "pjf": "612"
+      },
+      {
+        "zydm": null,
+        "lqrs": "12",
+        "pjmc": "9753-10060",
+        "zymc": "采矿工程",
+        "pjf": "614"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "8561-8865",
+        "zymc": "应用物理学",
+        "pjf": "618"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "8012-8280",
+        "zymc": "信息管理与信息系统",
+        "pjf": "620"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "5296-5496",
+        "zymc": "通信工程",
+        "pjf": "631"
+      },
+      {
+        "zydm": null,
+        "lqrs": "7",
+        "pjmc": "10772-11134",
+        "zymc": "土木工程",
+        "pjf": "611"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "10061-10424",
+        "zymc": "城市地下空间工程",
+        "pjf": "613"
+      },
+      {
+        "zydm": null,
+        "lqrs": "7",
+        "pjmc": "9753-10060",
+        "zymc": "安全工程",
+        "pjf": "614"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "9462-9752",
+        "zymc": "消防工程",
+        "pjf": "615"
+      }
+    ],
+    "total": 9,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751178957321
+}

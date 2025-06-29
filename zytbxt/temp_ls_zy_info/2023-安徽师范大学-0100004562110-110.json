@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "31030-31612",
+        "zymc": "生物科学(师范)",
+        "pjf": "566"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "40886-41536",
+        "zymc": "生物技术",
+        "pjf": "550"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "38903-39598",
+        "zymc": "生态学",
+        "pjf": "553"
+      }
+    ],
+    "total": 3,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751182425813
+}

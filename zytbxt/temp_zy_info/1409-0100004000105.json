@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "健康服务与管理",
+        "sfks": false,
+        "jhrs": 2,
+        "yxdm": "10809",
+        "zydm": "120410",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0100004000105",
+        "zyxh": null,
+        "bxdd": "山西省晋中市",
+        "bz": "不招色盲色弱且不招单色识别不全者",
+        "zydh": "011",
+        "yxdh": "1409",
+        "wyyzdm": "不限",
+        "sfbz": "4860",
+        "kskmyq": "首选物理，再选不限"
+      }
+    ],
+    "total": 1,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751165236809
+}

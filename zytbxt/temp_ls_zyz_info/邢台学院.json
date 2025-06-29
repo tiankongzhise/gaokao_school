@@ -1,0 +1,47 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "sf985": "0",
+        "ssmc": "河北省",
+        "yxNfZyzVoList": [
+          {
+            "zyzbh": "Y07",
+            "zyzmc": "第Y07组(艺术专业(不组织专业考试))",
+            "zyzdm": "0100004000Y07",
+            "lqrs": "1",
+            "nf": "2024",
+            "zgf": "461",
+            "zdmc": "138140",
+            "zymcStr": "戏剧影视文学",
+            "zdf": "461",
+            "pjf": "461"
+          }
+        ],
+        "djsdm": "130500000000",
+        "yxnfList": null,
+        "yxmc": "邢台学院",
+        "yxdm": "10104",
+        "djsmc": "邢台市",
+        "sfsyl": "",
+        "yxjbzdm": "1",
+        "yxdh": "1323",
+        "sf211": "0",
+        "jhsxdm": "3",
+        "ssdm": "130000000000"
+      }
+    ],
+    "total": 1,
+    "size": 10,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751175806988
+}

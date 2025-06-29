@@ -1,0 +1,43 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "sf985": null,
+        "zyzmc": "第102组",
+        "zysl": "3",
+        "tbrcdm": null,
+        "djsdm": null,
+        "pcdm": null,
+        "zydz": null,
+        "yxmc": null,
+        "jhrs": "6",
+        "yxdm": null,
+        "jhlbdm": null,
+        "zyzbh": "102",
+        "sfysc": false,
+        "zyzdm": "0100004000102",
+        "sfyjtjzycgk": null,
+        "sfsyl": null,
+        "kldm": null,
+        "jhxzdm": null,
+        "yxdh": "4187",
+        "sfgb": null,
+        "sf211": null,
+        "kskmyq": "首选物理，再选不限",
+        "ssdm": null
+      }
+    ],
+    "total": 1,
+    "size": 10000,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751161175314
+}

@@ -1,0 +1,32 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "48834-49625",
+        "zymc": "生物信息学",
+        "pjf": "525"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "49626-50425",
+        "zymc": "生物医学工程",
+        "pjf": "524"
+      }
+    ],
+    "total": 2,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751181413358
+}

@@ -1,0 +1,56 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "信息管理与信息系统(商务智能)",
+        "sfks": false,
+        "jhrs": 1,
+        "yxdm": "10030",
+        "zydm": "120102",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0100004000105",
+        "zyxh": null,
+        "bxdd": "北京市市辖区",
+        "bz": null,
+        "zydh": "045",
+        "yxdh": "1117",
+        "wyyzdm": "不限",
+        "sfbz": "5000",
+        "kskmyq": "首选物理，再选不限"
+      },
+      {
+        "skkmyq": "不限",
+        "zymc": "大数据管理与应用",
+        "sfks": false,
+        "jhrs": 2,
+        "yxdm": "10030",
+        "zydm": "120108",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0100004000105",
+        "zyxh": null,
+        "bxdd": "北京市市辖区",
+        "bz": null,
+        "zydh": "046",
+        "yxdh": "1117",
+        "wyyzdm": "不限",
+        "sfbz": "5000",
+        "kskmyq": "首选物理，再选不限"
+      }
+    ],
+    "total": 2,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751164258147
+}

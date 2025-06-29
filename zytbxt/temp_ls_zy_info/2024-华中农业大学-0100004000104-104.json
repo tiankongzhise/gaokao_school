@@ -1,0 +1,88 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "8",
+        "pjmc": "24125-24652",
+        "zymc": "经济学类",
+        "pjf": "577"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "25139-25681",
+        "zymc": "经济统计学",
+        "pjf": "575"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "18706-19164",
+        "zymc": "社会学类",
+        "pjf": "588"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "14993-15383",
+        "zymc": "大数据管理与应用",
+        "pjf": "597"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "26732-27280",
+        "zymc": "工商管理类",
+        "pjf": "572"
+      },
+      {
+        "zydm": null,
+        "lqrs": "7",
+        "pjmc": "27856-28408",
+        "zymc": "公共管理类",
+        "pjf": "570"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "24125-24652",
+        "zymc": "广告学",
+        "pjf": "577"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "21516-22012",
+        "zymc": "风景园林",
+        "pjf": "582"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "22013-22516",
+        "zymc": "管理科学与工程类",
+        "pjf": "581"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "25682-26214",
+        "zymc": "外国语言文学类",
+        "pjf": "574"
+      }
+    ],
+    "total": 10,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180392764
+}

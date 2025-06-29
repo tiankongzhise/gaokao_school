@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "18706-19164",
+        "zymc": "工科试验班(先进材料)",
+        "pjf": "588"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "17827-18279",
+        "zymc": "理科试验班(绿色化学)",
+        "pjf": "590"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "18280-18705",
+        "zymc": "工科试验班(绿色化工与生物医药)",
+        "pjf": "589"
+      }
+    ],
+    "total": 3,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751179987233
+}

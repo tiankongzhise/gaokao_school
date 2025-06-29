@@ -1,0 +1,123 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "75404-76391",
+        "zymc": "数学与应用数学",
+        "pjf": "495"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "61460-62327",
+        "zymc": "会计学",
+        "pjf": "510"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "75404-76391",
+        "zymc": "人力资源管理",
+        "pjf": "495"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "60559-61459",
+        "zymc": "审计学",
+        "pjf": "511"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "73423-74392",
+        "zymc": "资产评估",
+        "pjf": "497"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "76392-77369",
+        "zymc": "公共事业管理",
+        "pjf": "494"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "75404-76391",
+        "zymc": "跨境电子商务",
+        "pjf": "495"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "70545-71490",
+        "zymc": "经济学",
+        "pjf": "500"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "72475-73422",
+        "zymc": "经济统计学",
+        "pjf": "498"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "66835-67778",
+        "zymc": "税收学",
+        "pjf": "504"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "64112-65011",
+        "zymc": "金融学",
+        "pjf": "507"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "70545-71490",
+        "zymc": "金融工程",
+        "pjf": "500"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "65894-66834",
+        "zymc": "法学",
+        "pjf": "505"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "66835-67778",
+        "zymc": "计算机科学与技术",
+        "pjf": "504"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "69597-70544",
+        "zymc": "数据科学与大数据技术",
+        "pjf": "501"
+      }
+    ],
+    "total": 15,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751181302698
+}

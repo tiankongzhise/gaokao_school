@@ -1,0 +1,67 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "60201-61097",
+        "zymc": "经济统计学",
+        "pjf": "526"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "59314-60200",
+        "zymc": "法学",
+        "pjf": "527"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "53982-54842",
+        "zymc": "信息管理与信息系统",
+        "pjf": "533"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "63990-64971",
+        "zymc": "工程管理",
+        "pjf": "522"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "63990-64971",
+        "zymc": "公共事业管理",
+        "pjf": "522"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "66927-67972",
+        "zymc": "物流工程",
+        "pjf": "519"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "65954-66926",
+        "zymc": "建筑学",
+        "pjf": "520"
+      }
+    ],
+    "total": 7,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180472296
+}

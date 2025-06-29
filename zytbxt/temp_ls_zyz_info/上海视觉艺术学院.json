@@ -1,0 +1,71 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "sf985": "0",
+        "ssmc": "上海市",
+        "yxNfZyzVoList": [
+          {
+            "zyzbh": "004",
+            "zyzmc": "第4组",
+            "zyzdm": "0100004000004",
+            "lqrs": "2",
+            "nf": "2022",
+            "zgf": "485",
+            "zdmc": "114186",
+            "zymcStr": "文化产业管理",
+            "zdf": "459",
+            "pjf": "472"
+          },
+          {
+            "zyzbh": "104",
+            "zyzmc": "第104组",
+            "zyzdm": "0100004000104",
+            "lqrs": "2",
+            "nf": "2023",
+            "zgf": "470",
+            "zdmc": "110959",
+            "zymcStr": "文化产业管理",
+            "zdf": "469",
+            "pjf": "469"
+          },
+          {
+            "zyzbh": "106",
+            "zyzmc": "第106组",
+            "zyzdm": "0100004000106",
+            "lqrs": "2",
+            "nf": "2024",
+            "zgf": "468",
+            "zdmc": "142273",
+            "zymcStr": "文化产业管理",
+            "zdf": "458",
+            "pjf": "463"
+          }
+        ],
+        "djsdm": "310100000000",
+        "yxnfList": null,
+        "yxmc": "上海视觉艺术学院",
+        "yxdm": "13632",
+        "djsmc": "市辖区",
+        "sfsyl": "",
+        "yxjbzdm": "2",
+        "yxdh": "3138",
+        "sf211": "0",
+        "jhsxdm": "3",
+        "ssdm": "310000000000"
+      }
+    ],
+    "total": 1,
+    "size": 10,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751176023663
+}

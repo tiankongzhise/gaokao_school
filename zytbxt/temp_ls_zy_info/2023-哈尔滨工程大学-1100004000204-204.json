@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "15927-16325",
+        "zymc": "水声工程(中外合作办学)",
+        "pjf": "597"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "17200-17605",
+        "zymc": "自动化(中外合作办学)",
+        "pjf": "594"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "16788-17199",
+        "zymc": "船舶与海洋工程(中外合作办学)",
+        "pjf": "595"
+      }
+    ],
+    "total": 3,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751181497050
+}

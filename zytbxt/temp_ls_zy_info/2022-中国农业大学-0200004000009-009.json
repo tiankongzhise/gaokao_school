@@ -1,0 +1,53 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "14296-14722",
+        "zymc": "园林",
+        "pjf": "582"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "13119-13478",
+        "zymc": "机械类",
+        "pjf": "585"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "12309-12709",
+        "zymc": "电子信息类",
+        "pjf": "587"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "13479-13886",
+        "zymc": "水利类",
+        "pjf": "584"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "13479-13886",
+        "zymc": "工商管理类",
+        "pjf": "584"
+      }
+    ],
+    "total": 5,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751179133247
+}

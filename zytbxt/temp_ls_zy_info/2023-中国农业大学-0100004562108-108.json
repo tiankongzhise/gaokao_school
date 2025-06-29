@@ -1,0 +1,32 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "11460-11792",
+        "zymc": "设施农业科学与工程",
+        "pjf": "609"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "13228-13603",
+        "zymc": "水产养殖学",
+        "pjf": "604"
+      }
+    ],
+    "total": 2,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751179140625
+}

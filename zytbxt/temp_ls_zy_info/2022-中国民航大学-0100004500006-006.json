@@ -1,0 +1,32 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "30399-31011",
+        "zymc": "材料化学",
+        "pjf": "551"
+      },
+      {
+        "zydm": null,
+        "lqrs": "11",
+        "pjmc": "29154-29776",
+        "zymc": "交通运输(空中交通管制)",
+        "pjf": "553"
+      }
+    ],
+    "total": 2,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751179240366
+}

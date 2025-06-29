@@ -1,0 +1,137 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "11575-11950",
+        "zymc": "数学类",
+        "pjf": "589"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "12710-13118",
+        "zymc": "物理学",
+        "pjf": "586"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "11951-12308",
+        "zymc": "管理科学与工程类",
+        "pjf": "588"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "11575-11950",
+        "zymc": "大气科学",
+        "pjf": "589"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "11951-12308",
+        "zymc": "地球物理学(国家拔尖计划)",
+        "pjf": "588"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "12710-13118",
+        "zymc": "地质学类",
+        "pjf": "586"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "9830-10140",
+        "zymc": "地质学类(国家拔尖计划，国家理科基地班)",
+        "pjf": "594"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "10494-10861",
+        "zymc": "地质学类(菁英班)",
+        "pjf": "592"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "11206-11574",
+        "zymc": "材料类",
+        "pjf": "590"
+      },
+      {
+        "zydm": null,
+        "lqrs": "7",
+        "pjmc": "11951-12308",
+        "zymc": "地质类(资源能源)",
+        "pjf": "588"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "11951-12308",
+        "zymc": "英语",
+        "pjf": "588"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "10141-10493",
+        "zymc": "电子信息类(未来技术学院)",
+        "pjf": "593"
+      },
+      {
+        "zydm": null,
+        "lqrs": "24",
+        "pjmc": "12710-13118",
+        "zymc": "地质类",
+        "pjf": "586"
+      },
+      {
+        "zydm": null,
+        "lqrs": "12",
+        "pjmc": "12309-12709",
+        "zymc": "自动化类",
+        "pjf": "587"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "12710-13118",
+        "zymc": "测绘类(测绘与信息类)",
+        "pjf": "586"
+      },
+      {
+        "zydm": null,
+        "lqrs": "12",
+        "pjmc": "9241-9540",
+        "zymc": "计算机类",
+        "pjf": "596"
+      },
+      {
+        "zydm": null,
+        "lqrs": "15",
+        "pjmc": "11575-11950",
+        "zymc": "电子信息类",
+        "pjf": "589"
+      }
+    ],
+    "total": 17,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751179194273
+}

@@ -1,0 +1,109 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "16012-16439",
+        "zymc": "数学与应用数学",
+        "pjf": "578"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "16440-16905",
+        "zymc": "气象技术与工程",
+        "pjf": "577"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "16440-16905",
+        "zymc": "应用统计学",
+        "pjf": "577"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "16440-16905",
+        "zymc": "机械电子工程",
+        "pjf": "577"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "15582-16011",
+        "zymc": "电气工程及其自动化",
+        "pjf": "579"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "14723-15143",
+        "zymc": "电子信息类",
+        "pjf": "581"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "15582-16011",
+        "zymc": "机器人工程",
+        "pjf": "579"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "12710-13118",
+        "zymc": "计算机类",
+        "pjf": "586"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "16440-16905",
+        "zymc": "水文与水资源工程",
+        "pjf": "577"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "16440-16905",
+        "zymc": "环境科学与工程类",
+        "pjf": "577"
+      },
+      {
+        "zydm": null,
+        "lqrs": "18",
+        "pjmc": "13887-14295",
+        "zymc": "大气科学类",
+        "pjf": "583"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "14296-14722",
+        "zymc": "应用气象学",
+        "pjf": "582"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "14723-15143",
+        "zymc": "数据科学与大数据技术(嵌入式培养)",
+        "pjf": "581"
+      }
+    ],
+    "total": 13,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180576391
+}

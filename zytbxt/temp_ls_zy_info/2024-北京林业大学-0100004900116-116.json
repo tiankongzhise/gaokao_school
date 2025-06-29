@@ -1,0 +1,32 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "16589-16978",
+        "zymc": "自然地理与资源环境",
+        "pjf": "593"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "12427-12788",
+        "zymc": "地理信息科学",
+        "pjf": "604"
+      }
+    ],
+    "total": 2,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180102174
+}

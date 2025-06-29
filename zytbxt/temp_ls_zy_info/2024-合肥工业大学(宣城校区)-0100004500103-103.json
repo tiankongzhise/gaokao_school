@@ -1,0 +1,81 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "13",
+        "pjmc": "13450-13821",
+        "zymc": "机械工程",
+        "pjf": "601"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "14197-14586",
+        "zymc": "材料成型及控制工程",
+        "pjf": "599"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "15384-15795",
+        "zymc": "地球信息科学与技术",
+        "pjf": "596"
+      },
+      {
+        "zydm": null,
+        "lqrs": "10",
+        "pjmc": "14993-15383",
+        "zymc": "过程装备与控制工程",
+        "pjf": "597"
+      },
+      {
+        "zydm": null,
+        "lqrs": "10",
+        "pjmc": "14197-14586",
+        "zymc": "新能源材料与器件",
+        "pjf": "599"
+      },
+      {
+        "zydm": null,
+        "lqrs": "14",
+        "pjmc": "12427-12788",
+        "zymc": "电气工程与智能控制",
+        "pjf": "604"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "15796-16203",
+        "zymc": "生物技术",
+        "pjf": "595"
+      },
+      {
+        "zydm": null,
+        "lqrs": "12",
+        "pjmc": "11038-11375",
+        "zymc": "计算机科学与技术",
+        "pjf": "608"
+      },
+      {
+        "zydm": null,
+        "lqrs": "16",
+        "pjmc": "12789-13129",
+        "zymc": "智能科学与技术",
+        "pjf": "603"
+      }
+    ],
+    "total": 9,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751181097607
+}

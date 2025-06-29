@@ -1,0 +1,71 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "sf985": "0",
+        "ssmc": "湖北省",
+        "yxNfZyzVoList": [
+          {
+            "zyzbh": "002",
+            "zyzmc": "第2组",
+            "zyzdm": "0100004000002",
+            "lqrs": "4",
+            "nf": "2022",
+            "zgf": "462",
+            "zdmc": "124183",
+            "zymcStr": "会计学(注册会计师)",
+            "zdf": "450",
+            "pjf": "454"
+          },
+          {
+            "zyzbh": "102",
+            "zyzmc": "第102组",
+            "zyzdm": "0100004000102",
+            "lqrs": "4",
+            "nf": "2023",
+            "zgf": "461",
+            "zdmc": "128528",
+            "zymcStr": "会计学(注册会计师)",
+            "zdf": "452",
+            "pjf": "456"
+          },
+          {
+            "zyzbh": "102",
+            "zyzmc": "第102组",
+            "zyzdm": "0100004000102",
+            "lqrs": "4",
+            "nf": "2024",
+            "zgf": "471",
+            "zdmc": "128490",
+            "zymcStr": "会计学(注册会计师)",
+            "zdf": "468",
+            "pjf": "469"
+          }
+        ],
+        "djsdm": "420100000000",
+        "yxnfList": null,
+        "yxmc": "湖北经济学院法商学院",
+        "yxdm": "13251",
+        "djsmc": "武汉市",
+        "sfsyl": "",
+        "yxjbzdm": "5",
+        "yxdh": "4833",
+        "sf211": "0",
+        "jhsxdm": "3",
+        "ssdm": "420000000000"
+      }
+    ],
+    "total": 1,
+    "size": 10,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751176801227
+}

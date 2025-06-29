@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "31613-32192",
+        "zymc": "经济学",
+        "pjf": "565"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "31030-31612",
+        "zymc": "金融学",
+        "pjf": "566"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "32788-33357",
+        "zymc": "物流管理",
+        "pjf": "563"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "22540-22982",
+        "zymc": "软件工程",
+        "pjf": "582"
+      }
+    ],
+    "total": 4,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751179813970
+}

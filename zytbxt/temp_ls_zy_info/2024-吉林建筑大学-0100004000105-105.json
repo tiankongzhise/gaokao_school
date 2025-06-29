@@ -1,0 +1,60 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "111621-112948",
+        "zymc": "经济统计学",
+        "pjf": "480"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "115563-116805",
+        "zymc": "工程造价",
+        "pjf": "477"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "110359-111620",
+        "zymc": "物流管理",
+        "pjf": "481"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "109060-110358",
+        "zymc": "工程管理",
+        "pjf": "482"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "93048-94240",
+        "zymc": "建筑学",
+        "pjf": "495"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "115563-116805",
+        "zymc": "城乡规划",
+        "pjf": "477"
+      }
+    ],
+    "total": 6,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751181291002
+}

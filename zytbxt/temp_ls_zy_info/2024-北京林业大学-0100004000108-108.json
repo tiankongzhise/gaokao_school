@@ -1,0 +1,67 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "23062-23584",
+        "zymc": "农林经济管理(梁希实验班)",
+        "pjf": "579"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "13822-14196",
+        "zymc": "金融学",
+        "pjf": "600"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "13130-13449",
+        "zymc": "法学",
+        "pjf": "602"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "22517-23061",
+        "zymc": "工商管理类",
+        "pjf": "580"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "23585-24124",
+        "zymc": "日语(日英复语)",
+        "pjf": "578"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "26732-27280",
+        "zymc": "英语",
+        "pjf": "572"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "17827-18279",
+        "zymc": "商务英语",
+        "pjf": "590"
+      }
+    ],
+    "total": 7,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180095000
+}

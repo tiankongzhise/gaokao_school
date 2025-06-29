@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "102710-104022",
+        "zymc": "计算机科学与技术",
+        "pjf": "487"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "105284-106564",
+        "zymc": "数字媒体技术",
+        "pjf": "485"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "106565-107837",
+        "zymc": "虚拟现实技术",
+        "pjf": "484"
+      }
+    ],
+    "total": 3,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180981589
+}

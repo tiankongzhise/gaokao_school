@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "农林经济管理(中外合作办学)",
+        "sfks": false,
+        "jhrs": 2,
+        "yxdm": "10676",
+        "zydm": "120301H",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "1100004000208",
+        "zyxh": null,
+        "bxdd": "云南省昆明市",
+        "bz": "与新西兰林肯大学合作办学(采用3+1培养模式) 。本专业外教授课语言为英语，外语语种为非英语的考生谨慎报考",
+        "zydh": "066",
+        "yxdh": "5306",
+        "wyyzdm": "不限",
+        "sfbz": "30000",
+        "kskmyq": "首选物理，再选不限"
+      }
+    ],
+    "total": 1,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751164089824
+}

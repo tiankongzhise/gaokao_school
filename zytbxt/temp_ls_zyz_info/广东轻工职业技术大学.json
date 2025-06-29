@@ -1,0 +1,107 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "sf985": "0",
+        "ssmc": "广东省",
+        "yxNfZyzVoList": [
+          {
+            "zyzbh": "002",
+            "zyzmc": "第2组",
+            "zyzdm": "0100004000002",
+            "lqrs": "5",
+            "nf": "2022",
+            "zgf": "447",
+            "zdmc": null,
+            "zymcStr": "计算机类",
+            "zdf": "435",
+            "pjf": "438"
+          },
+          {
+            "zyzbh": "003",
+            "zyzmc": "第3组",
+            "zyzdm": "0100004000003",
+            "lqrs": "7",
+            "nf": "2022",
+            "zgf": "435",
+            "zdmc": null,
+            "zymcStr": "机械设计与制造、智能产品开发与应用、现代通信技术",
+            "zdf": "431",
+            "pjf": "432"
+          },
+          {
+            "zyzbh": "004",
+            "zyzmc": "第4组",
+            "zyzdm": "0100004000004",
+            "lqrs": "8",
+            "nf": "2022",
+            "zgf": "435",
+            "zdmc": null,
+            "zymcStr": "精细化工技术、分析检验技术、环境工程技术、园林工程技术",
+            "zdf": "429",
+            "pjf": "430"
+          },
+          {
+            "zyzbh": "005",
+            "zyzmc": "第5组",
+            "zyzdm": "0100004000005",
+            "lqrs": "5",
+            "nf": "2022",
+            "zgf": "436",
+            "zdmc": null,
+            "zymcStr": "化妆品技术、现代造纸技术",
+            "zdf": "427",
+            "pjf": "431"
+          },
+          {
+            "zyzbh": "102",
+            "zyzmc": "第102组",
+            "zyzdm": "0100004000102",
+            "lqrs": "4",
+            "nf": "2024",
+            "zgf": "463",
+            "zdmc": null,
+            "zymcStr": "机械设计与制造、现代通信技术",
+            "zdf": "461",
+            "pjf": "461"
+          },
+          {
+            "zyzbh": "103",
+            "zyzmc": "第103组",
+            "zyzdm": "0100004000103",
+            "lqrs": "11",
+            "nf": "2024",
+            "zgf": "463",
+            "zdmc": null,
+            "zymcStr": "精细化工技术、分析检验技术、高分子材料智能制造技术、现代造纸技术、医用材料与应用",
+            "zdf": "449",
+            "pjf": "455"
+          }
+        ],
+        "djsdm": "440100000000",
+        "yxnfList": null,
+        "yxmc": "广东轻工职业技术大学",
+        "yxdm": "10833",
+        "djsmc": "广州市",
+        "sfsyl": "",
+        "yxjbzdm": "1",
+        "yxdh": "4444",
+        "sf211": "0",
+        "jhsxdm": "3",
+        "ssdm": "440000000000"
+      }
+    ],
+    "total": 1,
+    "size": 10,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751176699254
+}

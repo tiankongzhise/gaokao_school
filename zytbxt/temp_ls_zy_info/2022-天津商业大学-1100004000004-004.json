@@ -1,0 +1,32 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "73423-74392",
+        "zymc": "财务管理(中外合作办学)",
+        "pjf": "497"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "87462-88451",
+        "zymc": "酒店管理(中外合作办学)",
+        "pjf": "483"
+      }
+    ],
+    "total": 2,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751182069881
+}

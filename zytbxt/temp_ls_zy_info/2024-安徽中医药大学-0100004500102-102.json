@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "77262-78340",
+        "zymc": "制药工程",
+        "pjf": "509"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "70966-72035",
+        "zymc": "中医骨伤科学",
+        "pjf": "515"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "76266-77261",
+        "zymc": "药物制剂",
+        "pjf": "510"
+      },
+      {
+        "zydm": null,
+        "lqrs": "8",
+        "pjmc": "82705-83835",
+        "zymc": "护理学",
+        "pjf": "504"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "52228-53086",
+        "zymc": "中医学",
+        "pjf": "535"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "63034-63989",
+        "zymc": "针灸推拿学",
+        "pjf": "523"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "66927-67972",
+        "zymc": "中西医临床医学",
+        "pjf": "519"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "67973-68980",
+        "zymc": "药学",
+        "pjf": "518"
+      }
+    ],
+    "total": 8,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751182375567
+}

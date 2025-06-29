@@ -1,0 +1,95 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "sf985": "0",
+        "ssmc": "辽宁省",
+        "yxNfZyzVoList": [
+          {
+            "zyzbh": "002",
+            "zyzmc": "第2组",
+            "zyzdm": "0100004000002",
+            "lqrs": "9",
+            "nf": "2022",
+            "zgf": "577",
+            "zdmc": "28375",
+            "zymcStr": "英语、日语、翻译",
+            "zdf": "555",
+            "pjf": "561"
+          },
+          {
+            "zyzbh": "104",
+            "zyzmc": "第104组",
+            "zyzdm": "0100004000104",
+            "lqrs": "4",
+            "nf": "2023",
+            "zgf": "558",
+            "zdmc": "101294",
+            "zymcStr": "日语",
+            "zdf": "479",
+            "pjf": "525"
+          },
+          {
+            "zyzbh": "105",
+            "zyzmc": "第105组",
+            "zyzdm": "0100004000105",
+            "lqrs": "5",
+            "nf": "2023",
+            "zgf": "570",
+            "zdmc": "46974",
+            "zymcStr": "英语、翻译",
+            "zdf": "542",
+            "pjf": "555"
+          },
+          {
+            "zyzbh": "104",
+            "zyzmc": "第104组",
+            "zyzdm": "0100004000104",
+            "lqrs": "5",
+            "nf": "2024",
+            "zgf": "555",
+            "zdmc": "77866",
+            "zymcStr": "日语",
+            "zdf": "509",
+            "pjf": "523"
+          },
+          {
+            "zyzbh": "105",
+            "zyzmc": "第105组",
+            "zyzdm": "0100004000105",
+            "lqrs": "9",
+            "nf": "2024",
+            "zgf": "566",
+            "zdmc": "70929",
+            "zymcStr": "英语、翻译",
+            "zdf": "516",
+            "pjf": "536"
+          }
+        ],
+        "djsdm": "210200000000",
+        "yxnfList": null,
+        "yxmc": "大连外国语大学",
+        "yxdm": "10172",
+        "djsmc": "大连市",
+        "sfsyl": "",
+        "yxjbzdm": "1",
+        "yxdh": "2132",
+        "sf211": "0",
+        "jhsxdm": "3",
+        "ssdm": "210000000000"
+      }
+    ],
+    "total": 1,
+    "size": 10,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751175898553
+}

@@ -1,0 +1,81 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "18280-18705",
+        "zymc": "法学(法务会计)",
+        "pjf": "589"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "20061-20543",
+        "zymc": "经济学",
+        "pjf": "585"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "19612-20060",
+        "zymc": "经济统计学",
+        "pjf": "586"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "19612-20060",
+        "zymc": "金融学",
+        "pjf": "586"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "15384-15795",
+        "zymc": "金融审计",
+        "pjf": "596"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "19165-19611",
+        "zymc": "国际经济与贸易",
+        "pjf": "587"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "16204-16588",
+        "zymc": "内部审计",
+        "pjf": "594"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "16589-16978",
+        "zymc": "会计学",
+        "pjf": "593"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "13822-14196",
+        "zymc": "审计学",
+        "pjf": "600"
+      }
+    ],
+    "total": 9,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180624852
+}

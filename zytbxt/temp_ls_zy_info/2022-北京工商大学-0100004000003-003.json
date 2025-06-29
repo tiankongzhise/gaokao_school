@@ -1,0 +1,60 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "24463-25000",
+        "zymc": "数字经济",
+        "pjf": "561"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "22774-23303",
+        "zymc": "金融科技",
+        "pjf": "564"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "17399-17815",
+        "zymc": "金融学类",
+        "pjf": "575"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "22774-23303",
+        "zymc": "经济与贸易类",
+        "pjf": "564"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "24463-25000",
+        "zymc": "工商管理类",
+        "pjf": "561"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "19245-19693",
+        "zymc": "会计学(注册会计师)",
+        "pjf": "571"
+      }
+    ],
+    "total": 6,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180043895
+}

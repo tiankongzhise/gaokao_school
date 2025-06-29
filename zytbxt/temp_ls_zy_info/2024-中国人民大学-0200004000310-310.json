@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "1660-1750",
+        "zymc": "社会科学试验班(大数据技术与农林经管双主学位项目)",
+        "pjf": "655"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "1959-2078",
+        "zymc": "社会科学试验班(数字社会与数据治理双主学位项目)",
+        "pjf": "652"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "2731-2862",
+        "zymc": "工商管理类(数智化方向，含双学位项目)",
+        "pjf": "645"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "2981-3126",
+        "zymc": "社会科学试验班(管理学科类)",
+        "pjf": "643"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "2863-2980",
+        "zymc": "人力资源管理(经管交叉试验班，含法学与劳动治理实验班)",
+        "pjf": "644"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "2512-2610",
+        "zymc": "新闻传播学类",
+        "pjf": "647"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "1849-1958",
+        "zymc": "经济学类",
+        "pjf": "653"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "2981-3126",
+        "zymc": "应用心理学",
+        "pjf": "643"
+      }
+    ],
+    "total": 8,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751179099512
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "21",
+        "pjmc": "3295-3474",
+        "zymc": "工科试验班(电气信息类)",
+        "pjf": "621"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "3295-3474",
+        "zymc": "光电信息科学与工程(与南开大学合办)",
+        "pjf": "621"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "2537-2685",
+        "zymc": "建筑类",
+        "pjf": "626"
+      },
+      {
+        "zydm": null,
+        "lqrs": "28",
+        "pjmc": "3977-4182",
+        "zymc": "工科试验班(智能制造与建造)",
+        "pjf": "617"
+      }
+    ],
+    "total": 4,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751182100351
+}

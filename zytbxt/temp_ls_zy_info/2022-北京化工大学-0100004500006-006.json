@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "29",
+        "pjmc": "11951-12308",
+        "zymc": "工科试验班(先进材料与绿色化学)",
+        "pjf": "588"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "9830-10140",
+        "zymc": "工科试验班(宏德书院)",
+        "pjf": "594"
+      },
+      {
+        "zydm": null,
+        "lqrs": "16",
+        "pjmc": "12710-13118",
+        "zymc": "工科试验班(绿色化工与生物医药)",
+        "pjf": "586"
+      },
+      {
+        "zydm": null,
+        "lqrs": "11",
+        "pjmc": "11951-12308",
+        "zymc": "理科试验班(数学、物理电子与管理)",
+        "pjf": "588"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "9541-9829",
+        "zymc": "化学(基础拔尖)",
+        "pjf": "595"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "11951-12308",
+        "zymc": "生物工程(生工、大数据双学士学位)",
+        "pjf": "588"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "9830-10140",
+        "zymc": "化学工程与工艺(化工、大数据双学士学位)",
+        "pjf": "594"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "10141-10493",
+        "zymc": "化学(化学、生工双学士学位)",
+        "pjf": "593"
+      }
+    ],
+    "total": 8,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751179974711
+}

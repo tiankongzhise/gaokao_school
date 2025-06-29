@@ -1,0 +1,81 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "377-412",
+        "zymc": "经济管理试验班(含双学士学位项目)",
+        "pjf": "676"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "344-376",
+        "zymc": "金融学(含金融学、计算机双学士学位项目)",
+        "pjf": "677"
+      },
+      {
+        "zydm": null,
+        "lqrs": "42",
+        "pjmc": "247-277",
+        "zymc": "工科试验班类(信息类)",
+        "pjf": "680"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "344-376",
+        "zymc": "船舶与海洋工程(双学士学位班)",
+        "pjf": "677"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "307-343",
+        "zymc": "理科试验班类(含致远，吴文俊、李政道班，双学士学位项目)",
+        "pjf": "678"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "413-446",
+        "zymc": "材料科学与工程(徐祖耀荣誉班)",
+        "pjf": "675"
+      },
+      {
+        "zydm": null,
+        "lqrs": "29",
+        "pjmc": "413-446",
+        "zymc": "工科试验班类(机电类)",
+        "pjf": "675"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "214-246",
+        "zymc": "机械类(钱学森工程科学试点班，含双学士学位项目)",
+        "pjf": "681"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "214-246",
+        "zymc": "电子信息类(中外合作办学)(交大密西根学院)",
+        "pjf": "681"
+      }
+    ],
+    "total": 9,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751178528015
+}

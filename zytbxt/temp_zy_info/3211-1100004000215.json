@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "大数据管理与应用(中外合作办学)",
+        "sfks": false,
+        "jhrs": 3,
+        "yxdm": "10295",
+        "zydm": "120108H",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "1100004000215",
+        "zyxh": null,
+        "bxdd": "江苏省无锡市",
+        "bz": "第四学年赴澳大利亚莫纳什大学学习，国外学习阶段学费按协议执行",
+        "zydh": "059",
+        "yxdh": "3211",
+        "wyyzdm": "不限",
+        "sfbz": "26400",
+        "kskmyq": "首选物理，再选不限"
+      }
+    ],
+    "total": 1,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751165838795
+}

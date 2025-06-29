@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "138011-139102",
+        "zymc": "标准化工程",
+        "pjf": "443"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "143378-144418",
+        "zymc": "智能车辆工程",
+        "pjf": "438"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "153118-154168",
+        "zymc": "数据科学与大数据技术",
+        "pjf": "429"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "145524-146611",
+        "zymc": "土木工程",
+        "pjf": "436"
+      }
+    ],
+    "total": 4,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180952127
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "86078-87224",
+        "zymc": "土木工程",
+        "pjf": "501"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "104023-105283",
+        "zymc": "化学",
+        "pjf": "486"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "105284-106564",
+        "zymc": "药物分析",
+        "pjf": "485"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "94241-95427",
+        "zymc": "数据科学与大数据技术",
+        "pjf": "494"
+      }
+    ],
+    "total": 4,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751179597356
+}

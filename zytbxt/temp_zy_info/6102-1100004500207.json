@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "文物保护技术(中外合作办学)",
+        "sfks": false,
+        "jhrs": 2,
+        "yxdm": "10697",
+        "zydm": "060105H",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "1100004500207",
+        "zyxh": null,
+        "bxdd": "陕西省西安市",
+        "bz": null,
+        "zydh": "029",
+        "yxdh": "6102",
+        "wyyzdm": "不限",
+        "sfbz": "48000",
+        "kskmyq": "首选物理，再选限化学"
+      }
+    ],
+    "total": 1,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751166969019
+}

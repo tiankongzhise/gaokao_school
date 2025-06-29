@@ -1,0 +1,81 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "26",
+        "pjmc": "14749-15149",
+        "zymc": "机械工程",
+        "pjf": "600"
+      },
+      {
+        "zydm": null,
+        "lqrs": "7",
+        "pjmc": "12861-13227",
+        "zymc": "电子信息科学与技术",
+        "pjf": "605"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "13990-14370",
+        "zymc": "新能源材料与器件",
+        "pjf": "602"
+      },
+      {
+        "zydm": null,
+        "lqrs": "13",
+        "pjmc": "12520-12860",
+        "zymc": "电气工程与智能控制",
+        "pjf": "606"
+      },
+      {
+        "zydm": null,
+        "lqrs": "7",
+        "pjmc": "11460-11792",
+        "zymc": "计算机科学与技术",
+        "pjf": "609"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "12170-12519",
+        "zymc": "信息安全",
+        "pjf": "607"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "12520-12860",
+        "zymc": "智能科学与技术",
+        "pjf": "606"
+      },
+      {
+        "zydm": null,
+        "lqrs": "9",
+        "pjmc": "14371-14748",
+        "zymc": "城市地下空间工程",
+        "pjf": "601"
+      },
+      {
+        "zydm": null,
+        "lqrs": "8",
+        "pjmc": "15150-15507",
+        "zymc": "物流管理",
+        "pjf": "599"
+      }
+    ],
+    "total": 9,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751181093402
+}

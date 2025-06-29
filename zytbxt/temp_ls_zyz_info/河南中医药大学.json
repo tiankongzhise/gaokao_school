@@ -1,0 +1,95 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "sf985": "0",
+        "ssmc": "河南省",
+        "yxNfZyzVoList": [
+          {
+            "zyzbh": "002",
+            "zyzmc": "第2组",
+            "zyzdm": "0100004000002",
+            "lqrs": "11",
+            "nf": "2022",
+            "zgf": "501",
+            "zdmc": "114346",
+            "zymcStr": "外国语言文学类、公共管理类、护理学、针灸推拿学",
+            "zdf": "458",
+            "pjf": "480"
+          },
+          {
+            "zyzbh": "102",
+            "zyzmc": "第102组",
+            "zyzdm": "0100004000102",
+            "lqrs": "10",
+            "nf": "2023",
+            "zgf": "503",
+            "zdmc": "87791",
+            "zymcStr": "外国语言文学类、公共管理类、护理学、针灸推拿学",
+            "zdf": "493",
+            "pjf": "499"
+          },
+          {
+            "zyzbh": "103",
+            "zyzmc": "第103组",
+            "zyzdm": "0100004000103",
+            "lqrs": "2",
+            "nf": "2024",
+            "zgf": "496",
+            "zdmc": "95246",
+            "zymcStr": "外国语言文学类、公共管理类",
+            "zdf": "494",
+            "pjf": "495"
+          },
+          {
+            "zyzbh": "104",
+            "zyzmc": "第104组",
+            "zyzdm": "0100004500104",
+            "lqrs": "6",
+            "nf": "2024",
+            "zgf": "526",
+            "zdmc": "67057",
+            "zymcStr": "针灸推拿学",
+            "zdf": "519",
+            "pjf": "522"
+          },
+          {
+            "zyzbh": "105",
+            "zyzmc": "第105组",
+            "zyzdm": "0100004600105",
+            "lqrs": "3",
+            "nf": "2024",
+            "zgf": "517",
+            "zdmc": "75541",
+            "zymcStr": "护理学",
+            "zdf": "511",
+            "pjf": "513"
+          }
+        ],
+        "djsdm": "410100000000",
+        "yxnfList": null,
+        "yxmc": "河南中医药大学",
+        "yxdm": "10471",
+        "djsmc": "郑州市",
+        "sfsyl": "",
+        "yxjbzdm": "1",
+        "yxdh": "4116",
+        "sf211": "0",
+        "jhsxdm": "3",
+        "ssdm": "410000000000"
+      }
+    ],
+    "total": 1,
+    "size": 10,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751176552247
+}

@@ -1,0 +1,56 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "飞行器动力工程",
+        "sfks": false,
+        "jhrs": 3,
+        "yxdm": "11736",
+        "zydm": "082004",
+        "bxddbb": false,
+        "xzdm": "四年",
+        "zyzdm": "0100004500102",
+        "zyxh": null,
+        "bxdd": "阎良校区",
+        "bz": null,
+        "zydh": "002",
+        "yxdh": "6146",
+        "wyyzdm": "不限",
+        "sfbz": "6000",
+        "kskmyq": "首选物理，再选限化学"
+      },
+      {
+        "skkmyq": "不限",
+        "zymc": "飞行器质量与可靠性",
+        "sfks": false,
+        "jhrs": 2,
+        "yxdm": "11736",
+        "zydm": "082006",
+        "bxddbb": false,
+        "xzdm": "四年",
+        "zyzdm": "0100004500102",
+        "zyxh": null,
+        "bxdd": "阎良校区",
+        "bz": null,
+        "zydh": "003",
+        "yxdh": "6146",
+        "wyyzdm": "不限",
+        "sfbz": "6000",
+        "kskmyq": "首选物理，再选限化学"
+      }
+    ],
+    "total": 2,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751167135614
+}

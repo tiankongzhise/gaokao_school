@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "大数据管理与应用",
+        "sfks": false,
+        "jhrs": 7,
+        "yxdm": "10141",
+        "zydm": "120108",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0200004000305",
+        "zyxh": null,
+        "bxdd": "辽宁省大连市",
+        "bz": "含大数据管理与应用、信息管理与信息系统，上述两个专业分流任选。2025年与新加坡国立大学、新加坡南洋理工大学、英国布里斯托大学、德国亚琛工业大学有联合培养项目。",
+        "zydh": "032",
+        "yxdh": "2102",
+        "wyyzdm": "不限",
+        "sfbz": "6240",
+        "kskmyq": "首选物理，再选不限"
+      }
+    ],
+    "total": 1,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751164985369
+}

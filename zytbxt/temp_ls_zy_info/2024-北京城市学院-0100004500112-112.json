@@ -1,0 +1,88 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "153290-154624",
+        "zymc": "土木工程(智能设计与建造)",
+        "pjf": "449"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "151920-153289",
+        "zymc": "机械类",
+        "pjf": "450"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "166682-167982",
+        "zymc": "药学",
+        "pjf": "439"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "167983-169351",
+        "zymc": "中药学",
+        "pjf": "438"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "167983-169351",
+        "zymc": "康复治疗学",
+        "pjf": "438"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "150580-151919",
+        "zymc": "人工智能(校企合作班)",
+        "pjf": "451"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "174571-175864",
+        "zymc": "计算机科学与技术(校企合作班)",
+        "pjf": "433"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "170660-171934",
+        "zymc": "软件工程(校企合作班)",
+        "pjf": "436"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "171935-173225",
+        "zymc": "物联网工程(校企合作班)",
+        "pjf": "435"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "157290-158624",
+        "zymc": "数据科学与大数据技术(校企合作班)",
+        "pjf": "446"
+      }
+    ],
+    "total": 10,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751179998797
+}

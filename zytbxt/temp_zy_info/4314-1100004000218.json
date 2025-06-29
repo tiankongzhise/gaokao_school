@@ -1,0 +1,56 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "金融学(中外合作办学)",
+        "sfks": false,
+        "jhrs": 64,
+        "yxdm": "10554",
+        "zydm": "020301H",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "1100004000218",
+        "zyxh": null,
+        "bxdd": "湖南省长沙市",
+        "bz": "部分课程全英文授课，建议非英语语种考生谨慎填报。原则上英语单科成绩不低于100分",
+        "zydh": "079",
+        "yxdh": "4314",
+        "wyyzdm": "不限",
+        "sfbz": "38500",
+        "kskmyq": "首选物理，再选不限"
+      },
+      {
+        "skkmyq": "不限",
+        "zymc": "会计学(中外合作办学)",
+        "sfks": false,
+        "jhrs": 68,
+        "yxdm": "10554",
+        "zydm": "120203H",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "1100004000218",
+        "zyxh": null,
+        "bxdd": "湖南省长沙市",
+        "bz": "部分课程全英文授课，建议非英语语种考生谨慎填报。原则上英语单科成绩不低于100分",
+        "zydh": "080",
+        "yxdh": "4314",
+        "wyyzdm": "不限",
+        "sfbz": "43000",
+        "kskmyq": "首选物理，再选不限"
+      }
+    ],
+    "total": 2,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751166504193
+}

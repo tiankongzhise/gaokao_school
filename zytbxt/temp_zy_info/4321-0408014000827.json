@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "本科预科班",
+        "sfks": false,
+        "jhrs": 8,
+        "yxdm": "10547",
+        "zydm": "2009",
+        "bxddbb": false,
+        "xzdm": "一年",
+        "zyzdm": "0408014000827",
+        "zyxh": null,
+        "bxdd": null,
+        "bz": null,
+        "zydh": "095",
+        "yxdh": "4321",
+        "wyyzdm": "不限",
+        "sfbz": "4000",
+        "kskmyq": "首选物理，再选不限"
+      }
+    ],
+    "total": 1,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751167366974
+}

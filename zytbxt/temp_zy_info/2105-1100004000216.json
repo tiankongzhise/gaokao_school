@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "国际商务(中外合作办学)(亚澳商学院)",
+        "sfks": false,
+        "jhrs": 4,
+        "yxdm": "10140",
+        "zydm": "120205H",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "1100004000216",
+        "zyxh": null,
+        "bxdd": "辽宁省沈阳市",
+        "bz": "外语成绩不低于105分。中外合作办学专业为英语教学，非英语考生慎报。",
+        "zydh": "049",
+        "yxdh": "2105",
+        "wyyzdm": "不限",
+        "sfbz": "50000",
+        "kskmyq": "首选物理，再选不限"
+      }
+    ],
+    "total": 1,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751167300039
+}

@@ -1,0 +1,56 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "医学试验班(新医科)",
+        "sfks": false,
+        "jhrs": 8,
+        "yxdm": "10056",
+        "zydm": "00800",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0200004500304",
+        "zyxh": null,
+        "bxdd": "天津市市辖区",
+        "bz": "6200元/年，分流后按专业收费。不招色盲色弱 包含专业:智能医学工程、临床医学(5年制)、生物科学、药学、预防医学(5年制)、生物医学工程。",
+        "zydh": "016",
+        "yxdh": "1202",
+        "wyyzdm": "不限",
+        "sfbz": "见备注",
+        "kskmyq": "首选物理，再选限化学"
+      },
+      {
+        "skkmyq": "不限",
+        "zymc": "工科试验班(合成生物与生物制造)",
+        "sfks": false,
+        "jhrs": 10,
+        "yxdm": "10056",
+        "zydm": "00600",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0200004500304",
+        "zyxh": null,
+        "bxdd": "天津市市辖区",
+        "bz": "不招色盲色弱 包含专业:合成生物学、制药工程、生物工程、食品科学与工程。",
+        "zydh": "017",
+        "yxdh": "1202",
+        "wyyzdm": "不限",
+        "sfbz": "5800",
+        "kskmyq": "首选物理，再选限化学"
+      }
+    ],
+    "total": 2,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751165041248
+}

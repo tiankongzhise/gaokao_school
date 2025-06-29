@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "生物科学类",
+        "sfks": false,
+        "jhrs": 5,
+        "yxdm": "10663",
+        "zydm": "0710",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0100004561121",
+        "zyxh": null,
+        "bxdd": "贵州省贵阳市",
+        "bz": "生物科学是师范类，生物技术是普通类；不招收色弱、色盲以及不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形考生。 包含专业:生物科学、生物技术。",
+        "zydh": "023",
+        "yxdh": "5208",
+        "wyyzdm": "不限",
+        "sfbz": "4200",
+        "kskmyq": "首选物理，再选限化学和生物"
+      }
+    ],
+    "total": 1,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751167214474
+}

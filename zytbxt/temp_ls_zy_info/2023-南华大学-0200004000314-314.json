@@ -1,0 +1,123 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "20",
+        "pjmc": "67418-68256",
+        "zymc": "矿物资源工程(含卓越工程师班)",
+        "pjf": "515"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "63139-64002",
+        "zymc": "资源勘查工程(地质学拔尖班)",
+        "pjf": "520"
+      },
+      {
+        "zydm": null,
+        "lqrs": "10",
+        "pjmc": "66536-67417",
+        "zymc": "资源勘查工程",
+        "pjf": "516"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "66536-67417",
+        "zymc": "矿物加工工程",
+        "pjf": "516"
+      },
+      {
+        "zydm": null,
+        "lqrs": "10",
+        "pjmc": "52154-52879",
+        "zymc": "信息与计算科学",
+        "pjf": "534"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "39599-40224",
+        "zymc": "软件工程(卓越工程师班)",
+        "pjf": "552"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "52154-52879",
+        "zymc": "人工智能",
+        "pjf": "534"
+      },
+      {
+        "zydm": null,
+        "lqrs": "10",
+        "pjmc": "45638-46314",
+        "zymc": "软件工程",
+        "pjf": "543"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "52154-52879",
+        "zymc": "物联网工程",
+        "pjf": "534"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "51443-52153",
+        "zymc": "数据科学与大数据技术",
+        "pjf": "535"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "59071-59849",
+        "zymc": "生物医学工程",
+        "pjf": "525"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "62274-63138",
+        "zymc": "土木工程(智能创新班)",
+        "pjf": "521"
+      },
+      {
+        "zydm": null,
+        "lqrs": "50",
+        "pjmc": "64861-65709",
+        "zymc": "土木类",
+        "pjf": "518"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "64861-65709",
+        "zymc": "城市地下空间工程",
+        "pjf": "518"
+      },
+      {
+        "zydm": null,
+        "lqrs": "10",
+        "pjmc": "64003-64860",
+        "zymc": "环境工程",
+        "pjf": "519"
+      }
+    ],
+    "total": 15,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180776188
+}

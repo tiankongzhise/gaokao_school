@@ -1,0 +1,123 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "15508-15926",
+        "zymc": "大数据管理与应用",
+        "pjf": "598"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "13604-13989",
+        "zymc": "生物工程",
+        "pjf": "603"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "4336-4530",
+        "zymc": "中西医临床医学(华佗班)",
+        "pjf": "636"
+      },
+      {
+        "zydm": null,
+        "lqrs": "7",
+        "pjmc": "5965-6188",
+        "zymc": "中医学(卓越5+3一体化)",
+        "pjf": "628"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "7722-8011",
+        "zymc": "中医学(卓越中医儿科班5+3一体化)",
+        "pjf": "621"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "8281-8560",
+        "zymc": "中医学(实验班)",
+        "pjf": "619"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "1200-1294",
+        "zymc": "中医学(领军人才培养计划)",
+        "pjf": "658"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "8866-9182",
+        "zymc": "中医学",
+        "pjf": "617"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "11793-12169",
+        "zymc": "针灸推拿学",
+        "pjf": "608"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "10061-10424",
+        "zymc": "中医骨伤科学",
+        "pjf": "613"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "12861-13227",
+        "zymc": "药学",
+        "pjf": "605"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "14749-15149",
+        "zymc": "药事管理",
+        "pjf": "600"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "14371-14748",
+        "zymc": "中药学",
+        "pjf": "601"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "13604-13989",
+        "zymc": "中药制药",
+        "pjf": "603"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "13604-13989",
+        "zymc": "护理学",
+        "pjf": "603"
+      }
+    ],
+    "total": 15,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751179895920
+}

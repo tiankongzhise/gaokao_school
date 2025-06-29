@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "8",
+        "pjmc": "109562-110523",
+        "zymc": "药学",
+        "pjf": "470"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "110524-111543",
+        "zymc": "生物制药",
+        "pjf": "469"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "99467-100457",
+        "zymc": "医学检验技术",
+        "pjf": "480"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "108535-109561",
+        "zymc": "康复治疗学",
+        "pjf": "471"
+      }
+    ],
+    "total": 4,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751181054240
+}

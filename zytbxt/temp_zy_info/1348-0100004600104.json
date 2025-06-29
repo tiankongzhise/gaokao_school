@@ -1,0 +1,56 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "护理学",
+        "sfks": false,
+        "jhrs": 1,
+        "yxdm": "14432",
+        "zydm": "101101",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0100004600104",
+        "zyxh": null,
+        "bxdd": "河北省石家庄市",
+        "bz": "色盲、色弱不予录取",
+        "zydh": "006",
+        "yxdh": "1348",
+        "wyyzdm": "不限",
+        "sfbz": "5200",
+        "kskmyq": "首选物理，再选限生物"
+      },
+      {
+        "skkmyq": "不限",
+        "zymc": "助产学",
+        "sfks": false,
+        "jhrs": 2,
+        "yxdm": "14432",
+        "zydm": "101102",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0100004600104",
+        "zyxh": null,
+        "bxdd": "河北省石家庄市",
+        "bz": "色盲、色弱不予录取",
+        "zydh": "007",
+        "yxdh": "1348",
+        "wyyzdm": "不限",
+        "sfbz": "5200",
+        "kskmyq": "首选物理，再选限生物"
+      }
+    ],
+    "total": 2,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751165983317
+}

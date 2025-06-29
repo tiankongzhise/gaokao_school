@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "1504-1597",
+        "zymc": "金融学类",
+        "pjf": "635"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "1814-1925",
+        "zymc": "经济学类",
+        "pjf": "632"
+      },
+      {
+        "zydm": null,
+        "lqrs": "28",
+        "pjmc": "2399-2536",
+        "zymc": "工科试验班(信息科学与技术)",
+        "pjf": "627"
+      },
+      {
+        "zydm": null,
+        "lqrs": "12",
+        "pjmc": "1706-1813",
+        "zymc": "理科试验班(数理科学与大数据)",
+        "pjf": "633"
+      }
+    ],
+    "total": 4,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180843083
+}

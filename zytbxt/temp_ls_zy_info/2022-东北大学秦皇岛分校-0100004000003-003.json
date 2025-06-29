@@ -1,0 +1,88 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "8",
+        "pjmc": "11575-11950",
+        "zymc": "经济学类",
+        "pjf": "589"
+      },
+      {
+        "zydm": null,
+        "lqrs": "8",
+        "pjmc": "11206-11574",
+        "zymc": "数学类",
+        "pjf": "590"
+      },
+      {
+        "zydm": null,
+        "lqrs": "9",
+        "pjmc": "11206-11574",
+        "zymc": "机械类",
+        "pjf": "590"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "11951-12308",
+        "zymc": "仪器类(智能光电感知)",
+        "pjf": "588"
+      },
+      {
+        "zydm": null,
+        "lqrs": "8",
+        "pjmc": "11951-12308",
+        "zymc": "材料类",
+        "pjf": "588"
+      },
+      {
+        "zydm": null,
+        "lqrs": "10",
+        "pjmc": "10494-10861",
+        "zymc": "电子信息类",
+        "pjf": "592"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "9541-9829",
+        "zymc": "自动化类",
+        "pjf": "595"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "8603-8925",
+        "zymc": "计算机类",
+        "pjf": "598"
+      },
+      {
+        "zydm": null,
+        "lqrs": "8",
+        "pjmc": "12309-12709",
+        "zymc": "工商管理类",
+        "pjf": "587"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "11951-12308",
+        "zymc": "外国语言文学类",
+        "pjf": "588"
+      }
+    ],
+    "total": 10,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751178790292
+}

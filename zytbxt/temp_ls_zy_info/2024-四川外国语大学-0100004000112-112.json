@@ -1,0 +1,67 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "48115-48925",
+        "zymc": "小学教育(师范)",
+        "pjf": "540"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "43487-44249",
+        "zymc": "汉语言文学",
+        "pjf": "546"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "39876-40582",
+        "zymc": "国际经济与贸易",
+        "pjf": "551"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "50563-51364",
+        "zymc": "社会学类",
+        "pjf": "537"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "46586-47367",
+        "zymc": "新闻传播学类",
+        "pjf": "542"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "46586-47367",
+        "zymc": "国际新闻与传播",
+        "pjf": "542"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "48926-49746",
+        "zymc": "财务管理",
+        "pjf": "539"
+      }
+    ],
+    "total": 7,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751181626853
+}

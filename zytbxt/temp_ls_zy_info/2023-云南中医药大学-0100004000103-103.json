@@ -1,0 +1,67 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "76891-77777",
+        "zymc": "公共事业管理",
+        "pjf": "504"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "26086-26620",
+        "zymc": "中医学",
+        "pjf": "575"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "56729-57510",
+        "zymc": "针灸推拿学",
+        "pjf": "528"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "72504-73398",
+        "zymc": "中医康复学",
+        "pjf": "509"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "69918-70811",
+        "zymc": "中医养生学",
+        "pjf": "512"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "66536-67417",
+        "zymc": "中医儿科学",
+        "pjf": "516"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "59850-60628",
+        "zymc": "护理学",
+        "pjf": "524"
+      }
+    ],
+    "total": 7,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751179524815
+}

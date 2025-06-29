@@ -1,0 +1,59 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "sf985": "0",
+        "ssmc": "辽宁省",
+        "yxNfZyzVoList": [
+          {
+            "zyzbh": "101",
+            "zyzmc": "第101组",
+            "zyzdm": "0100004000101",
+            "lqrs": "8",
+            "nf": "2024",
+            "zgf": "486",
+            "zdmc": "137644",
+            "zymcStr": "运动人体科学、新闻学、网络与新媒体",
+            "zdf": "461",
+            "pjf": "468"
+          },
+          {
+            "zyzbh": "102",
+            "zyzmc": "第102组",
+            "zyzdm": "5000004000102",
+            "lqrs": "7",
+            "nf": "2024",
+            "zgf": "721",
+            "zdmc": "747-761",
+            "zymcStr": "体育教育(师范)、社会体育指导与管理(师范)",
+            "zdf": "710",
+            "pjf": "715"
+          }
+        ],
+        "djsdm": "210100000000",
+        "yxnfList": null,
+        "yxmc": "沈阳体育学院",
+        "yxdm": "10176",
+        "djsmc": "沈阳市",
+        "sfsyl": "",
+        "yxjbzdm": "1",
+        "yxdh": "2119",
+        "sf211": "0",
+        "jhsxdm": "3",
+        "ssdm": "210000000000"
+      }
+    ],
+    "total": 1,
+    "size": 10,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751175886217
+}

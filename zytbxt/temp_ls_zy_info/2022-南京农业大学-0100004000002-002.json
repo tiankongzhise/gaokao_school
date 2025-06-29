@@ -1,0 +1,165 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "7",
+        "pjmc": "16906-17398",
+        "zymc": "动物科学",
+        "pjf": "576"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "17399-17815",
+        "zymc": "水产养殖学",
+        "pjf": "575"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "13887-14295",
+        "zymc": "金融学",
+        "pjf": "583"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "17399-17815",
+        "zymc": "社会学类",
+        "pjf": "575"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "16012-16439",
+        "zymc": "信息管理与信息系统",
+        "pjf": "578"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "18274-18768",
+        "zymc": "工程管理",
+        "pjf": "573"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "17399-17815",
+        "zymc": "工商管理类",
+        "pjf": "575"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "13887-14295",
+        "zymc": "会计学",
+        "pjf": "583"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "17399-17815",
+        "zymc": "物流工程",
+        "pjf": "575"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "18274-18768",
+        "zymc": "工业工程",
+        "pjf": "573"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "16906-17398",
+        "zymc": "英语",
+        "pjf": "576"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "14723-15143",
+        "zymc": "信息与计算科学",
+        "pjf": "581"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "16440-16905",
+        "zymc": "统计学",
+        "pjf": "577"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "16440-16905",
+        "zymc": "农林经济管理",
+        "pjf": "577"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "17816-18273",
+        "zymc": "公共管理类",
+        "pjf": "574"
+      },
+      {
+        "zydm": null,
+        "lqrs": "12",
+        "pjmc": "17816-18273",
+        "zymc": "机械类",
+        "pjf": "574"
+      },
+      {
+        "zydm": null,
+        "lqrs": "9",
+        "pjmc": "14723-15143",
+        "zymc": "电子信息类",
+        "pjf": "581"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "13479-13886",
+        "zymc": "人工智能",
+        "pjf": "584"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "12309-12709",
+        "zymc": "计算机科学与技术",
+        "pjf": "587"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "13479-13886",
+        "zymc": "数据科学与大数据技术",
+        "pjf": "584"
+      },
+      {
+        "zydm": null,
+        "lqrs": "11",
+        "pjmc": "18769-19244",
+        "zymc": "农业工程类",
+        "pjf": "572"
+      }
+    ],
+    "total": 21,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180586859
+}

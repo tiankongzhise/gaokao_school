@@ -1,0 +1,56 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "数学与应用数学(师范)",
+        "sfks": false,
+        "jhrs": 3,
+        "yxdm": "10681",
+        "zydm": "070101",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0100004500110",
+        "zyxh": null,
+        "bxdd": "云南省昆明市",
+        "bz": "要求考生数学单科成绩达到100分及以上。",
+        "zydh": "027",
+        "yxdh": "5311",
+        "wyyzdm": "不限",
+        "sfbz": "5000",
+        "kskmyq": "首选物理，再选限化学"
+      },
+      {
+        "skkmyq": "不限",
+        "zymc": "统计学",
+        "sfks": false,
+        "jhrs": 2,
+        "yxdm": "10681",
+        "zydm": "071201",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0100004500110",
+        "zyxh": null,
+        "bxdd": "云南省昆明市",
+        "bz": "要求考生数学单科成绩达到100分及以上。",
+        "zydh": "028",
+        "yxdh": "5311",
+        "wyyzdm": "不限",
+        "sfbz": "5000",
+        "kskmyq": "首选物理，再选限化学"
+      }
+    ],
+    "total": 2,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751164102110
+}

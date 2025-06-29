@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "112949-114296",
+        "zymc": "市场营销",
+        "pjf": "479"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "110359-111620",
+        "zymc": "金融学",
+        "pjf": "481"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "107838-109059",
+        "zymc": "知识产权",
+        "pjf": "483"
+      }
+    ],
+    "total": 3,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751181530514
+}

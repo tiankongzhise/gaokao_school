@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "6428-6673",
+        "zymc": "金融学",
+        "pjf": "626"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "6428-6673",
+        "zymc": "国际经济与贸易",
+        "pjf": "626"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "7722-8011",
+        "zymc": "法学",
+        "pjf": "621"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "7722-8011",
+        "zymc": "工商管理类",
+        "pjf": "621"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "6189-6427",
+        "zymc": "英语(中国政法大学联合培养涉外法治人才)",
+        "pjf": "627"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "4336-4530",
+        "zymc": "西班牙语",
+        "pjf": "636"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "7722-8011",
+        "zymc": "日语",
+        "pjf": "621"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "5296-5496",
+        "zymc": "英语",
+        "pjf": "631"
+      }
+    ],
+    "total": 8,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180005103
+}

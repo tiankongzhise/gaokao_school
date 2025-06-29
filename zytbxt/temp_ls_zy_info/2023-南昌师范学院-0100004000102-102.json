@@ -1,0 +1,60 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "101449-102477",
+        "zymc": "旅游管理",
+        "pjf": "478"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "104440-105453",
+        "zymc": "会展经济与管理",
+        "pjf": "475"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "77778-78660",
+        "zymc": "统计学",
+        "pjf": "503"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "95512-96507",
+        "zymc": "计算机科学与技术(师范)",
+        "pjf": "484"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "86011-86918",
+        "zymc": "电子信息工程",
+        "pjf": "494"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "99467-100457",
+        "zymc": "数据科学与大数据技术",
+        "pjf": "480"
+      }
+    ],
+    "total": 6,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180903931
+}

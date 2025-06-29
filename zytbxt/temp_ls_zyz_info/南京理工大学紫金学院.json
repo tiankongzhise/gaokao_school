@@ -1,0 +1,59 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "sf985": "0",
+        "ssmc": "江苏省",
+        "yxNfZyzVoList": [
+          {
+            "zyzbh": "101",
+            "zyzmc": "第101组",
+            "zyzdm": "0100004000101",
+            "lqrs": "9",
+            "nf": "2023",
+            "zgf": "461",
+            "zdmc": "132891",
+            "zymcStr": "智能制造工程、智能感知工程、电气工程及其自动化、机器人工程、计算机科学与技术、智能建造",
+            "zdf": "448",
+            "pjf": "455"
+          },
+          {
+            "zyzbh": "101",
+            "zyzmc": "第101组",
+            "zyzdm": "0100004500101",
+            "lqrs": "10",
+            "nf": "2024",
+            "zgf": "488",
+            "zdmc": "146737",
+            "zymcStr": "智能制造工程、智能感知工程、机器人工程、智能建造、电气工程及其自动化、计算机科学与技术",
+            "zdf": "454",
+            "pjf": "462"
+          }
+        ],
+        "djsdm": "320100000000",
+        "yxnfList": null,
+        "yxmc": "南京理工大学紫金学院",
+        "yxdm": "13654",
+        "djsmc": "南京市",
+        "sfsyl": "",
+        "yxjbzdm": "5",
+        "yxdh": "3231",
+        "sf211": "0",
+        "jhsxdm": "3",
+        "ssdm": "320000000000"
+      }
+    ],
+    "total": 1,
+    "size": 10,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751176061718
+}

@@ -1,0 +1,56 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "工科试验班(AI先进技术拔尖班)",
+        "sfks": false,
+        "jhrs": 4,
+        "yxdm": "10561",
+        "zydm": "00600",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0100004500115",
+        "zyxh": null,
+        "bxdd": "广东省广州市",
+        "bz": " 包含专业:计算机科学与技术(拔尖基地班)、信息工程(拔尖班)、自动化(拔尖班)。",
+        "zydh": "034",
+        "yxdh": "4402",
+        "wyyzdm": "不限",
+        "sfbz": "6850",
+        "kskmyq": "首选物理，再选限化学"
+      },
+      {
+        "skkmyq": "不限",
+        "zymc": "工科试验班(卓越人才班)",
+        "sfks": false,
+        "jhrs": 6,
+        "yxdm": "10561",
+        "zydm": "00600",
+        "bxddbb": false,
+        "xzdm": "四年",
+        "zyzdm": "0100004500115",
+        "zyxh": null,
+        "bxdd": null,
+        "bz": "软件工程专业第一、二学年6850元/年，第三、四学年16000元/年 包含专业:电气工程及其自动化(卓越班)、能源与动力工程(低碳与智慧能源卓越班)、软件工程(卓越班)、软件工程(工业软件卓越班)、电子科学与技术(卓越班)、食品科学与工程(未来食品卓越班)。",
+        "zydh": "035",
+        "yxdh": "4402",
+        "wyyzdm": "不限",
+        "sfbz": "6850",
+        "kskmyq": "首选物理，再选限化学"
+      }
+    ],
+    "total": 2,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751164465181
+}

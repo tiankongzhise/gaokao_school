@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "中医骨伤科学",
+        "sfks": false,
+        "jhrs": 4,
+        "yxdm": "10653",
+        "zydm": "100513",
+        "bxddbb": true,
+        "xzdm": "五年",
+        "zyzdm": "0100004000105",
+        "zyxh": null,
+        "bxdd": "四川省成都市",
+        "bz": "不予录取色弱、色盲考生",
+        "zydh": "009",
+        "yxdh": "5111",
+        "wyyzdm": "不限",
+        "sfbz": "6960",
+        "kskmyq": "首选物理，再选不限"
+      }
+    ],
+    "total": 1,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751165521833
+}

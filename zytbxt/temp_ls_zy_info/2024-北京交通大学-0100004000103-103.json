@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "8",
+        "pjmc": "13130-13449",
+        "zymc": "经济管理试验班(经济类、管科类)",
+        "pjf": "602"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "13450-13821",
+        "zymc": "法学",
+        "pjf": "601"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "15796-16203",
+        "zymc": "新闻传播学类",
+        "pjf": "595"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "17399-17826",
+        "zymc": "建筑类(建筑与规划)",
+        "pjf": "591"
+      }
+    ],
+    "total": 4,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751179928433
+}

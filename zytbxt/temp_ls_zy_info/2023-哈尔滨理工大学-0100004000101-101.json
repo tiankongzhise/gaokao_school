@@ -1,0 +1,144 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "38903-39598",
+        "zymc": "机械设计制造及其自动化",
+        "pjf": "553"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "39599-40224",
+        "zymc": "测控技术与仪器",
+        "pjf": "552"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "35786-36422",
+        "zymc": "信息管理与信息系统",
+        "pjf": "558"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "44903-45637",
+        "zymc": "市场营销",
+        "pjf": "544"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "40886-41536",
+        "zymc": "人力资源管理",
+        "pjf": "550"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "35167-35785",
+        "zymc": "电子信息工程",
+        "pjf": "559"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "38277-38902",
+        "zymc": "通信工程",
+        "pjf": "554"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "28784-29342",
+        "zymc": "自动化",
+        "pjf": "570"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "26086-26620",
+        "zymc": "计算机科学与技术",
+        "pjf": "575"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "44189-44902",
+        "zymc": "应用统计学",
+        "pjf": "545"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "42847-43501",
+        "zymc": "光电信息科学与工程",
+        "pjf": "547"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "35167-35785",
+        "zymc": "信息与计算科学",
+        "pjf": "559"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "37029-37666",
+        "zymc": "机器人工程",
+        "pjf": "556"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "35167-35785",
+        "zymc": "物联网工程",
+        "pjf": "559"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "42847-43501",
+        "zymc": "机械电子工程",
+        "pjf": "547"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "44903-45637",
+        "zymc": "车辆工程",
+        "pjf": "544"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "40886-41536",
+        "zymc": "土木工程",
+        "pjf": "550"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "38277-38902",
+        "zymc": "建筑学",
+        "pjf": "554"
+      }
+    ],
+    "total": 18,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751181519049
+}

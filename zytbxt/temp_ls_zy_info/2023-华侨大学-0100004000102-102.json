@@ -1,0 +1,172 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "36423-37028",
+        "zymc": "行政管理(数字政府治理、社会福利、公共危机管理方向)",
+        "pjf": "557"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "34563-35166",
+        "zymc": "数学与应用数学(金融统计方向和数据分析方向)",
+        "pjf": "560"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "36423-37028",
+        "zymc": "光电信息科学与工程",
+        "pjf": "557"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "35167-35785",
+        "zymc": "物联网工程",
+        "pjf": "559"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "38277-38902",
+        "zymc": "会展经济与管理",
+        "pjf": "554"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "35786-36422",
+        "zymc": "翻译",
+        "pjf": "558"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "29932-30454",
+        "zymc": "中国语言文学类",
+        "pjf": "568"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "25517-26085",
+        "zymc": "金融学",
+        "pjf": "576"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "33985-34562",
+        "zymc": "法学",
+        "pjf": "561"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "38903-39598",
+        "zymc": "经济学类",
+        "pjf": "553"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "33985-34562",
+        "zymc": "给排水科学与工程(城镇智能水系统方向)",
+        "pjf": "561"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "34563-35166",
+        "zymc": "车辆工程",
+        "pjf": "560"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "35167-35785",
+        "zymc": "智能制造工程",
+        "pjf": "559"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "31613-32192",
+        "zymc": "信息安全",
+        "pjf": "565"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "37667-38276",
+        "zymc": "城市地下空间工程",
+        "pjf": "555"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "35786-36422",
+        "zymc": "机械工程",
+        "pjf": "558"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "26086-26620",
+        "zymc": "电气工程及其自动化",
+        "pjf": "575"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "23965-24469",
+        "zymc": "计算机科学与技术",
+        "pjf": "579"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "28784-29342",
+        "zymc": "软件工程",
+        "pjf": "570"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "34563-35166",
+        "zymc": "土木工程",
+        "pjf": "560"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "32193-32787",
+        "zymc": "电子信息类",
+        "pjf": "564"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "39599-40224",
+        "zymc": "汉语国际教育",
+        "pjf": "552"
+      }
+    ],
+    "total": 22,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180446279
+}

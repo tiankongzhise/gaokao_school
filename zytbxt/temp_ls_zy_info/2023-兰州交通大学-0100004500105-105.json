@@ -1,0 +1,53 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "55161-55963",
+        "zymc": "材料科学与工程",
+        "pjf": "530"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "56729-57510",
+        "zymc": "给排水科学与工程",
+        "pjf": "528"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "46315-46990",
+        "zymc": "交通运输",
+        "pjf": "542"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "44903-45637",
+        "zymc": "交通工程",
+        "pjf": "544"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "59071-59849",
+        "zymc": "环境工程",
+        "pjf": "525"
+      }
+    ],
+    "total": 5,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751179698073
+}

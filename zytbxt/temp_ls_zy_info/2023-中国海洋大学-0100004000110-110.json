@@ -1,0 +1,60 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "8866-9182",
+        "zymc": "数学类",
+        "pjf": "617"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "9183-9461",
+        "zymc": "物理学",
+        "pjf": "616"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "9183-9461",
+        "zymc": "大气科学",
+        "pjf": "616"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "8281-8560",
+        "zymc": "海洋科学",
+        "pjf": "619"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "8561-8865",
+        "zymc": "海洋技术",
+        "pjf": "618"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "9183-9461",
+        "zymc": "地球信息科学与技术",
+        "pjf": "616"
+      }
+    ],
+    "total": 6,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751179271889
+}

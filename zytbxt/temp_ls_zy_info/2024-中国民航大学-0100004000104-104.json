@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "37812-38493",
+        "zymc": "航空安防管理",
+        "pjf": "554"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "38494-39143",
+        "zymc": "工商管理类(航空运输管理)",
+        "pjf": "553"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "33237-33880",
+        "zymc": "交通管理(飞行运行管理)",
+        "pjf": "561"
+      }
+    ],
+    "total": 3,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751179249832
+}

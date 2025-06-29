@@ -1,0 +1,56 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "电子信息类",
+        "sfks": false,
+        "jhrs": 42,
+        "yxdm": "10524",
+        "zydm": "0807",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0100004500113",
+        "zyxh": null,
+        "bxdd": "湖北省武汉市",
+        "bz": " 包含专业:电子信息工程(智能电子系统设计与信息处理方向)、集成电路设计与集成系统(芯片设计与先进封装技术方向)、通信工程(智能通信与信息处理方向)、光电信息科学与工程(光电子与智能光通信方向)。",
+        "zydh": "057",
+        "yxdh": "4219",
+        "wyyzdm": "不限",
+        "sfbz": "5850",
+        "kskmyq": "首选物理，再选限化学"
+      },
+      {
+        "skkmyq": "不限",
+        "zymc": "计算机类",
+        "sfks": false,
+        "jhrs": 20,
+        "yxdm": "10524",
+        "zydm": "0809",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0100004500113",
+        "zyxh": null,
+        "bxdd": "湖北省武汉市",
+        "bz": " 包含专业:计算机科学与技术、软件工程。",
+        "zydh": "058",
+        "yxdh": "4219",
+        "wyyzdm": "不限",
+        "sfbz": "5850",
+        "kskmyq": "首选物理，再选限化学"
+      }
+    ],
+    "total": 2,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751163928953
+}

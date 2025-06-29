@@ -1,0 +1,95 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "sf985": "0",
+        "ssmc": "河南省",
+        "yxNfZyzVoList": [
+          {
+            "zyzbh": "002",
+            "zyzmc": "第2组",
+            "zyzdm": "0100004000002",
+            "lqrs": "4",
+            "nf": "2022",
+            "zgf": "447",
+            "zdmc": "133157",
+            "zymcStr": "建筑学",
+            "zdf": "441",
+            "pjf": "444"
+          },
+          {
+            "zyzbh": "103",
+            "zyzmc": "第103组",
+            "zyzdm": "0100004000103",
+            "lqrs": "4",
+            "nf": "2023",
+            "zgf": "441",
+            "zdmc": "152479",
+            "zymcStr": "工程管理",
+            "zdf": "430",
+            "pjf": "434"
+          },
+          {
+            "zyzbh": "104",
+            "zyzmc": "第104组",
+            "zyzdm": "0100004000104",
+            "lqrs": "4",
+            "nf": "2023",
+            "zgf": "447",
+            "zdmc": "156697",
+            "zymcStr": "建筑学",
+            "zdf": "426",
+            "pjf": "435"
+          },
+          {
+            "zyzbh": "101",
+            "zyzmc": "第101组",
+            "zyzdm": "0100004000101",
+            "lqrs": "4",
+            "nf": "2024",
+            "zgf": "453",
+            "zdmc": "151889",
+            "zymcStr": "工程管理",
+            "zdf": "451",
+            "pjf": "451"
+          },
+          {
+            "zyzbh": "102",
+            "zyzmc": "第102组",
+            "zyzdm": "0100004500102",
+            "lqrs": "16",
+            "nf": "2024",
+            "zgf": "448",
+            "zdmc": "167675",
+            "zymcStr": "材料成型及控制工程、纳米材料与技术、通信工程、数据科学与大数据技术",
+            "zdf": "439",
+            "pjf": "440"
+          }
+        ],
+        "djsdm": "410100000000",
+        "yxnfList": null,
+        "yxmc": "黄河科技学院",
+        "yxdm": "11834",
+        "djsmc": "郑州市",
+        "sfsyl": "",
+        "yxjbzdm": "2",
+        "yxdh": "4113",
+        "sf211": "0",
+        "jhsxdm": "3",
+        "ssdm": "410000000000"
+      }
+    ],
+    "total": 1,
+    "size": 10,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751176550201
+}

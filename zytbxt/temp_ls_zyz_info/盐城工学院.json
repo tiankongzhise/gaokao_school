@@ -1,0 +1,71 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "sf985": "0",
+        "ssmc": "江苏省",
+        "yxNfZyzVoList": [
+          {
+            "zyzbh": "001",
+            "zyzmc": "第1组",
+            "zyzdm": "0100004000001",
+            "lqrs": "8",
+            "nf": "2022",
+            "zgf": "500",
+            "zdmc": "110681",
+            "zymcStr": "海洋科学类、土木工程",
+            "zdf": "462",
+            "pjf": "472"
+          },
+          {
+            "zyzbh": "101",
+            "zyzmc": "第101组",
+            "zyzdm": "0100004000101",
+            "lqrs": "8",
+            "nf": "2023",
+            "zgf": "487",
+            "zdmc": "112726",
+            "zymcStr": "海洋科学类、土木工程",
+            "zdf": "467",
+            "pjf": "473"
+          },
+          {
+            "zyzbh": "101",
+            "zyzmc": "第101组",
+            "zyzdm": "0100004500101",
+            "lqrs": "8",
+            "nf": "2024",
+            "zgf": "475",
+            "zdmc": "138043",
+            "zymcStr": "海洋科学、土木工程",
+            "zdf": "461",
+            "pjf": "468"
+          }
+        ],
+        "djsdm": "320900000000",
+        "yxnfList": null,
+        "yxmc": "盐城工学院",
+        "yxdm": "10305",
+        "djsmc": "盐城市",
+        "sfsyl": "",
+        "yxjbzdm": "1",
+        "yxdh": "3244",
+        "sf211": "0",
+        "jhsxdm": "3",
+        "ssdm": "320000000000"
+      }
+    ],
+    "total": 1,
+    "size": 10,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751176072008
+}

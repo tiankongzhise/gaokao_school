@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "42750-43486",
+        "zymc": "工商管理类",
+        "pjf": "547"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "44250-44998",
+        "zymc": "公共管理类",
+        "pjf": "545"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "42750-43486",
+        "zymc": "应用心理学",
+        "pjf": "547"
+      }
+    ],
+    "total": 3,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751181991945
+}

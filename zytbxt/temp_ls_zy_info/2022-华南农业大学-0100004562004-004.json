@@ -1,0 +1,95 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "23304-23886",
+        "zymc": "农学",
+        "pjf": "563"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "21736-22238",
+        "zymc": "园艺",
+        "pjf": "566"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "25001-25591",
+        "zymc": "植物保护",
+        "pjf": "560"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "23887-24462",
+        "zymc": "种子科学与工程",
+        "pjf": "562"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "25592-26158",
+        "zymc": "设施农业科学与工程",
+        "pjf": "559"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "26763-27343",
+        "zymc": "茶学",
+        "pjf": "557"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "25592-26158",
+        "zymc": "农业资源与环境(低碳农业)",
+        "pjf": "559"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "26763-27343",
+        "zymc": "草业科学",
+        "pjf": "557"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "20679-21246",
+        "zymc": "生物科学(国家生物学理科基地班)",
+        "pjf": "568"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "21736-22238",
+        "zymc": "生物技术",
+        "pjf": "566"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "26159-26762",
+        "zymc": "生态学",
+        "pjf": "558"
+      }
+    ],
+    "total": 11,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180525090
+}

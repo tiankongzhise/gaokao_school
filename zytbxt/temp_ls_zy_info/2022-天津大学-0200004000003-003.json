@@ -1,0 +1,32 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "5847-6078",
+        "zymc": "经济管理试验班",
+        "pjf": "608"
+      },
+      {
+        "zydm": null,
+        "lqrs": "10",
+        "pjmc": "5625-5846",
+        "zymc": "工科试验班(智能制造与建造)",
+        "pjf": "609"
+      }
+    ],
+    "total": 2,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751182101405
+}

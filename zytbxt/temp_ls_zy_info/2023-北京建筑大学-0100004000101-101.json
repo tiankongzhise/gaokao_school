@@ -1,0 +1,95 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "28784-29342",
+        "zymc": "工程管理(实验班)",
+        "pjf": "570"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "27664-28195",
+        "zymc": "工程造价",
+        "pjf": "572"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "25517-26085",
+        "zymc": "建筑学",
+        "pjf": "576"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "28196-28783",
+        "zymc": "环境设计",
+        "pjf": "571"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "25517-26085",
+        "zymc": "电气工程及其自动化(实验班)",
+        "pjf": "576"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "29343-29931",
+        "zymc": "土木工程(实验班)",
+        "pjf": "569"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "26086-26620",
+        "zymc": "自动化(建筑智能控制与机器人)",
+        "pjf": "575"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "28784-29342",
+        "zymc": "土木工程(智慧城市道桥工程)",
+        "pjf": "570"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "27124-27663",
+        "zymc": "车辆工程(智能轨道车辆)",
+        "pjf": "573"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "26086-26620",
+        "zymc": "人工智能",
+        "pjf": "575"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "29343-29931",
+        "zymc": "给排水科学与工程",
+        "pjf": "569"
+      }
+    ],
+    "total": 11,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180070007
+}

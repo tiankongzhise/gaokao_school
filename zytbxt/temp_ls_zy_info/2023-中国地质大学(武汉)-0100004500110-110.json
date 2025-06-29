@@ -1,0 +1,32 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "14749-15149",
+        "zymc": "大气科学",
+        "pjf": "600"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "15150-15507",
+        "zymc": "材料类",
+        "pjf": "599"
+      }
+    ],
+    "total": 2,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751179203811
+}

@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "17200-17605",
+        "zymc": "水土保持与荒漠化防治(梁希实验班)",
+        "pjf": "594"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "18021-18462",
+        "zymc": "野生动物与自然保护区管理",
+        "pjf": "592"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "18879-19299",
+        "zymc": "水土保持与荒漠化防治",
+        "pjf": "590"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "18879-19299",
+        "zymc": "草业科学(梁希实验班)",
+        "pjf": "590"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "18463-18878",
+        "zymc": "园艺(观赏园艺方向)",
+        "pjf": "591"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "11135-11459",
+        "zymc": "生物科学(拔尖班)",
+        "pjf": "610"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "16326-16787",
+        "zymc": "生物科学类",
+        "pjf": "596"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "18463-18878",
+        "zymc": "生态学",
+        "pjf": "591"
+      }
+    ],
+    "total": 8,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180088755
+}

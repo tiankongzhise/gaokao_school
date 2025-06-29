@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "18021-18462",
+        "zymc": "生态学",
+        "pjf": "592"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "19300-19725",
+        "zymc": "生物技术",
+        "pjf": "589"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "18879-19299",
+        "zymc": "生物科学类",
+        "pjf": "590"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "20194-20665",
+        "zymc": "环境科学与工程类",
+        "pjf": "587"
+      }
+    ],
+    "total": 4,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751179565780
+}

@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "115332-116456",
+        "zymc": "建筑电气与智能化",
+        "pjf": "457"
+      },
+      {
+        "zydm": null,
+        "lqrs": "10",
+        "pjmc": "117629-118773",
+        "zymc": "机械设计制造及其自动化",
+        "pjf": "455"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "109769-110902",
+        "zymc": "轨道交通信号与控制",
+        "pjf": "462"
+      },
+      {
+        "zydm": null,
+        "lqrs": "10",
+        "pjmc": "109769-110902",
+        "zymc": "计算机科学与技术",
+        "pjf": "462"
+      }
+    ],
+    "total": 4,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751181533652
+}

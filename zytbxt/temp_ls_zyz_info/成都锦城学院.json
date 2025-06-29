@@ -1,0 +1,71 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "sf985": "0",
+        "ssmc": "四川省",
+        "yxNfZyzVoList": [
+          {
+            "zyzbh": "002",
+            "zyzmc": "第2组",
+            "zyzdm": "0100004000002",
+            "lqrs": "2",
+            "nf": "2022",
+            "zgf": "462",
+            "zdmc": "114444",
+            "zymcStr": "人力资源管理",
+            "zdf": "458",
+            "pjf": "460"
+          },
+          {
+            "zyzbh": "102",
+            "zyzmc": "第102组",
+            "zyzdm": "0100004000102",
+            "lqrs": "2",
+            "nf": "2023",
+            "zgf": "432",
+            "zdmc": "154104",
+            "zymcStr": "人力资源管理",
+            "zdf": "429",
+            "pjf": "430"
+          },
+          {
+            "zyzbh": "102",
+            "zyzmc": "第102组",
+            "zyzdm": "0100004000102",
+            "lqrs": "2",
+            "nf": "2024",
+            "zgf": "465",
+            "zdmc": "133521",
+            "zymcStr": "工商管理类",
+            "zdf": "464",
+            "pjf": "464"
+          }
+        ],
+        "djsdm": "510100000000",
+        "yxnfList": null,
+        "yxmc": "成都锦城学院",
+        "yxdm": "13903",
+        "djsmc": "成都市",
+        "sfsyl": "",
+        "yxjbzdm": "2",
+        "yxdh": "5162",
+        "sf211": "0",
+        "jhsxdm": "3",
+        "ssdm": "510000000000"
+      }
+    ],
+    "total": 1,
+    "size": 10,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751175631326
+}

@@ -1,0 +1,59 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "sf985": "0",
+        "ssmc": "四川省",
+        "yxNfZyzVoList": [
+          {
+            "zyzbh": "101",
+            "zyzmc": "第101组",
+            "zyzdm": "0100004000101",
+            "lqrs": "2",
+            "nf": "2023",
+            "zgf": "443",
+            "zdmc": "138827",
+            "zymcStr": "计算机类、土木类",
+            "zdf": "443",
+            "pjf": "443"
+          },
+          {
+            "zyzbh": "101",
+            "zyzmc": "第101组",
+            "zyzdm": "0100004500101",
+            "lqrs": "1",
+            "nf": "2024",
+            "zgf": "449",
+            "zdmc": "153335",
+            "zymcStr": "机械类、计算机类",
+            "zdf": "449",
+            "pjf": "449"
+          }
+        ],
+        "djsdm": "510600000000",
+        "yxnfList": null,
+        "yxmc": "四川工业科技学院",
+        "yxdm": "13816",
+        "djsmc": "德阳市",
+        "sfsyl": "",
+        "yxjbzdm": "2",
+        "yxdh": "5176",
+        "sf211": "0",
+        "jhsxdm": "3",
+        "ssdm": "510000000000"
+      }
+    ],
+    "total": 1,
+    "size": 10,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751175633401
+}

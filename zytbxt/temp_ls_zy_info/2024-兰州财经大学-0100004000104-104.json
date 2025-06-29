@@ -1,0 +1,60 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "81599-82704",
+        "zymc": "经济统计学",
+        "pjf": "505"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "91821-93047",
+        "zymc": "数字经济",
+        "pjf": "496"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "90649-91820",
+        "zymc": "金融工程",
+        "pjf": "497"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "91821-93047",
+        "zymc": "金融科技",
+        "pjf": "496"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "81599-82704",
+        "zymc": "信息管理与信息系统",
+        "pjf": "505"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "84904-86077",
+        "zymc": "大数据管理与应用",
+        "pjf": "502"
+      }
+    ],
+    "total": 6,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751179776112
+}

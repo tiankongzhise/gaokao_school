@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "本科预科班",
+        "sfks": false,
+        "jhrs": 1,
+        "yxdm": "11242",
+        "zydm": "2009",
+        "bxddbb": false,
+        "xzdm": "一年",
+        "zyzdm": "0500004000902",
+        "zyxh": null,
+        "bxdd": "汾东校区",
+        "bz": "预科当年收费标准最终以学校2025年入学须知通知为准，预科转段分流后收费标准最高5800元，非英语语种考生慎重报考",
+        "zydh": "009",
+        "yxdh": "1418",
+        "wyyzdm": "不限",
+        "sfbz": "10000",
+        "kskmyq": "首选物理，再选不限"
+      }
+    ],
+    "total": 1,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751165077448
+}

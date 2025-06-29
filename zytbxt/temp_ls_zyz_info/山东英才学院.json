@@ -1,0 +1,71 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "sf985": "0",
+        "ssmc": "山东省",
+        "yxNfZyzVoList": [
+          {
+            "zyzbh": "001",
+            "zyzmc": "第1组",
+            "zyzdm": "0100004000001",
+            "lqrs": "10",
+            "nf": "2022",
+            "zgf": "442",
+            "zdmc": "155461",
+            "zymcStr": "通信工程、信息管理与信息系统(校企合作，与曙光信息产业股份有限公司合作)、电子信息工程(校企合作，与中兴通讯股份有限公司合作)",
+            "zdf": "420",
+            "pjf": "428"
+          },
+          {
+            "zyzbh": "101",
+            "zyzmc": "第101组",
+            "zyzdm": "0100004000101",
+            "lqrs": "8",
+            "nf": "2023",
+            "zgf": "423",
+            "zdmc": "169039",
+            "zymcStr": "通信工程(校企合作，与北京华晟经世合作)",
+            "zdf": "415",
+            "pjf": "419"
+          },
+          {
+            "zyzbh": "101",
+            "zyzmc": "第101组",
+            "zyzdm": "0100004500101",
+            "lqrs": "10",
+            "nf": "2024",
+            "zgf": "432",
+            "zdmc": "188857",
+            "zymcStr": "通信工程",
+            "zdf": "422",
+            "pjf": "426"
+          }
+        ],
+        "djsdm": "370100000000",
+        "yxnfList": null,
+        "yxmc": "山东英才学院",
+        "yxdm": "13006",
+        "djsmc": "济南市",
+        "sfsyl": "",
+        "yxjbzdm": "2",
+        "yxdh": "3770",
+        "sf211": "0",
+        "jhsxdm": "3",
+        "ssdm": "370000000000"
+      }
+    ],
+    "total": 1,
+    "size": 10,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751176533819
+}

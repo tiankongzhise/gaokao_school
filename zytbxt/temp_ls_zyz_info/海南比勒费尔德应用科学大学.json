@@ -1,0 +1,47 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "sf985": "0",
+        "ssmc": "海南省",
+        "yxNfZyzVoList": [
+          {
+            "zyzbh": "102",
+            "zyzmc": "第102组",
+            "zyzdm": "0100004500102",
+            "lqrs": "1",
+            "nf": "2024",
+            "zgf": "436",
+            "zdmc": "171919",
+            "zymcStr": "计算机科学与技术",
+            "zdf": "436",
+            "pjf": "436"
+          }
+        ],
+        "djsdm": "460400000000",
+        "yxnfList": null,
+        "yxmc": "海南比勒费尔德应用科学大学",
+        "yxdm": "14829",
+        "djsmc": "儋州市",
+        "sfsyl": "",
+        "yxjbzdm": "3",
+        "yxdh": "4636",
+        "sf211": "0",
+        "jhsxdm": "3",
+        "ssdm": "460000000000"
+      }
+    ],
+    "total": 1,
+    "size": 10,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751176765195
+}

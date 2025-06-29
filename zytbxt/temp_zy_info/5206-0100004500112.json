@@ -1,0 +1,56 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "生物制药",
+        "sfks": false,
+        "jhrs": 2,
+        "yxdm": "10662",
+        "zydm": "083002",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0100004500112",
+        "zyxh": null,
+        "bxdd": "贵州省贵阳市",
+        "bz": "患有轻度色觉异常(俗称色弱)、色觉异常II度(俗称色盲)或不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不能报考该专业",
+        "zydh": "020",
+        "yxdh": "5206",
+        "wyyzdm": "不限",
+        "sfbz": "4200",
+        "kskmyq": "首选物理，再选限化学"
+      },
+      {
+        "skkmyq": "不限",
+        "zymc": "中草药栽培与鉴定",
+        "sfks": false,
+        "jhrs": 2,
+        "yxdm": "10662",
+        "zydm": "100806",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0100004500112",
+        "zyxh": null,
+        "bxdd": "贵州省贵阳市",
+        "bz": "患有轻度色觉异常(俗称色弱)、色觉异常II度(俗称色盲)或不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不能报考该专业",
+        "zydh": "021",
+        "yxdh": "5206",
+        "wyyzdm": "不限",
+        "sfbz": "4200",
+        "kskmyq": "首选物理，再选限化学"
+      }
+    ],
+    "total": 2,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751167176622
+}

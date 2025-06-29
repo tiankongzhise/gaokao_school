@@ -1,0 +1,71 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "sf985": "0",
+        "ssmc": "辽宁省",
+        "yxNfZyzVoList": [
+          {
+            "zyzbh": "002",
+            "zyzmc": "第2组",
+            "zyzdm": "0100004000002",
+            "lqrs": "9",
+            "nf": "2022",
+            "zgf": "362",
+            "zdmc": null,
+            "zymcStr": "小学教育(师范类)、大数据与会计、学前教育(师范类)",
+            "zdf": "349",
+            "pjf": "354"
+          },
+          {
+            "zyzbh": "102",
+            "zyzmc": "第102组",
+            "zyzdm": "0100004000102",
+            "lqrs": "9",
+            "nf": "2023",
+            "zgf": "381",
+            "zdmc": null,
+            "zymcStr": "小学教育(师范类)、学前教育(师范类)、大数据与会计",
+            "zdf": "341",
+            "pjf": "355"
+          },
+          {
+            "zyzbh": "102",
+            "zyzmc": "第102组",
+            "zyzdm": "0100004000102",
+            "lqrs": "8",
+            "nf": "2024",
+            "zgf": "419",
+            "zdmc": null,
+            "zymcStr": "小学教育(师范类)、学前教育(师范类)、大数据与会计",
+            "zdf": "392",
+            "pjf": "401"
+          }
+        ],
+        "djsdm": "211300000000",
+        "yxnfList": null,
+        "yxmc": "朝阳师范学院",
+        "yxdm": "10171",
+        "djsmc": "朝阳市",
+        "sfsyl": "",
+        "yxjbzdm": "1",
+        "yxdh": "2192",
+        "sf211": "0",
+        "jhsxdm": "3",
+        "ssdm": "210000000000"
+      }
+    ],
+    "total": 1,
+    "size": 10,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751175921199
+}

@@ -1,0 +1,83 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "sf985": "0",
+        "ssmc": "北京市",
+        "yxNfZyzVoList": [
+          {
+            "zyzbh": "001",
+            "zyzmc": "第1组",
+            "zyzdm": "0100004000001",
+            "lqrs": "8",
+            "nf": "2022",
+            "zgf": "580",
+            "zdmc": "22358",
+            "zymcStr": "通信工程、信息管理与信息系统、测控技术与仪器、自动化",
+            "zdf": "565",
+            "pjf": "569"
+          },
+          {
+            "zyzbh": "101",
+            "zyzmc": "第101组",
+            "zyzdm": "0100004000101",
+            "lqrs": "8",
+            "nf": "2023",
+            "zgf": "598",
+            "zdmc": "20833",
+            "zymcStr": "测控技术与仪器、自动化、通信工程、信息管理与信息系统",
+            "zdf": "586",
+            "pjf": "590"
+          },
+          {
+            "zyzbh": "101",
+            "zyzmc": "第101组",
+            "zyzdm": "0100004000101",
+            "lqrs": "2",
+            "nf": "2024",
+            "zgf": "602",
+            "zdmc": "15106",
+            "zymcStr": "信息管理与信息系统",
+            "zdf": "597",
+            "pjf": "599"
+          },
+          {
+            "zyzbh": "102",
+            "zyzmc": "第102组",
+            "zyzdm": "0100004500102",
+            "lqrs": "7",
+            "nf": "2024",
+            "zgf": "594",
+            "zdmc": "18532",
+            "zymcStr": "测控技术与仪器、通信工程、自动化",
+            "zdf": "589",
+            "pjf": "591"
+          }
+        ],
+        "djsdm": "110100000000",
+        "yxnfList": null,
+        "yxmc": "北京信息科技大学",
+        "yxdm": "11232",
+        "djsmc": "市辖区",
+        "sfsyl": "",
+        "yxjbzdm": "1",
+        "yxdh": "1138",
+        "sf211": "0",
+        "jhsxdm": "3",
+        "ssdm": "110000000000"
+      }
+    ],
+    "total": 1,
+    "size": 10,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751175539992
+}

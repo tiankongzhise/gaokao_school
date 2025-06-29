@@ -1,0 +1,88 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "17606-18020",
+        "zymc": "人工智能",
+        "pjf": "593"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "18463-18878",
+        "zymc": "网络空间安全",
+        "pjf": "591"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "19300-19725",
+        "zymc": "物理学",
+        "pjf": "589"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "16788-17199",
+        "zymc": "计算机科学与技术",
+        "pjf": "595"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "17200-17605",
+        "zymc": "软件工程",
+        "pjf": "594"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "18021-18462",
+        "zymc": "数字媒体技术",
+        "pjf": "592"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "21095-21577",
+        "zymc": "金融学",
+        "pjf": "585"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "20666-21094",
+        "zymc": "数学与应用数学",
+        "pjf": "586"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "15150-15507",
+        "zymc": "会计学",
+        "pjf": "599"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "21578-22037",
+        "zymc": "国际商务",
+        "pjf": "584"
+      }
+    ],
+    "total": 10,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751181015365
+}

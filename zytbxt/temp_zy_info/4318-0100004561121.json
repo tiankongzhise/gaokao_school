@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "合成生物学",
+        "sfks": false,
+        "jhrs": 34,
+        "yxdm": "10549",
+        "zydm": "083003",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0100004561121",
+        "zyxh": null,
+        "bxdd": "湖南省常德市",
+        "bz": null,
+        "zydh": "057",
+        "yxdh": "4318",
+        "wyyzdm": "不限",
+        "sfbz": "5900",
+        "kskmyq": "首选物理，再选限化学和生物"
+      }
+    ],
+    "total": 1,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751166556698
+}

@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "43487-44249",
+        "zymc": "预防医学",
+        "pjf": "546"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "44250-44998",
+        "zymc": "食品卫生与营养学",
+        "pjf": "545"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "48115-48925",
+        "zymc": "医学技术类",
+        "pjf": "540"
+      }
+    ],
+    "total": 3,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751181992999
+}

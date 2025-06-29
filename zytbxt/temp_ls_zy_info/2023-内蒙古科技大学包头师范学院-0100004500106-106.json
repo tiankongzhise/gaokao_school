@@ -1,0 +1,32 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "130502-131544",
+        "zymc": "化学(师范)",
+        "pjf": "450"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "133740-134834",
+        "zymc": "应用化学",
+        "pjf": "447"
+      }
+    ],
+    "total": 2,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751179874929
+}

@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "智能材料与结构(中外合作办学)",
+        "sfks": false,
+        "jhrs": 5,
+        "yxdm": "19213",
+        "zydm": "080417H",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "1100004500203",
+        "zyxh": null,
+        "bxdd": "山东省威海市",
+        "bz": "该专业是与韩国汉阳大学合作办学，学生入学后不得转专业，“4+0“培养，中英文授课。",
+        "zydh": "007",
+        "yxdh": "3704",
+        "wyyzdm": "不限",
+        "sfbz": "85000",
+        "kskmyq": "首选物理，再选限化学"
+      }
+    ],
+    "total": 1,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751164799073
+}

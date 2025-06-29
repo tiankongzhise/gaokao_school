@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "园林",
+        "sfks": false,
+        "jhrs": 2,
+        "yxdm": "10589",
+        "zydm": "090502",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0100004561122",
+        "zyxh": null,
+        "bxdd": "海南省海口市",
+        "bz": "一年级在海甸校区，二、三、四年级在儋州校区",
+        "zydh": "072",
+        "yxdh": "4601",
+        "wyyzdm": "不限",
+        "sfbz": "4600",
+        "kskmyq": "首选物理，再选限化学和生物"
+      }
+    ],
+    "total": 1,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751166238679
+}

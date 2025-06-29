@@ -1,0 +1,67 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "169352-170659",
+        "zymc": "机械电子工程",
+        "pjf": "437"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "170660-171934",
+        "zymc": "自动化",
+        "pjf": "436"
+      },
+      {
+        "zydm": null,
+        "lqrs": "7",
+        "pjmc": "170660-171934",
+        "zymc": "计算机科学与技术",
+        "pjf": "436"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "178496-179771",
+        "zymc": "数字媒体技术",
+        "pjf": "430"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "174571-175864",
+        "zymc": "通信工程",
+        "pjf": "433"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "175865-177190",
+        "zymc": "软件工程",
+        "pjf": "432"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "178496-179771",
+        "zymc": "物联网工程",
+        "pjf": "430"
+      }
+    ],
+    "total": 7,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180217066
+}

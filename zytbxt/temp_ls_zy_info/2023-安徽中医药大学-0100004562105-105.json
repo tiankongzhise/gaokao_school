@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "55161-55963",
+        "zymc": "中医骨伤科学",
+        "pjf": "530"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "50695-51442",
+        "zymc": "中医学",
+        "pjf": "536"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "59071-59849",
+        "zymc": "针灸推拿学",
+        "pjf": "525"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "52880-53632",
+        "zymc": "中西医临床医学",
+        "pjf": "533"
+      }
+    ],
+    "total": 4,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751182374523
+}

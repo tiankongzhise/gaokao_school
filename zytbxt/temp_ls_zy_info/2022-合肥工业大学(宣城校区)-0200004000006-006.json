@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "21247-21735",
+        "zymc": "机械工程",
+        "pjf": "567"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "19694-20193",
+        "zymc": "电气工程与智能控制",
+        "pjf": "570"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "21736-22238",
+        "zymc": "城市地下空间工程",
+        "pjf": "566"
+      }
+    ],
+    "total": 3,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751181091299
+}

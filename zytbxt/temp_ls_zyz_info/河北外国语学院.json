@@ -1,0 +1,71 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "sf985": "0",
+        "ssmc": "河北省",
+        "yxNfZyzVoList": [
+          {
+            "zyzbh": "002",
+            "zyzmc": "第2组",
+            "zyzdm": "0100004000002",
+            "lqrs": "5",
+            "nf": "2022",
+            "zgf": "453",
+            "zdmc": "144760",
+            "zymcStr": "英语、俄语、德语、西班牙语",
+            "zdf": "431",
+            "pjf": "440"
+          },
+          {
+            "zyzbh": "102",
+            "zyzmc": "第102组",
+            "zyzdm": "0100004000102",
+            "lqrs": "5",
+            "nf": "2023",
+            "zgf": "474",
+            "zdmc": "158270",
+            "zymcStr": "英语、俄语、德语、西班牙语",
+            "zdf": "425",
+            "pjf": "436"
+          },
+          {
+            "zyzbh": "102",
+            "zyzmc": "第102组",
+            "zyzdm": "0100004000102",
+            "lqrs": "5",
+            "nf": "2024",
+            "zgf": "447",
+            "zdmc": "159824",
+            "zymcStr": "英语、俄语、德语、西班牙语",
+            "zdf": "445",
+            "pjf": "445"
+          }
+        ],
+        "djsdm": "130100000000",
+        "yxnfList": null,
+        "yxmc": "河北外国语学院",
+        "yxdm": "13402",
+        "djsmc": "石家庄市",
+        "sfsyl": "",
+        "yxjbzdm": "2",
+        "yxdh": "1389",
+        "sf211": "0",
+        "jhsxdm": "3",
+        "ssdm": "130000000000"
+      }
+    ],
+    "total": 1,
+    "size": 10,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751175825568
+}

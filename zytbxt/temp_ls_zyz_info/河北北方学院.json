@@ -1,0 +1,95 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "sf985": "0",
+        "ssmc": "河北省",
+        "yxNfZyzVoList": [
+          {
+            "zyzbh": "001",
+            "zyzmc": "第1组",
+            "zyzdm": "0100004500001",
+            "lqrs": "3",
+            "nf": "2022",
+            "zgf": "487",
+            "zdmc": "88276",
+            "zymcStr": "医学检验技术",
+            "zdf": "483",
+            "pjf": "485"
+          },
+          {
+            "zyzbh": "002",
+            "zyzmc": "第2组",
+            "zyzdm": "0100004562002",
+            "lqrs": "5",
+            "nf": "2022",
+            "zgf": "529",
+            "zdmc": "55507",
+            "zymcStr": "临床医学、医学影像学",
+            "zdf": "517",
+            "pjf": "523"
+          },
+          {
+            "zyzbh": "101",
+            "zyzmc": "第101组",
+            "zyzdm": "0100004500101",
+            "lqrs": "3",
+            "nf": "2023",
+            "zgf": "501",
+            "zdmc": "97803",
+            "zymcStr": "医学检验技术",
+            "zdf": "482",
+            "pjf": "489"
+          },
+          {
+            "zyzbh": "102",
+            "zyzmc": "第102组",
+            "zyzdm": "0100004562102",
+            "lqrs": "7",
+            "nf": "2023",
+            "zgf": "530",
+            "zdmc": "64103",
+            "zymcStr": "临床医学、医学影像学",
+            "zdf": "519",
+            "pjf": "525"
+          },
+          {
+            "zyzbh": "101",
+            "zyzmc": "第101组",
+            "zyzdm": "0100004500101",
+            "lqrs": "10",
+            "nf": "2024",
+            "zgf": "493",
+            "zdmc": "121807",
+            "zymcStr": "临床医学、医学影像学、医学检验技术",
+            "zdf": "473",
+            "pjf": "482"
+          }
+        ],
+        "djsdm": "130700000000",
+        "yxnfList": null,
+        "yxmc": "河北北方学院",
+        "yxdm": "10092",
+        "djsmc": "张家口市",
+        "sfsyl": "",
+        "yxjbzdm": "1",
+        "yxdh": "1321",
+        "sf211": "0",
+        "jhsxdm": "3",
+        "ssdm": "130000000000"
+      }
+    ],
+    "total": 1,
+    "size": 10,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751175608565
+}

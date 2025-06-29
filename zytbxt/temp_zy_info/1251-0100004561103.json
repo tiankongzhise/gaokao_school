@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "临床医学",
+        "sfks": false,
+        "jhrs": 3,
+        "yxdm": "13661",
+        "zydm": "100201",
+        "bxddbb": true,
+        "xzdm": "五年",
+        "zyzdm": "0100004561103",
+        "zyxh": null,
+        "bxdd": "天津市市辖区",
+        "bz": null,
+        "zydh": "003",
+        "yxdh": "1251",
+        "wyyzdm": "不限",
+        "sfbz": "20000",
+        "kskmyq": "首选物理，再选限化学和生物"
+      }
+    ],
+    "total": 1,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751165022601
+}

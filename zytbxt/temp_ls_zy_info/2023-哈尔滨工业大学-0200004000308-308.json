@@ -1,0 +1,60 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "5296-5496",
+        "zymc": "建筑环境与能源应用工程",
+        "pjf": "631"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "3744-3940",
+        "zymc": "工科试验班(先进材料与智能制造类)",
+        "pjf": "639"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "5121-5295",
+        "zymc": "工科试验班(新材料化工类)",
+        "pjf": "632"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "5724-5964",
+        "zymc": "工科试验班(智能交通类)",
+        "pjf": "629"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "6674-6922",
+        "zymc": "工科试验班(智能土木类)",
+        "pjf": "625"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "6674-6922",
+        "zymc": "工科试验班(生态环境类)",
+        "pjf": "625"
+      }
+    ],
+    "total": 6,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751181479247
+}

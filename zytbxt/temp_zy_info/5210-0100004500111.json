@@ -1,0 +1,56 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "物理学(师范)",
+        "sfks": false,
+        "jhrs": 2,
+        "yxdm": "10664",
+        "zydm": "070201",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0100004500111",
+        "zyxh": null,
+        "bxdd": "贵州省遵义市",
+        "bz": null,
+        "zydh": "013",
+        "yxdh": "5210",
+        "wyyzdm": "不限",
+        "sfbz": "4200",
+        "kskmyq": "首选物理，再选限化学"
+      },
+      {
+        "skkmyq": "不限",
+        "zymc": "化学(师范)",
+        "sfks": false,
+        "jhrs": 2,
+        "yxdm": "10664",
+        "zydm": "070301",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0100004500111",
+        "zyxh": null,
+        "bxdd": "贵州省遵义市",
+        "bz": "色弱、色盲、单色无法识别者限报",
+        "zydh": "014",
+        "yxdh": "5210",
+        "wyyzdm": "不限",
+        "sfbz": "4200",
+        "kskmyq": "首选物理，再选限化学"
+      }
+    ],
+    "total": 2,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751167349559
+}

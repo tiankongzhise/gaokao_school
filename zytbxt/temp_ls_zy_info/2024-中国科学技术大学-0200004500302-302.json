@@ -1,0 +1,67 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "1323-1411",
+        "zymc": "经济管理试验班(数量金融与智能决策创新班)",
+        "pjf": "659"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "1572-1659",
+        "zymc": "化学类",
+        "pjf": "656"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "1751-1848",
+        "zymc": "行星科学",
+        "pjf": "654"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "1088-1144",
+        "zymc": "生物科学类",
+        "pjf": "662"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "1007-1087",
+        "zymc": "材料类",
+        "pjf": "663"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "1660-1750",
+        "zymc": "核工程类",
+        "pjf": "655"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "1412-1494",
+        "zymc": "环境科学与工程类",
+        "pjf": "658"
+      }
+    ],
+    "total": 7,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751179373624
+}

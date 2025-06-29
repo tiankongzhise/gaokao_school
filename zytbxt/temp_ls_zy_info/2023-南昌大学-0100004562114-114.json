@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "8",
+        "pjmc": "21095-21577",
+        "zymc": "水产养殖学",
+        "pjf": "585"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "19300-19725",
+        "zymc": "生物科学类",
+        "pjf": "589"
+      },
+      {
+        "zydm": null,
+        "lqrs": "7",
+        "pjmc": "21095-21577",
+        "zymc": "生态学",
+        "pjf": "585"
+      },
+      {
+        "zydm": null,
+        "lqrs": "10",
+        "pjmc": "18463-18878",
+        "zymc": "食品科学与工程类",
+        "pjf": "591"
+      }
+    ],
+    "total": 4,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180881964
+}

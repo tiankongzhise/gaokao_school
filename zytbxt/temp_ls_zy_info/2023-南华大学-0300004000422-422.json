@@ -1,0 +1,95 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "10",
+        "pjmc": "63139-64002",
+        "zymc": "外国语言文学类",
+        "pjf": "520"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "61445-62273",
+        "zymc": "经济学",
+        "pjf": "522"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "63139-64002",
+        "zymc": "国际经济与贸易",
+        "pjf": "520"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "46315-46990",
+        "zymc": "法学",
+        "pjf": "542"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "69918-70811",
+        "zymc": "工商管理",
+        "pjf": "512"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "53633-54427",
+        "zymc": "会计学",
+        "pjf": "532"
+      },
+      {
+        "zydm": null,
+        "lqrs": "14",
+        "pjmc": "67418-68256",
+        "zymc": "物流工程",
+        "pjf": "515"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "66536-67417",
+        "zymc": "电子商务",
+        "pjf": "516"
+      },
+      {
+        "zydm": null,
+        "lqrs": "10",
+        "pjmc": "64861-65709",
+        "zymc": "建筑类",
+        "pjf": "518"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "67418-68256",
+        "zymc": "风景园林",
+        "pjf": "515"
+      },
+      {
+        "zydm": null,
+        "lqrs": "11",
+        "pjmc": "63139-64002",
+        "zymc": "护理学",
+        "pjf": "520"
+      }
+    ],
+    "total": 11,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180782449
+}

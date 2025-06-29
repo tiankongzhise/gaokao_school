@@ -1,0 +1,71 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "sf985": "0",
+        "ssmc": "北京市",
+        "yxNfZyzVoList": [
+          {
+            "zyzbh": "002",
+            "zyzmc": "第2组",
+            "zyzdm": "0100004000002",
+            "lqrs": "6",
+            "nf": "2022",
+            "zgf": "407",
+            "zdmc": null,
+            "zymcStr": "康复辅助器具技术(足踝矫形技术)、现代殡葬技术与管理、殡葬设备维护技术",
+            "zdf": "370",
+            "pjf": "388"
+          },
+          {
+            "zyzbh": "102",
+            "zyzmc": "第102组",
+            "zyzdm": "0100004000102",
+            "lqrs": "11",
+            "nf": "2023",
+            "zgf": "413",
+            "zdmc": null,
+            "zymcStr": "婚庆服务与管理(主播与主持)、康复辅助器具技术(足踝矫形技术)、影视多媒体技术、人力资源管理",
+            "zdf": "389",
+            "pjf": "402"
+          },
+          {
+            "zyzbh": "102",
+            "zyzmc": "第102组",
+            "zyzdm": "0100004000102",
+            "lqrs": "10",
+            "nf": "2024",
+            "zgf": "516",
+            "zdmc": "106327",
+            "zymcStr": "康复辅助器具技术、现代殡葬管理",
+            "zdf": "485",
+            "pjf": "497"
+          }
+        ],
+        "djsdm": "110100000000",
+        "yxnfList": null,
+        "yxmc": "民政职业大学",
+        "yxdm": "14139",
+        "djsmc": "市辖区",
+        "sfsyl": "",
+        "yxjbzdm": "1",
+        "yxdh": "1199",
+        "sf211": "0",
+        "jhsxdm": "1",
+        "ssdm": "110000000000"
+      }
+    ],
+    "total": 1,
+    "size": 10,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751175564551
+}

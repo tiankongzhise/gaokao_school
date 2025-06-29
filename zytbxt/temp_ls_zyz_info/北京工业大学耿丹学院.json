@@ -1,0 +1,59 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "sf985": "0",
+        "ssmc": "北京市",
+        "yxNfZyzVoList": [
+          {
+            "zyzbh": "002",
+            "zyzmc": "第2组",
+            "zyzdm": "0100004000002",
+            "lqrs": "2",
+            "nf": "2022",
+            "zgf": "433",
+            "zdmc": "143361",
+            "zymcStr": "金融工程、国际经济与贸易、汉语国际教育、电子信息类、计算机类、财务管理",
+            "zdf": "432",
+            "pjf": "432"
+          },
+          {
+            "zyzbh": "102",
+            "zyzmc": "第102组",
+            "zyzdm": "0100004000102",
+            "lqrs": "1",
+            "nf": "2023",
+            "zgf": "443",
+            "zdmc": "138353",
+            "zymcStr": "应用心理学、电子信息类、计算机类",
+            "zdf": "443",
+            "pjf": "443"
+          }
+        ],
+        "djsdm": "110100000000",
+        "yxnfList": null,
+        "yxmc": "北京工业大学耿丹学院",
+        "yxdm": "13904",
+        "djsmc": "市辖区",
+        "sfsyl": "",
+        "yxjbzdm": "5",
+        "yxdh": "1161",
+        "sf211": "0",
+        "jhsxdm": "3",
+        "ssdm": "110000000000"
+      }
+    ],
+    "total": 1,
+    "size": 10,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751175554313
+}

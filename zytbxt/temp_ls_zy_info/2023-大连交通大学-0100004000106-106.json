@@ -1,0 +1,32 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "44189-44902",
+        "zymc": "会计学",
+        "pjf": "545"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "49965-50694",
+        "zymc": "物流管理",
+        "pjf": "537"
+      }
+    ],
+    "total": 2,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751181790798
+}

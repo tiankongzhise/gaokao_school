@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "园林",
+        "sfks": false,
+        "jhrs": 3,
+        "yxdm": "10076",
+        "zydm": "090502",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0100004600110",
+        "zyxh": null,
+        "bxdd": "河北省邯郸市",
+        "bz": "轻度色觉异常(俗称色弱)及以上者不予录取",
+        "zydh": "056",
+        "yxdh": "1312",
+        "wyyzdm": "不限",
+        "sfbz": "4900",
+        "kskmyq": "首选物理，再选限生物"
+      }
+    ],
+    "total": 1,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751166010227
+}

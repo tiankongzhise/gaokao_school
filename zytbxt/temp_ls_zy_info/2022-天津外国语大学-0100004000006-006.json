@@ -1,0 +1,32 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "46463-47221",
+        "zymc": "波斯语",
+        "pjf": "528"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "41897-42606",
+        "zymc": "泰语",
+        "pjf": "534"
+      }
+    ],
+    "total": 2,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751182091946
+}

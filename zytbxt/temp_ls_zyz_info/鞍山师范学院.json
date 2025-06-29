@@ -1,0 +1,71 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "sf985": "0",
+        "ssmc": "辽宁省",
+        "yxNfZyzVoList": [
+          {
+            "zyzbh": "002",
+            "zyzmc": "第2组",
+            "zyzdm": "0100004000002",
+            "lqrs": "9",
+            "nf": "2022",
+            "zgf": "471",
+            "zdmc": "115426",
+            "zymcStr": "健康服务与管理、汉语言文学(师范)、英语(师范)",
+            "zdf": "457",
+            "pjf": "463"
+          },
+          {
+            "zyzbh": "102",
+            "zyzmc": "第102组",
+            "zyzdm": "0100004000102",
+            "lqrs": "9",
+            "nf": "2023",
+            "zgf": "470",
+            "zdmc": "130479",
+            "zymcStr": "汉语言文学(师范)、英语(师范)、健康服务与管理",
+            "zdf": "451",
+            "pjf": "455"
+          },
+          {
+            "zyzbh": "106",
+            "zyzmc": "第106组",
+            "zyzdm": "0100004000106",
+            "lqrs": "9",
+            "nf": "2024",
+            "zgf": "488",
+            "zdmc": "124170",
+            "zymcStr": "汉语言文学(师范)、英语(师范)、健康服务与管理",
+            "zdf": "471",
+            "pjf": "475"
+          }
+        ],
+        "djsdm": "210300000000",
+        "yxnfList": null,
+        "yxmc": "鞍山师范学院",
+        "yxdm": "10169",
+        "djsmc": "鞍山市",
+        "sfsyl": "",
+        "yxjbzdm": "1",
+        "yxdh": "2112",
+        "sf211": "0",
+        "jhsxdm": "3",
+        "ssdm": "210000000000"
+      }
+    ],
+    "total": 1,
+    "size": 10,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751175879021
+}

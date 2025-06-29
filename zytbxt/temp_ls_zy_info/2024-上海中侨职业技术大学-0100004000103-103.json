@@ -1,0 +1,95 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "8",
+        "pjmc": "186224-187459",
+        "zymc": "建筑工程",
+        "pjf": "424"
+      },
+      {
+        "zydm": null,
+        "lqrs": "9",
+        "pjmc": "184957-186223",
+        "zymc": "工程造价",
+        "pjf": "425"
+      },
+      {
+        "zydm": null,
+        "lqrs": "9",
+        "pjmc": "186224-187459",
+        "zymc": "智能制造工程技术",
+        "pjf": "424"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "177191-178495",
+        "zymc": "机器人技术",
+        "pjf": "431"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "182333-183616",
+        "zymc": "合成生物技术",
+        "pjf": "427"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "182333-183616",
+        "zymc": "食品质量与安全",
+        "pjf": "427"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "183617-184956",
+        "zymc": "食品营养与健康",
+        "pjf": "426"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "186224-187459",
+        "zymc": "物联网工程技术",
+        "pjf": "424"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "183617-184956",
+        "zymc": "数字媒体技术",
+        "pjf": "426"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "177191-178495",
+        "zymc": "大数据工程技术",
+        "pjf": "431"
+      },
+      {
+        "zydm": null,
+        "lqrs": "13",
+        "pjmc": "183617-184956",
+        "zymc": "人工智能工程技术",
+        "pjf": "426"
+      }
+    ],
+    "total": 11,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751178516480
+}

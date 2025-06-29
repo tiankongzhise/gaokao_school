@@ -1,0 +1,56 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "应用统计学",
+        "sfks": false,
+        "jhrs": 2,
+        "yxdm": "10037",
+        "zydm": "071202",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0100004500104",
+        "zyxh": null,
+        "bxdd": "北京市市辖区",
+        "bz": null,
+        "zydh": "006",
+        "yxdh": "1160",
+        "wyyzdm": "不限",
+        "sfbz": "4600",
+        "kskmyq": "首选物理，再选限化学"
+      },
+      {
+        "skkmyq": "不限",
+        "zymc": "人工智能",
+        "sfks": false,
+        "jhrs": 1,
+        "yxdm": "10037",
+        "zydm": "080717",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0100004500104",
+        "zyxh": null,
+        "bxdd": "北京市市辖区",
+        "bz": null,
+        "zydh": "007",
+        "yxdh": "1160",
+        "wyyzdm": "不限",
+        "sfbz": "4600",
+        "kskmyq": "首选物理，再选限化学"
+      }
+    ],
+    "total": 2,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751164303641
+}

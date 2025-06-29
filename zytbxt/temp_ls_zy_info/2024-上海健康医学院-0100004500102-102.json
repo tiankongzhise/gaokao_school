@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "76266-77261",
+        "zymc": "数据科学与大数据技术",
+        "pjf": "510"
+      },
+      {
+        "zydm": null,
+        "lqrs": "10",
+        "pjmc": "87225-88344",
+        "zymc": "康复工程",
+        "pjf": "500"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "69943-70965",
+        "zymc": "生物医学工程",
+        "pjf": "516"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "77262-78340",
+        "zymc": "临床工程技术",
+        "pjf": "509"
+      }
+    ],
+    "total": 4,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751178552218
+}

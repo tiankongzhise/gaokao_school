@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "154625-155947",
+        "zymc": "电子商务",
+        "pjf": "448"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "159947-161251",
+        "zymc": "物流工程",
+        "pjf": "444"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "155948-157289",
+        "zymc": "财务管理",
+        "pjf": "447"
+      }
+    ],
+    "total": 3,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180216017
+}

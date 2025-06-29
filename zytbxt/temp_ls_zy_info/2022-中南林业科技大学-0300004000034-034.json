@@ -1,0 +1,53 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "7",
+        "pjmc": "67779-68704",
+        "zymc": "园林",
+        "pjf": "503"
+      },
+      {
+        "zydm": null,
+        "lqrs": "8",
+        "pjmc": "52817-53651",
+        "zymc": "工业设计",
+        "pjf": "520"
+      },
+      {
+        "zydm": null,
+        "lqrs": "9",
+        "pjmc": "68705-89062",
+        "zymc": "家具设计与工程",
+        "pjf": "502"
+      },
+      {
+        "zydm": null,
+        "lqrs": "10",
+        "pjmc": "61460-62327",
+        "zymc": "建筑类",
+        "pjf": "510"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "57831-58727",
+        "zymc": "风景园林",
+        "pjf": "514"
+      }
+    ],
+    "total": 5,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751178983533
+}

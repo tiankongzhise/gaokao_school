@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "4246-4436",
+        "zymc": "法学类",
+        "pjf": "635"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "4786-4992",
+        "zymc": "建筑类",
+        "pjf": "632"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "5418-5637",
+        "zymc": "管理科学与工程类",
+        "pjf": "629"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "4993-5214",
+        "zymc": "工商管理类",
+        "pjf": "631"
+      }
+    ],
+    "total": 4,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751181021663
+}

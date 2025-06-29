@@ -1,0 +1,56 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "国际经济与贸易",
+        "sfks": false,
+        "jhrs": 2,
+        "yxdm": "13655",
+        "zydm": "020401",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0100004000104",
+        "zyxh": null,
+        "bxdd": "江苏省南京市",
+        "bz": null,
+        "zydh": "005",
+        "yxdh": "3259",
+        "wyyzdm": "不限",
+        "sfbz": "18000",
+        "kskmyq": "首选物理，再选不限"
+      },
+      {
+        "skkmyq": "不限",
+        "zymc": "工程造价",
+        "sfks": false,
+        "jhrs": 2,
+        "yxdm": "13655",
+        "zydm": "120105",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0100004000104",
+        "zyxh": null,
+        "bxdd": "江苏省南京市",
+        "bz": null,
+        "zydh": "006",
+        "yxdh": "3259",
+        "wyyzdm": "不限",
+        "sfbz": "20000",
+        "kskmyq": "首选物理，再选不限"
+      }
+    ],
+    "total": 2,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751164525072
+}

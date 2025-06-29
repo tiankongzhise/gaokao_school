@@ -1,0 +1,56 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "金融学(中外合作办学)",
+        "sfks": false,
+        "jhrs": 1,
+        "yxdm": "10125",
+        "zydm": "020301H",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "1100004000208",
+        "zyxh": null,
+        "bxdd": "山西省太原市",
+        "bz": null,
+        "zydh": "036",
+        "yxdh": "1408",
+        "wyyzdm": "不限",
+        "sfbz": "40000",
+        "kskmyq": "首选物理，再选不限"
+      },
+      {
+        "skkmyq": "不限",
+        "zymc": "会计学(中外合作办学)",
+        "sfks": false,
+        "jhrs": 1,
+        "yxdm": "10125",
+        "zydm": "120203H",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "1100004000208",
+        "zyxh": null,
+        "bxdd": "山西省太原市",
+        "bz": null,
+        "zydh": "037",
+        "yxdh": "1408",
+        "wyyzdm": "不限",
+        "sfbz": "40000",
+        "kskmyq": "首选物理，再选不限"
+      }
+    ],
+    "total": 2,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751165268516
+}

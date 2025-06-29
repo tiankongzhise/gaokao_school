@@ -1,0 +1,81 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "14371-14748",
+        "zymc": "会计学(大数据会计)",
+        "pjf": "601"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "14371-14748",
+        "zymc": "化学工程与工艺",
+        "pjf": "601"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "14371-14748",
+        "zymc": "过程装备与控制工程",
+        "pjf": "601"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "13228-13603",
+        "zymc": "智能制造工程",
+        "pjf": "604"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "11793-12169",
+        "zymc": "电气工程及其自动化",
+        "pjf": "608"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "10061-10424",
+        "zymc": "计算机科学与技术",
+        "pjf": "613"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "14749-15149",
+        "zymc": "材料化学(绿色与能源催化方向)",
+        "pjf": "600"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "12861-13227",
+        "zymc": "无机非金属材料工程",
+        "pjf": "605"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "13228-13603",
+        "zymc": "机械设计制造及其自动化",
+        "pjf": "604"
+      }
+    ],
+    "total": 9,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180368618
+}

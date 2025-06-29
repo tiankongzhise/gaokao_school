@@ -1,0 +1,59 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "sf985": "0",
+        "ssmc": "山东省",
+        "yxNfZyzVoList": [
+          {
+            "zyzbh": "102",
+            "zyzmc": "第102组",
+            "zyzdm": "0100004500102",
+            "lqrs": "6",
+            "nf": "2023",
+            "zgf": "520",
+            "zdmc": "107898",
+            "zymcStr": "新能源材料与器件、材料科学与工程",
+            "zdf": "472",
+            "pjf": "487"
+          },
+          {
+            "zyzbh": "107",
+            "zyzmc": "第107组",
+            "zyzdm": "0100004500107",
+            "lqrs": "8",
+            "nf": "2024",
+            "zgf": "504",
+            "zdmc": "98026",
+            "zymcStr": "新能源材料与器件、材料科学与工程",
+            "zdf": "491",
+            "pjf": "496"
+          }
+        ],
+        "djsdm": "371500000000",
+        "yxnfList": null,
+        "yxmc": "聊城大学",
+        "yxdm": "10447",
+        "djsmc": "聊城市",
+        "sfsyl": "",
+        "yxjbzdm": "1",
+        "yxdh": "3735",
+        "sf211": "0",
+        "jhsxdm": "3",
+        "ssdm": "370000000000"
+      }
+    ],
+    "total": 1,
+    "size": 10,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751176518467
+}

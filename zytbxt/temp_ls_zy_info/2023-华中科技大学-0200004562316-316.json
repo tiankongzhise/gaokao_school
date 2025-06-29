@@ -1,0 +1,32 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "3416-3595",
+        "zymc": "生物医学工程类(国家生命科学与技术人才试验班)",
+        "pjf": "641"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "5965-6188",
+        "zymc": "预防医学",
+        "pjf": "628"
+      }
+    ],
+    "total": 2,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180435812
+}

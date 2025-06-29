@@ -1,0 +1,56 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "生物技术(中外合作办学)",
+        "sfks": false,
+        "jhrs": 5,
+        "yxdm": "10159",
+        "zydm": "071002H",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "1100004500203",
+        "zyxh": null,
+        "bxdd": "辽宁省沈阳市",
+        "bz": "不招收色盲色弱考生，外语成绩不低于105分",
+        "zydh": "011",
+        "yxdh": "2111",
+        "wyyzdm": "不限",
+        "sfbz": "69000",
+        "kskmyq": "首选物理，再选限化学"
+      },
+      {
+        "skkmyq": "不限",
+        "zymc": "药物制剂(中外合作办学)",
+        "sfks": false,
+        "jhrs": 6,
+        "yxdm": "10159",
+        "zydm": "100702H",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "1100004500203",
+        "zyxh": null,
+        "bxdd": "辽宁省沈阳市",
+        "bz": "不招收色盲色弱考生，外语成绩不低于105分",
+        "zydh": "012",
+        "yxdh": "2111",
+        "wyyzdm": "不限",
+        "sfbz": "69000",
+        "kskmyq": "首选物理，再选限化学"
+      }
+    ],
+    "total": 2,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751163970989
+}

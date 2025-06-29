@@ -1,0 +1,71 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "sf985": "0",
+        "ssmc": "湖北省",
+        "yxNfZyzVoList": [
+          {
+            "zyzbh": "002",
+            "zyzmc": "第2组",
+            "zyzdm": "0100004000002",
+            "lqrs": "2",
+            "nf": "2022",
+            "zgf": "456",
+            "zdmc": "121561",
+            "zymcStr": "机械设计制造及其自动化、土木工程",
+            "zdf": "452",
+            "pjf": "454"
+          },
+          {
+            "zyzbh": "102",
+            "zyzmc": "第102组",
+            "zyzdm": "0100004000102",
+            "lqrs": "2",
+            "nf": "2023",
+            "zgf": "445",
+            "zdmc": "138018",
+            "zymcStr": "土木工程(道路桥梁、智慧建造方向)、机械设计制造及其自动化",
+            "zdf": "443",
+            "pjf": "444"
+          },
+          {
+            "zyzbh": "102",
+            "zyzmc": "第102组",
+            "zyzdm": "0100004500102",
+            "lqrs": "3",
+            "nf": "2024",
+            "zgf": "483",
+            "zdmc": "159289",
+            "zymcStr": "机械设计制造及其自动化、土木工程",
+            "zdf": "445",
+            "pjf": "458"
+          }
+        ],
+        "djsdm": "420600000000",
+        "yxnfList": null,
+        "yxmc": "湖北文理学院理工学院",
+        "yxdm": "13257",
+        "djsmc": "襄阳市",
+        "sfsyl": "",
+        "yxjbzdm": "5",
+        "yxdh": "4211",
+        "sf211": "0",
+        "jhsxdm": "3",
+        "ssdm": "420000000000"
+      }
+    ],
+    "total": 1,
+    "size": 10,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751176587129
+}

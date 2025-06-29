@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "9541-9829",
+        "zymc": "机械类(智能制造与智能装备)",
+        "pjf": "595"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "9830-10140",
+        "zymc": "电气类",
+        "pjf": "594"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "9241-9540",
+        "zymc": "土木类(智慧建造与智能工程)",
+        "pjf": "596"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "9830-10140",
+        "zymc": "环境工程(智慧环境与低碳技术)",
+        "pjf": "594"
+      }
+    ],
+    "total": 4,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751179922131
+}

@@ -1,0 +1,179 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "72036-73068",
+        "zymc": "朝鲜语",
+        "pjf": "514"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "62059-63033",
+        "zymc": "翻译",
+        "pjf": "524"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "65954-66926",
+        "zymc": "俄语",
+        "pjf": "520"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "67973-68980",
+        "zymc": "日语",
+        "pjf": "518"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "58418-59313",
+        "zymc": "英语",
+        "pjf": "528"
+      },
+      {
+        "zydm": null,
+        "lqrs": "8",
+        "pjmc": "58418-59313",
+        "zymc": "数字经济",
+        "pjf": "528"
+      },
+      {
+        "zydm": null,
+        "lqrs": "9",
+        "pjmc": "58418-59313",
+        "zymc": "金融学",
+        "pjf": "528"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "66927-67972",
+        "zymc": "国际经济与贸易",
+        "pjf": "519"
+      },
+      {
+        "zydm": null,
+        "lqrs": "10",
+        "pjmc": "46586-47367",
+        "zymc": "法学",
+        "pjf": "542"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "55698-56573",
+        "zymc": "知识产权",
+        "pjf": "531"
+      },
+      {
+        "zydm": null,
+        "lqrs": "8",
+        "pjmc": "48926-49746",
+        "zymc": "会计学",
+        "pjf": "539"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "65954-66926",
+        "zymc": "人力资源管理",
+        "pjf": "520"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "63990-64971",
+        "zymc": "农林经济管理",
+        "pjf": "522"
+      },
+      {
+        "zydm": null,
+        "lqrs": "8",
+        "pjmc": "63990-64971",
+        "zymc": "供应链管理",
+        "pjf": "522"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "69943-70965",
+        "zymc": "会展经济与管理",
+        "pjf": "516"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "63990-64971",
+        "zymc": "旅游管理类",
+        "pjf": "522"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "62059-63033",
+        "zymc": "市场营销",
+        "pjf": "524"
+      },
+      {
+        "zydm": null,
+        "lqrs": "15",
+        "pjmc": "66927-67972",
+        "zymc": "物流管理",
+        "pjf": "519"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "65954-66926",
+        "zymc": "建筑学",
+        "pjf": "520"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "69943-70965",
+        "zymc": "城乡规划",
+        "pjf": "516"
+      },
+      {
+        "zydm": null,
+        "lqrs": "5",
+        "pjmc": "62059-63033",
+        "zymc": "工程管理",
+        "pjf": "524"
+      },
+      {
+        "zydm": null,
+        "lqrs": "8",
+        "pjmc": "59314-60200",
+        "zymc": "风景园林",
+        "pjf": "527"
+      },
+      {
+        "zydm": null,
+        "lqrs": "15",
+        "pjmc": "67973-68980",
+        "zymc": "物流工程",
+        "pjf": "518"
+      }
+    ],
+    "total": 23,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751179016896
+}

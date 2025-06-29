@@ -1,0 +1,32 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "114297-115562",
+        "zymc": "金融学(CFA方向)",
+        "pjf": "478"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "149241-150579",
+        "zymc": "金融学(双语教学)",
+        "pjf": "452"
+      }
+    ],
+    "total": 2,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751178651129
+}

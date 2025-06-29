@@ -1,0 +1,81 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "28",
+        "pjmc": "42192-42846",
+        "zymc": "数学类",
+        "pjf": "548"
+      },
+      {
+        "zydm": null,
+        "lqrs": "6",
+        "pjmc": "38903-39598",
+        "zymc": "机械设计制造及其自动化",
+        "pjf": "553"
+      },
+      {
+        "zydm": null,
+        "lqrs": "16",
+        "pjmc": "44903-45637",
+        "zymc": "材料类",
+        "pjf": "544"
+      },
+      {
+        "zydm": null,
+        "lqrs": "20",
+        "pjmc": "46315-46990",
+        "zymc": "环境科学与工程类",
+        "pjf": "542"
+      },
+      {
+        "zydm": null,
+        "lqrs": "4",
+        "pjmc": "45638-46314",
+        "zymc": "建筑学",
+        "pjf": "543"
+      },
+      {
+        "zydm": null,
+        "lqrs": "36",
+        "pjmc": "40886-41536",
+        "zymc": "电子信息类",
+        "pjf": "550"
+      },
+      {
+        "zydm": null,
+        "lqrs": "15",
+        "pjmc": "42192-42846",
+        "zymc": "自动化类",
+        "pjf": "548"
+      },
+      {
+        "zydm": null,
+        "lqrs": "35",
+        "pjmc": "35167-35785",
+        "zymc": "计算机类",
+        "pjf": "559"
+      },
+      {
+        "zydm": null,
+        "lqrs": "22",
+        "pjmc": "45638-46314",
+        "zymc": "生物医学工程类",
+        "pjf": "543"
+      }
+    ],
+    "total": 9,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751179042938
+}

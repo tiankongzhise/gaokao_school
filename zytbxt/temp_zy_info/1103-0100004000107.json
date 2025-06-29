@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "法学",
+        "sfks": false,
+        "jhrs": 2,
+        "yxdm": "10002",
+        "zydm": "030101",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0100004000107",
+        "zyxh": null,
+        "bxdd": "北京市市辖区",
+        "bz": "含涉外法治战略人才班；国际交流：含哈佛大学、鲁汶大学、新加坡国立大学等院际交换项目，“亚洲校园+”项目（中日韩三国政府奖学金支持）、中欧欧洲法国际组织后备人才培养项目（国家留基委资助）等。",
+        "zydh": "031",
+        "yxdh": "1103",
+        "wyyzdm": "不限",
+        "sfbz": "5000",
+        "kskmyq": "首选物理，再选不限"
+      }
+    ],
+    "total": 1,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751163947472
+}

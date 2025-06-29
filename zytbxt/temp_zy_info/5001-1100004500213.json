@@ -1,0 +1,56 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "机械设计制造及其自动化(中外合作办学)",
+        "sfks": false,
+        "jhrs": 2,
+        "yxdm": "10611",
+        "zydm": "080202H",
+        "bxddbb": false,
+        "xzdm": "五年",
+        "zyzdm": "1100004500213",
+        "zyxh": null,
+        "bxdd": "虎溪校区",
+        "bz": "“4+1”模式（国内4年+国外1年），前四年学费约7.5万元/年，第五年在美国辛辛那提大学学习期间按美方标准缴纳学费（约3万美元）",
+        "zydh": "031",
+        "yxdh": "5001",
+        "wyyzdm": "不限",
+        "sfbz": "见备注",
+        "kskmyq": "首选物理，再选限化学"
+      },
+      {
+        "skkmyq": "不限",
+        "zymc": "电气工程及其自动化(中外合作办学)",
+        "sfks": false,
+        "jhrs": 2,
+        "yxdm": "10611",
+        "zydm": "080601H",
+        "bxddbb": false,
+        "xzdm": "五年",
+        "zyzdm": "1100004500213",
+        "zyxh": null,
+        "bxdd": "虎溪校区",
+        "bz": "“4+1”模式（国内4年+国外1年），前四年学费约7.5万元/年，第五年在美国辛辛那提大学学习期间按美方标准缴纳学费（约3万美元）",
+        "zydh": "032",
+        "yxdh": "5001",
+        "wyyzdm": "不限",
+        "sfbz": "见备注",
+        "kskmyq": "首选物理，再选限化学"
+      }
+    ],
+    "total": 2,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751167425408
+}

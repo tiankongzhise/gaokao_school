@@ -1,0 +1,60 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "127-145",
+        "zymc": "基础医学(本博连读)",
+        "pjf": "681"
+      },
+      {
+        "zydm": null,
+        "lqrs": "8",
+        "pjmc": "111-126",
+        "zymc": "临床医学(本博连读)",
+        "pjf": "682"
+      },
+      {
+        "zydm": null,
+        "lqrs": "1",
+        "pjmc": "84-95",
+        "zymc": "口腔医学(本博连读)",
+        "pjf": "684"
+      },
+      {
+        "zydm": null,
+        "lqrs": "3",
+        "pjmc": "166-177",
+        "zymc": "药学(本硕连读)",
+        "pjf": "679"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "178-209",
+        "zymc": "临床医学",
+        "pjf": "678"
+      },
+      {
+        "zydm": null,
+        "lqrs": "2",
+        "pjmc": "166-177",
+        "zymc": "口腔医学",
+        "pjf": "679"
+      }
+    ],
+    "total": 6,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751180029208
+}

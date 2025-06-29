@@ -1,0 +1,56 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "预防医学",
+        "sfks": false,
+        "jhrs": 5,
+        "yxdm": "10367",
+        "zydm": "100401",
+        "bxddbb": true,
+        "xzdm": "五年",
+        "zyzdm": "0100004500101",
+        "zyxh": null,
+        "bxdd": "安徽省蚌埠市",
+        "bz": "不招色盲、色弱考生",
+        "zydh": "001",
+        "yxdh": "3426",
+        "wyyzdm": "不限",
+        "sfbz": "5500",
+        "kskmyq": "首选物理，再选限化学"
+      },
+      {
+        "skkmyq": "不限",
+        "zymc": "护理学",
+        "sfks": false,
+        "jhrs": 5,
+        "yxdm": "10367",
+        "zydm": "101101",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0100004500101",
+        "zyxh": null,
+        "bxdd": "安徽省蚌埠市",
+        "bz": "不招色盲、色弱考生",
+        "zydh": "002",
+        "yxdh": "3426",
+        "wyyzdm": "不限",
+        "sfbz": "6050",
+        "kskmyq": "首选物理，再选限化学"
+      }
+    ],
+    "total": 2,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751166922580
+}

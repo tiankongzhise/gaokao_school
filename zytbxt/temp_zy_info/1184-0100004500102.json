@@ -1,0 +1,56 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "skkmyq": "不限",
+        "zymc": "新能源汽车工程",
+        "sfks": false,
+        "jhrs": 3,
+        "yxdm": "12802",
+        "zydm": "080216",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0100004500102",
+        "zyxh": null,
+        "bxdd": "四川省成都市",
+        "bz": null,
+        "zydh": "005",
+        "yxdh": "1184",
+        "wyyzdm": "不限",
+        "sfbz": "26800",
+        "kskmyq": "首选物理，再选限化学"
+      },
+      {
+        "skkmyq": "不限",
+        "zymc": "计算机类",
+        "sfks": false,
+        "jhrs": 3,
+        "yxdm": "12802",
+        "zydm": "0809",
+        "bxddbb": true,
+        "xzdm": "四年",
+        "zyzdm": "0100004500102",
+        "zyxh": null,
+        "bxdd": "四川省成都市",
+        "bz": " 包含专业:计算机科学与技术、数据科学与大数据技术、网络工程、虚拟现实技术。",
+        "zydh": "006",
+        "yxdh": "1184",
+        "wyyzdm": "不限",
+        "sfbz": "26800",
+        "kskmyq": "首选物理，再选限化学"
+      }
+    ],
+    "total": 2,
+    "size": 100,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751164660035
+}

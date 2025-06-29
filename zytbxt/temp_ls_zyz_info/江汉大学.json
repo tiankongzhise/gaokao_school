@@ -1,0 +1,95 @@
+{
+  "success": true,
+  "message": "查询成功！",
+  "exception": null,
+  "messages": null,
+  "code": 200,
+  "result": {
+    "records": [
+      {
+        "sf985": "0",
+        "ssmc": "湖北省",
+        "yxNfZyzVoList": [
+          {
+            "zyzbh": "001",
+            "zyzmc": "第1组",
+            "zyzdm": "0100004500001",
+            "lqrs": "3",
+            "nf": "2022",
+            "zgf": "544",
+            "zdmc": "36293",
+            "zymcStr": "医学影像技术",
+            "zdf": "542",
+            "pjf": "543"
+          },
+          {
+            "zyzbh": "002",
+            "zyzmc": "第2组",
+            "zyzdm": "0100004562002",
+            "lqrs": "9",
+            "nf": "2022",
+            "zgf": "556",
+            "zdmc": "32723",
+            "zymcStr": "临床医学、口腔医学、药学",
+            "zdf": "548",
+            "pjf": "551"
+          },
+          {
+            "zyzbh": "107",
+            "zyzmc": "第107组",
+            "zyzdm": "0100004500107",
+            "lqrs": "6",
+            "nf": "2023",
+            "zgf": "562",
+            "zdmc": "42070",
+            "zymcStr": "医学影像技术",
+            "zdf": "549",
+            "pjf": "554"
+          },
+          {
+            "zyzbh": "108",
+            "zyzmc": "第108组",
+            "zyzdm": "0100004562108",
+            "lqrs": "14",
+            "nf": "2023",
+            "zgf": "579",
+            "zdmc": "29217",
+            "zymcStr": "临床医学、口腔医学、药学",
+            "zdf": "570",
+            "pjf": "573"
+          },
+          {
+            "zyzbh": "107",
+            "zyzmc": "第107组",
+            "zyzdm": "0100004500107",
+            "lqrs": "25",
+            "nf": "2024",
+            "zgf": "583",
+            "zdmc": "64953",
+            "zymcStr": "环境工程(环境健康实验班)、环境工程、临床医学、口腔医学、药学、医学影像技术",
+            "zdf": "522",
+            "pjf": "541"
+          }
+        ],
+        "djsdm": "420100000000",
+        "yxnfList": null,
+        "yxmc": "江汉大学",
+        "yxdm": "11072",
+        "djsmc": "武汉市",
+        "sfsyl": "",
+        "yxjbzdm": "1",
+        "yxdh": "4252",
+        "sf211": "0",
+        "jhsxdm": "3",
+        "ssdm": "420000000000"
+      }
+    ],
+    "total": 1,
+    "size": 10,
+    "current": 1,
+    "orders": [],
+    "searchCount": true,
+    "pages": 1
+  },
+  "timestamp": 1751176617905
+}
